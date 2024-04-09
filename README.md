@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 09 2024 18:13:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 09 2024 19:08:39 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
+1. [马斯克称中国车企最具竞争力](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%9C%80%E5%85%B7%E7%AB%9E%E4%BA%89%E5%8A%9B)
 1. [导师最有水平的一句话](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E6%9C%80%E6%9C%89%E6%B0%B4%E5%B9%B3%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D)
 1. [有哪些关于五常的段子](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B3%E4%BA%8E%E4%BA%94%E5%B8%B8%E7%9A%84%E6%AE%B5%E5%AD%90)
 1. [为什么我对黑人没好感](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%AF%B9%E9%BB%91%E4%BA%BA%E6%B2%A1%E5%A5%BD%E6%84%9F)
