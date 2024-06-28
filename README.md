@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 28 2024 15:11:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 28 2024 16:13:48 GMT+0800 (China Standard Time) -->
 
 1. [国际禁毒日](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E7%A6%81%E6%AF%92%E6%97%A5)
+1. [安徽高考分数线](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [度华年](https://www.zhihu.com/search?q=%E5%BA%A6%E5%8D%8E%E5%B9%B4)
 1. [歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [四川绵阳一理科考生高考 710 分](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E4%B8%80%E7%90%86%E7%A7%91%E8%80%83%E7%94%9F%E9%AB%98%E8%80%83%20710%20%E5%88%86)
