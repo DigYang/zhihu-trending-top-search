@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 25 2024 14:16:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 25 2024 15:12:07 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
 1. [种地吧](https://www.zhihu.com/search?q=%E7%A7%8D%E5%9C%B0%E5%90%A7)
