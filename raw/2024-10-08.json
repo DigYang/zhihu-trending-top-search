@@ -1,4 +1,5 @@
 [
+  { "query": "A股", "display_query": "A股" },
   { "query": "我国制造业企业总量突破600万家", "display_query": "我国制造业企业总量突破600万家" },
   { "query": "孙颖莎晋级中国大满贯女单半决赛", "display_query": "孙颖莎晋级中国大满贯女单半决赛" },
   { "query": "博主独闯哀牢山引争议", "display_query": "博主独闯哀牢山引争议" },
