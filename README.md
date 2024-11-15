@@ -14,9 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 15 2024 18:14:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 15 2024 19:11:16 GMT+0800 (China Standard Time) -->
 
+1. [为何美帝要搞「承认败选」这套流程](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%B8%9D%E8%A6%81%E6%90%9E%E3%80%8C%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89%E3%80%8D%E8%BF%99%E5%A5%97%E6%B5%81%E7%A8%8B)
 1. [国足](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3)
+1. [31省份平均工资公布](https://www.zhihu.com/search?q=31%E7%9C%81%E4%BB%BD%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%85%AC%E5%B8%83)
 1. [31 省份平均工资公布](https://www.zhihu.com/search?q=31%20%E7%9C%81%E4%BB%BD%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%85%AC%E5%B8%83)
 1. [滞留太空的美宇航员瘦成锥子脸](https://www.zhihu.com/search?q=%E6%BB%9E%E7%95%99%E5%A4%AA%E7%A9%BA%E7%9A%84%E7%BE%8E%E5%AE%87%E8%88%AA%E5%91%98%E7%98%A6%E6%88%90%E9%94%A5%E5%AD%90%E8%84%B8)
 1. [疑儿子在盒马鲜生摔倒没人扶妈妈砸店](https://www.zhihu.com/search?q=%E7%96%91%E5%84%BF%E5%AD%90%E5%9C%A8%E7%9B%92%E9%A9%AC%E9%B2%9C%E7%94%9F%E6%91%94%E5%80%92%E6%B2%A1%E4%BA%BA%E6%89%B6%E5%A6%88%E5%A6%88%E7%A0%B8%E5%BA%97)
