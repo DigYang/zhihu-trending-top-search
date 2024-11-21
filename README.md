@@ -14,10 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 21 2024 12:16:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 21 2024 14:18:54 GMT+0800 (China Standard Time) -->
 
+1. [广州放宽入户条件](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E6%94%BE%E5%AE%BD%E5%85%A5%E6%88%B7%E6%9D%A1%E4%BB%B6)
 1. [tvb台庆](https://www.zhihu.com/search?q=tvb%E5%8F%B0%E5%BA%86)
 1. [勇士vs快船](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%BF%AB%E8%88%B9)
+1. [梁靖崑vs张本智和](https://www.zhihu.com/search?q=%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [国足进球了](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E8%BF%9B%E7%90%83%E4%BA%86)
 1. [麦琳 熏鸡事变](https://www.zhihu.com/search?q=%E9%BA%A6%E7%90%B3%20%E7%86%8F%E9%B8%A1%E4%BA%8B%E5%8F%98)
