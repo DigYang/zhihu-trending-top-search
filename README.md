@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 24 2025 01:10:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 24 2025 23:14:46 GMT+0800 (China Standard Time) -->
 
+1. [金价还会涨吗](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%BF%98%E4%BC%9A%E6%B6%A8%E5%90%97)
+1. [以前的铁道部算是一个超级大部门吗](https://www.zhihu.com/search?q=%E4%BB%A5%E5%89%8D%E7%9A%84%E9%93%81%E9%81%93%E9%83%A8%E7%AE%97%E6%98%AF%E4%B8%80%E4%B8%AA%E8%B6%85%E7%BA%A7%E5%A4%A7%E9%83%A8%E9%97%A8%E5%90%97)
+1. [国际乒联公布徐克与女运动员聊天记录](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%85%AC%E5%B8%83%E5%BE%90%E5%85%8B%E4%B8%8E%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95)
+1. [我国成功发射通信技术试验卫星十五号](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%E5%8D%AB%E6%98%9F%E5%8D%81%E4%BA%94%E5%8F%B7)
+1. [零跑B10预售](https://www.zhihu.com/search?q=%E9%9B%B6%E8%B7%91B10%E9%A2%84%E5%94%AE)
+1. [合肥成为我国第 18 座千万人口之城](https://www.zhihu.com/search?q=%E5%90%88%E8%82%A5%E6%88%90%E4%B8%BA%E6%88%91%E5%9B%BD%E7%AC%AC%2018%20%E5%BA%A7%E5%8D%83%E4%B8%87%E4%BA%BA%E5%8F%A3%E4%B9%8B%E5%9F%8E)
+1. [安徽人口数出炉](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E4%BA%BA%E5%8F%A3%E6%95%B0%E5%87%BA%E7%82%89)
+1. [哪咤2票房破149亿](https://www.zhihu.com/search?q=%E5%93%AA%E5%92%A42%E7%A5%A8%E6%88%BF%E7%A0%B4149%E4%BA%BF)
+1. [马斯克发现美政府数千亿美元虚假合同](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E7%8E%B0%E7%BE%8E%E6%94%BF%E5%BA%9C%E6%95%B0%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E8%99%9A%E5%81%87%E5%90%88%E5%90%8C)
+1. [伊朗称废除核计划谈判不会发生](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%BA%9F%E9%99%A4%E6%A0%B8%E8%AE%A1%E5%88%92%E8%B0%88%E5%88%A4%E4%B8%8D%E4%BC%9A%E5%8F%91%E7%94%9F)
 1. [有哪些故意缩短产品寿命的设计](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E6%95%85%E6%84%8F%E7%BC%A9%E7%9F%AD%E4%BA%A7%E5%93%81%E5%AF%BF%E5%91%BD%E7%9A%84%E8%AE%BE%E8%AE%A1)
 1. [你见过最令你震撼的一张图片是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E4%BB%A4%E4%BD%A0%E9%9C%87%E6%92%BC%E7%9A%84%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%89%87%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
