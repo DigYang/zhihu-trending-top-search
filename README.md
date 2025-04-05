@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 06 2025 00:15:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 06 2025 03:09:45 GMT+0800 (China Standard Time) -->
 
 1. [油价上涨](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [中国成功发射卫星互联网技术试验卫星](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%8A%80%E6%9C%AF%E8%AF%95%E9%AA%8C%E5%8D%AB%E6%98%9F)
