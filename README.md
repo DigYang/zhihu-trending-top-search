@@ -14,9 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 19 2025 13:13:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 19 2025 20:24:05 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
+1. [王楚钦vs雨果](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%9B%A8%E6%9E%9C)
+1. [孙颖莎vs陈幸同](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C)
 1. [王楚钦晋级八强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA)
 1. [被惊艳到是一种什么体验](https://www.zhihu.com/search?q=%E8%A2%AB%E6%83%8A%E8%89%B3%E5%88%B0%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
 1. [中国市场对英伟达有多重要](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81)
