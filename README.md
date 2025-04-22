@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 22 2025 17:15:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 22 2025 18:14:44 GMT+0800 (China Standard Time) -->
 
-1. [孙颖莎夺冠](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0)
-1. [金价狂飙](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99)
+1. [胡塞称美军袭击萨那已致12人死亡](https://www.zhihu.com/search?q=%E8%83%A1%E5%A1%9E%E7%A7%B0%E7%BE%8E%E5%86%9B%E8%A2%AD%E5%87%BB%E8%90%A8%E9%82%A3%E5%B7%B2%E8%87%B412%E4%BA%BA%E6%AD%BB%E4%BA%A1)
+1. [维斯塔潘杆位](https://www.zhihu.com/search?q=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E6%9D%86%E4%BD%8D)
 1. [曼城2比0埃弗顿](https://www.zhihu.com/search?q=%E6%9B%BC%E5%9F%8E2%E6%AF%940%E5%9F%83%E5%BC%97%E9%A1%BF)
 1. [金价再创新高](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
 1. [王楚钦vs雨果](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%9B%A8%E6%9E%9C)
@@ -26,6 +26,8 @@
 1. [日本米价暴涨](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E6%9A%B4%E6%B6%A8)
 1. [皮亚斯特里夺冠](https://www.zhihu.com/search?q=%E7%9A%AE%E4%BA%9A%E6%96%AF%E7%89%B9%E9%87%8C%E5%A4%BA%E5%86%A0)
 1. [16岁奥数天才坠楼去世](https://www.zhihu.com/search?q=16%E5%B2%81%E5%A5%A5%E6%95%B0%E5%A4%A9%E6%89%8D%E5%9D%A0%E6%A5%BC%E5%8E%BB%E4%B8%96)
+1. [孙颖莎夺冠](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0)
+1. [金价狂飙](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99)
 
 <!-- END -->
 
