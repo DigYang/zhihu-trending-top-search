@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 25 2025 01:11:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 25 2025 11:16:13 GMT+0800 (China Standard Time) -->
 
 1. [蔡徐坤新歌](https://www.zhihu.com/search?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C)
 1. [鹿晗新歌](https://www.zhihu.com/search?q=%E9%B9%BF%E6%99%97%E6%96%B0%E6%AD%8C)
