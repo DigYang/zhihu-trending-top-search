@@ -1,12 +1,17 @@
 [
-  { "query": "哪一刻让你终于意识到了这就是命", "display_query": "哪一刻让你终于意识到了这就是命" },
   { "query": "最尴尬能有多尴尬", "display_query": "最尴尬能有多尴尬" },
-  { "query": "人为什么要睡觉", "display_query": "人为什么要睡觉" },
   { "query": "高考倒计时10天", "display_query": "高考倒计时10天" },
-  { "query": "跑步真的会越跑越年轻吗", "display_query": "跑步真的会越跑越年轻吗" },
-  { "query": "印度这次为何要急着发动战争", "display_query": "印度这次为何要急着发动战争" },
-  { "query": "小米玄戒 O1 芯片正式发布", "display_query": "小米玄戒 O1 芯片正式发布" },
+  { "query": "网络树洞倾听者年赚 3 万多", "display_query": "网络树洞倾听者年赚 3 万多" },
   { "query": "618 洗衣机推荐", "display_query": "618 洗衣机推荐" },
   { "query": "618 家电推荐", "display_query": "618 家电推荐" },
-  { "query": "618 价格暴降家电", "display_query": "618 价格暴降家电" }
+  { "query": "618 价格暴降家电", "display_query": "618 价格暴降家电" },
+  { "query": "618 护眼灯选购", "display_query": "618 护眼灯选购" },
+  { "query": "618 洗烘套装推荐", "display_query": "618 洗烘套装推荐" },
+  { "query": "能提升幸福感的家居好物", "display_query": "能提升幸福感的家居好物" },
+  { "query": "让家充满艺术气息的好物", "display_query": "让家充满艺术气息的好物" },
+  { "query": "哪一刻让你终于意识到了这就是命", "display_query": "哪一刻让你终于意识到了这就是命" },
+  { "query": "人为什么要睡觉", "display_query": "人为什么要睡觉" },
+  { "query": "跑步真的会越跑越年轻吗", "display_query": "跑步真的会越跑越年轻吗" },
+  { "query": "印度这次为何要急着发动战争", "display_query": "印度这次为何要急着发动战争" },
+  { "query": "小米玄戒 O1 芯片正式发布", "display_query": "小米玄戒 O1 芯片正式发布" }
 ]
