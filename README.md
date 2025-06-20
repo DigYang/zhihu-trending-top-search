@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 21 2025 02:19:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 21 2025 05:13:11 GMT+0800 (China Standard Time) -->
 
 1. [金价跌跌不休](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91)
 1. [胖真的是一件很丢人的事吗](https://www.zhihu.com/search?q=%E8%83%96%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E4%B8%A2%E4%BA%BA%E7%9A%84%E4%BA%8B%E5%90%97)
