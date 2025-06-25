@@ -14,10 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 25 2025 13:16:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 25 2025 22:15:06 GMT+0800 (China Standard Time) -->
 
+1. [高考失利怎么办](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
 1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
+1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [四川高考分数线公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [陕西高考分数线公布](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
+1. [辽宁高考分数线公布](https://www.zhihu.com/search?q=%E8%BE%BD%E5%AE%81%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [福建高考分数线公布](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [北京高考分数线公布](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B8%95%E4%B8%98%E5%8D%A1)
 1. [虾是海蟑螂吗](https://www.zhihu.com/search?q=%E8%99%BE%E6%98%AF%E6%B5%B7%E8%9F%91%E8%9E%82%E5%90%97)
 1. [城市客运站迎「关停潮」](https://www.zhihu.com/search?q=%E5%9F%8E%E5%B8%82%E5%AE%A2%E8%BF%90%E7%AB%99%E8%BF%8E%E3%80%8C%E5%85%B3%E5%81%9C%E6%BD%AE%E3%80%8D)
