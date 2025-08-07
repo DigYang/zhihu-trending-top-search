@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 07 2025 21:36:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 07 2025 22:19:32 GMT+0800 (China Standard Time) -->
 
-1. [陶白白官宣离婚](https://www.zhihu.com/search?q=%E9%99%B6%E7%99%BD%E7%99%BD%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A)
+1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E6%BC%94%E6%88%8F%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B)
+1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=%E7%94%B7%E5%A5%B3%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B9%88)
 1. [郑州暴雨](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8)
-1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [专家称高温热黑比紫外线更伤皮肤](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%AB%98%E6%B8%A9%E7%83%AD%E9%BB%91%E6%AF%94%E7%B4%AB%E5%A4%96%E7%BA%BF%E6%9B%B4%E4%BC%A4%E7%9A%AE%E8%82%A4)
@@ -26,6 +26,8 @@
 1. [亮证女司机为何知道男子信息](https://www.zhihu.com/search?q=%E4%BA%AE%E8%AF%81%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%B8%BA%E4%BD%95%E7%9F%A5%E9%81%93%E7%94%B7%E5%AD%90%E4%BF%A1%E6%81%AF)
 1. [如何解读司机射钢珠致 4 人受伤](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%A7%A3%E8%AF%BB%E5%8F%B8%E6%9C%BA%E5%B0%84%E9%92%A2%E7%8F%A0%E8%87%B4%204%20%E4%BA%BA%E5%8F%97%E4%BC%A4)
 1. [投资家罗杰斯清空所有美股](https://www.zhihu.com/search?q=%E6%8A%95%E8%B5%84%E5%AE%B6%E7%BD%97%E6%9D%B0%E6%96%AF%E6%B8%85%E7%A9%BA%E6%89%80%E6%9C%89%E7%BE%8E%E8%82%A1)
+1. [陶白白官宣离婚](https://www.zhihu.com/search?q=%E9%99%B6%E7%99%BD%E7%99%BD%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A)
+1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2)
 
 <!-- END -->
 
