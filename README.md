@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 11 2025 12:38:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 11 2025 21:34:10 GMT+0800 (China Standard Time) -->
 
+1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
+1. [孙颖莎vs陈幸同](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C)
+1. [孙颖莎晋级四强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA)
+1. [王楚钦vs张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
+1. [OpenAI发布GPT-5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5)
+1. [山姆回应芝士牛肉卷吃出蟑螂](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E8%8A%9D%E5%A3%AB%E7%89%9B%E8%82%89%E5%8D%B7%E5%90%83%E5%87%BA%E8%9F%91%E8%9E%82)
+1. [胖东来拟招1000人](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9F%E6%8B%9B1000%E4%BA%BA)
+1. [胖东来招聘20个岗位给曾服刑人员](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%9820%E4%B8%AA%E5%B2%97%E4%BD%8D%E7%BB%99%E6%9B%BE%E6%9C%8D%E5%88%91%E4%BA%BA%E5%91%98)
+1. [「苏超」现场观赛总人数已突破 100 万](https://www.zhihu.com/search?q=%E3%80%8C%E8%8B%8F%E8%B6%85%E3%80%8D%E7%8E%B0%E5%9C%BA%E8%A7%82%E8%B5%9B%E6%80%BB%E4%BA%BA%E6%95%B0%E5%B7%B2%E7%AA%81%E7%A0%B4%20100%20%E4%B8%87)
+1. [红牛王一博](https://www.zhihu.com/search?q=%E7%BA%A2%E7%89%9B%E7%8E%8B%E4%B8%80%E5%8D%9A)
 1. [广西国资拟入主南方黑芝麻集团](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E8%B5%84%E6%8B%9F%E5%85%A5%E4%B8%BB%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E9%9B%86%E5%9B%A2)
 1. [华为宣布CANN全面开源开放](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83CANN%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE)
 1. [深圳华强北叫停小孩哥代送外卖](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%8F%AB%E5%81%9C%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%BB%A3%E9%80%81%E5%A4%96%E5%8D%96)
