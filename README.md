@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 30 2025 19:10:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 30 2025 21:18:31 GMT+0800 (China Standard Time) -->
 
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
@@ -23,9 +23,11 @@
 1. [老潘财商 虞书欣](https://www.zhihu.com/search?q=%E8%80%81%E6%BD%98%E8%B4%A2%E5%95%86%20%E8%99%9E%E4%B9%A6%E6%AC%A3)
 1. [日本呼吁各国不要参加九三阅兵](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%91%BC%E5%90%81%E5%90%84%E5%9B%BD%E4%B8%8D%E8%A6%81%E5%8F%82%E5%8A%A0%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [《三体》重构了什么样的宇宙](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B%E9%87%8D%E6%9E%84%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%87%E5%AE%99)
+1. [SpaceX星舰第十次试飞圆满结束](https://www.zhihu.com/search?q=SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E5%8D%81%E6%AC%A1%E8%AF%95%E9%A3%9E%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F)
+1. [罕见天象血月将现身](https://www.zhihu.com/search?q=%E7%BD%95%E8%A7%81%E5%A4%A9%E8%B1%A1%E8%A1%80%E6%9C%88%E5%B0%86%E7%8E%B0%E8%BA%AB)
+1. [谷歌要求明年起所有开发者实名认证](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%A6%81%E6%B1%82%E6%98%8E%E5%B9%B4%E8%B5%B7%E6%89%80%E6%9C%89%E5%BC%80%E5%8F%91%E8%80%85%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81)
 1. [寒武纪上半年净利润扭亏为盈](https://www.zhihu.com/search?q=%E5%AF%92%E6%AD%A6%E7%BA%AA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A6%E6%89%AD%E4%BA%8F%E4%B8%BA%E7%9B%88)
 1. [寒武纪上半年营收增超 4347%](https://www.zhihu.com/search?q=%E5%AF%92%E6%AD%A6%E7%BA%AA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%90%A5%E6%94%B6%E5%A2%9E%E8%B6%85%204347%25)
-1. [SpaceX星舰第十次试飞圆满结束](https://www.zhihu.com/search?q=SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E5%8D%81%E6%AC%A1%E8%AF%95%E9%A3%9E%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F)
 
 <!-- END -->
 
