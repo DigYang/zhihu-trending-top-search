@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 01 2025 02:18:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 01 2025 06:12:55 GMT+0800 (China Standard Time) -->
 
 1. [今日辟谣](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
