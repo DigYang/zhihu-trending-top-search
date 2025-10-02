@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 02 2025 06:12:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 02 2025 18:13:41 GMT+0800 (China Standard Time) -->
 
 1. [你什么时候意识到自己没见过世面](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E6%B2%A1%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2)
 1. [电车贬值整体幅度为什么比油车贬值更大](https://www.zhihu.com/search?q=%E7%94%B5%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%95%B4%E4%BD%93%E5%B9%85%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E6%B2%B9%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%9B%B4%E5%A4%A7)
@@ -24,6 +24,8 @@
 1. [人类是否无法想象出没见过的东西](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E6%98%AF%E5%90%A6%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1%E5%87%BA%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E4%B8%9C%E8%A5%BF)
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
 1. [为什么外卖骑手一直不停地招人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E4%B8%80%E7%9B%B4%E4%B8%8D%E5%81%9C%E5%9C%B0%E6%8B%9B%E4%BA%BA)
+1. [鸡排哥的哪一点戳中了大家](https://www.zhihu.com/search?q=%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E5%93%AA%E4%B8%80%E7%82%B9%E6%88%B3%E4%B8%AD%E4%BA%86%E5%A4%A7%E5%AE%B6)
+1. [绝味为什么卖不动了](https://www.zhihu.com/search?q=%E7%BB%9D%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86)
 1. [微信又上新功能](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E5%8F%88%E4%B8%8A%E6%96%B0%E5%8A%9F%E8%83%BD)
 1. [中秋国庆8天安排](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%AE%89%E6%8E%92)
 
