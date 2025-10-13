@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 13 2025 12:17:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 13 2025 14:22:59 GMT+0800 (China Standard Time) -->
 
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
