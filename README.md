@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 20 2025 15:15:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 20 2025 16:19:52 GMT+0800 (China Standard Time) -->
 
 1. [南京野猪为什么如此泛滥](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E9%87%8E%E7%8C%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E6%B3%9B%E6%BB%A5)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
