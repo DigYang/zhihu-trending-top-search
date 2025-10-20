@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 21 2025 03:11:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 21 2025 04:16:25 GMT+0800 (China Standard Time) -->
 
 1. [英超双红会](https://www.zhihu.com/search?q=%E8%8B%B1%E8%B6%85%E5%8F%8C%E7%BA%A2%E4%BC%9A)
 1. [考研倒计时](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%80%92%E8%AE%A1%E6%97%B6)
