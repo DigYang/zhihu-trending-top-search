@@ -14,8 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 20 2025 11:11:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 20 2025 12:20:21 GMT+0800 (China Standard Time) -->
 
+1. [南京野猪为什么如此泛滥](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E9%87%8E%E7%8C%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E6%B3%9B%E6%BB%A5)
+1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [有哪些信、达、不雅的翻译](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BF%A1%E3%80%81%E8%BE%BE%E3%80%81%E4%B8%8D%E9%9B%85%E7%9A%84%E7%BF%BB%E8%AF%91)
+1. [你见过最不会点菜的人是什么样子的](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E4%B8%8D%E4%BC%9A%E7%82%B9%E8%8F%9C%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%E7%9A%84)
+1. [为什么杂鱼这个词在日本很有攻击力](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%82%E9%B1%BC%E8%BF%99%E4%B8%AA%E8%AF%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BE%88%E6%9C%89%E6%94%BB%E5%87%BB%E5%8A%9B)
 1. [苏超半决赛](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B)
 1. [闻泰科技147亿半导体资产被荷兰冻结](https://www.zhihu.com/search?q=%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80147%E4%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%84%E4%BA%A7%E8%A2%AB%E8%8D%B7%E5%85%B0%E5%86%BB%E7%BB%93)
 1. [红山动物园为大猩猩征名](https://www.zhihu.com/search?q=%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%BA%E5%A4%A7%E7%8C%A9%E7%8C%A9%E5%BE%81%E5%90%8D)
