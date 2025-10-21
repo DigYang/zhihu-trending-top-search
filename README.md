@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 21 2025 11:01:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 21 2025 12:17:15 GMT+0800 (China Standard Time) -->
 
 1. [英超双红会](https://www.zhihu.com/search?q=%E8%8B%B1%E8%B6%85%E5%8F%8C%E7%BA%A2%E4%BC%9A)
 1. [考研倒计时](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%80%92%E8%AE%A1%E6%97%B6)
@@ -24,6 +24,7 @@
 1. [有哪些逆天的微生物](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E5%BE%AE%E7%94%9F%E7%89%A9)
 1. [南京野猪为什么如此泛滥](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E9%87%8E%E7%8C%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E6%B3%9B%E6%BB%A5)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E8%A7%A3%E5%8E%8B%E7%9A%84%E5%B0%8F%E4%BC%97%E7%88%B1%E5%A5%BD)
+1. [你喝多了都干过什么蠢事](https://www.zhihu.com/search?q=%E4%BD%A0%E5%96%9D%E5%A4%9A%E4%BA%86%E9%83%BD%E5%B9%B2%E8%BF%87%E4%BB%80%E4%B9%88%E8%A0%A2%E4%BA%8B)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
 
