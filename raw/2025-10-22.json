@@ -1,6 +1,5 @@
 [
-  { "query": "怎样做出完美的煎牛排", "display_query": "怎样做出完美的煎牛排" },
-  { "query": "羽绒服的寿命", "display_query": "羽绒服的寿命" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   { "query": "中国有多少城市能撑起来七日游", "display_query": "中国有多少城市能撑起来七日游" },
@@ -9,8 +8,9 @@
   { "query": "常年独居的人靠什么抵抗孤独", "display_query": "常年独居的人靠什么抵抗孤独" },
   { "query": "南京野猪为什么如此泛滥", "display_query": "南京野猪为什么如此泛滥" },
   { "query": "日本石破内阁集体辞职", "display_query": "日本石破内阁集体辞职" },
-  { "query": "A股", "display_query": "A股" },
   { "query": "你有什么解压的小众爱好", "display_query": "你有什么解压的小众爱好" },
+  { "query": "怎样做出完美的煎牛排", "display_query": "怎样做出完美的煎牛排" },
+  { "query": "羽绒服的寿命", "display_query": "羽绒服的寿命" },
   { "query": "你喝多了都干过什么蠢事", "display_query": "你喝多了都干过什么蠢事" },
   { "query": "你去过最离谱的景区是什么", "display_query": "你去过最离谱的景区是什么" },
   { "query": "抽象思维方法的局限性是什么", "display_query": "抽象思维方法的局限性是什么" },
