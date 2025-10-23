@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 23 2025 09:08:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 23 2025 10:59:37 GMT+0800 (China Standard Time) -->
 
-1. [蔚来李斌内部讲话流出](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%E5%86%85%E9%83%A8%E8%AE%B2%E8%AF%9D%E6%B5%81%E5%87%BA)
+1. [吃狗吃过的剩饭有什么风险](https://www.zhihu.com/search?q=%E5%90%83%E7%8B%97%E5%90%83%E8%BF%87%E7%9A%84%E5%89%A9%E9%A5%AD%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%99%A9)
 1. [什么叫中国人的浪漫](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB)
 1. [杨和苏 Asen](https://www.zhihu.com/search?q=%E6%9D%A8%E5%92%8C%E8%8B%8F%20Asen)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
@@ -26,6 +26,7 @@
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
 1. [勇士vs湖人](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%B9%96%E4%BA%BA)
+1. [蔚来李斌内部讲话流出](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%E5%86%85%E9%83%A8%E8%AE%B2%E8%AF%9D%E6%B5%81%E5%87%BA)
 
 <!-- END -->
 
