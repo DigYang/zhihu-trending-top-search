@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 24 2025 21:26:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 24 2025 22:14:44 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
@@ -23,10 +23,10 @@
 1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
-1. [GEN对战TES](https://www.zhihu.com/search?q=GEN%E5%AF%B9%E6%88%98TES)
 1. [王源演唱会](https://www.zhihu.com/search?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E8%A7%A3%E5%8E%8B%E7%9A%84%E5%B0%8F%E4%BC%97%E7%88%B1%E5%A5%BD)
+1. [GEN对战TES](https://www.zhihu.com/search?q=GEN%E5%AF%B9%E6%88%98TES)
 1. [你喝多了都干过什么蠢事](https://www.zhihu.com/search?q=%E4%BD%A0%E5%96%9D%E5%A4%9A%E4%BA%86%E9%83%BD%E5%B9%B2%E8%BF%87%E4%BB%80%E4%B9%88%E8%A0%A2%E4%BA%8B)
 1. [当代奢侈品三巨头](https://www.zhihu.com/search?q=%E5%BD%93%E4%BB%A3%E5%A5%A2%E4%BE%88%E5%93%81%E4%B8%89%E5%B7%A8%E5%A4%B4)
 1. [吃狗吃过的剩饭有什么风险](https://www.zhihu.com/search?q=%E5%90%83%E7%8B%97%E5%90%83%E8%BF%87%E7%9A%84%E5%89%A9%E9%A5%AD%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%99%A9)
