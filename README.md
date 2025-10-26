@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 27 2025 01:11:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 27 2025 02:18:52 GMT+0800 (China Standard Time) -->
 
 1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
 1. [Bin](https://www.zhihu.com/search?q=Bin)
