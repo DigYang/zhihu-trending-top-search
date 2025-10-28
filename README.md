@@ -14,12 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 28 2025 18:16:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 28 2025 19:12:08 GMT+0800 (China Standard Time) -->
 
+1. [世界动画日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%8A%A8%E7%94%BB%E6%97%A5)
+1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
 1. [阿斯顿维拉1比0曼城](https://www.zhihu.com/search?q=%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%891%E6%AF%940%E6%9B%BC%E5%9F%8E)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%82%B2%E5%93%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [皇马vs巴萨](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B7%B4%E8%90%A8)
+1. [身体好是怎样一种体验](https://www.zhihu.com/search?q=%E8%BA%AB%E4%BD%93%E5%A5%BD%E6%98%AF%E6%80%8E%E6%A0%B7%E4%B8%80%E7%A7%8D%E4%BD%93%E9%AA%8C)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E8%A7%A3%E5%8E%8B%E7%9A%84%E5%B0%8F%E4%BC%97%E7%88%B1%E5%A5%BD)
 1. [太阳vs掘金](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E6%8E%98%E9%87%91)
