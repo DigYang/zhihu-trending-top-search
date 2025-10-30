@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 30 2025 12:16:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 30 2025 13:14:21 GMT+0800 (China Standard Time) -->
 
 1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
 1. [今日重阳](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%87%8D%E9%98%B3)
