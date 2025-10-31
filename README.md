@@ -14,13 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 31 2025 18:15:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 31 2025 19:12:18 GMT+0800 (China Standard Time) -->
 
 1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
+1. [10月最后一天](https://www.zhihu.com/search?q=10%E6%9C%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
+1. [11月起这些新规开始施行](https://www.zhihu.com/search?q=11%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [快船vs勇士](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E5%8B%87%E5%A3%AB)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
 1. [为什么说重庆是男人的天堂](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E9%87%8D%E5%BA%86%E6%98%AF%E7%94%B7%E4%BA%BA%E7%9A%84%E5%A4%A9%E5%A0%82)
 1. [为什么好多学校都喜欢挖个湖](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E5%AD%A6%E6%A0%A1%E9%83%BD%E5%96%9C%E6%AC%A2%E6%8C%96%E4%B8%AA%E6%B9%96)
+1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [有什么骇人听闻的真实案件](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%AA%87%E4%BA%BA%E5%90%AC%E9%97%BB%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BB%B6)
 1. [TES对战G2](https://www.zhihu.com/search?q=TES%E5%AF%B9%E6%88%98G2)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
