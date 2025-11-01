@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 01 2025 11:07:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 01 2025 12:15:56 GMT+0800 (China Standard Time) -->
 
-1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
 1. [10月最后一天](https://www.zhihu.com/search?q=10%E6%9C%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
 1. [11月起这些新规开始施行](https://www.zhihu.com/search?q=11%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
@@ -26,6 +25,8 @@
 1. [人真的一定要上班吗](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%B8%80%E5%AE%9A%E8%A6%81%E4%B8%8A%E7%8F%AD%E5%90%97)
 1. [你心目中排名第一的饮料是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%A5%AE%E6%96%99%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [钱可以成为一个人的底气吗](https://www.zhihu.com/search?q=%E9%92%B1%E5%8F%AF%E4%BB%A5%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E6%B0%94%E5%90%97)
+1. [会计被列入国控专业意味着什么](https://www.zhihu.com/search?q=%E4%BC%9A%E8%AE%A1%E8%A2%AB%E5%88%97%E5%85%A5%E5%9B%BD%E6%8E%A7%E4%B8%93%E4%B8%9A%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88)
+1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
 
 <!-- END -->
 
