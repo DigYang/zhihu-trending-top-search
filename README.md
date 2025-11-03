@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 03 2025 13:15:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 03 2025 14:23:27 GMT+0800 (China Standard Time) -->
 
 1. [苏超总决赛](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E6%80%BB%E5%86%B3%E8%B5%9B)
-1. [全球投资者正以惊人速度从印度撤资](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%8A%95%E8%B5%84%E8%80%85%E6%AD%A3%E4%BB%A5%E6%83%8A%E4%BA%BA%E9%80%9F%E5%BA%A6%E4%BB%8E%E5%8D%B0%E5%BA%A6%E6%92%A4%E8%B5%84)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
 1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
@@ -26,6 +25,8 @@
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
 1. [李银河谈老年人与 AI](https://www.zhihu.com/search?q=%E6%9D%8E%E9%93%B6%E6%B2%B3%E8%B0%88%E8%80%81%E5%B9%B4%E4%BA%BA%E4%B8%8E%20AI)
 1. [李银河视频播客](https://www.zhihu.com/search?q=%E6%9D%8E%E9%93%B6%E6%B2%B3%E8%A7%86%E9%A2%91%E6%92%AD%E5%AE%A2)
+1. [李银河谈 AI 时代](https://www.zhihu.com/search?q=%E6%9D%8E%E9%93%B6%E6%B2%B3%E8%B0%88%20AI%20%E6%97%B6%E4%BB%A3)
+1. [全球投资者正以惊人速度从印度撤资](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%8A%95%E8%B5%84%E8%80%85%E6%AD%A3%E4%BB%A5%E6%83%8A%E4%BA%BA%E9%80%9F%E5%BA%A6%E4%BB%8E%E5%8D%B0%E5%BA%A6%E6%92%A4%E8%B5%84)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
 1. [真正打动过你的一个设计是什么](https://www.zhihu.com/search?q=%E7%9C%9F%E6%AD%A3%E6%89%93%E5%8A%A8%E8%BF%87%E4%BD%A0%E7%9A%84%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [体制内比到最后拼的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E6%AF%94%E5%88%B0%E6%9C%80%E5%90%8E%E6%8B%BC%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
