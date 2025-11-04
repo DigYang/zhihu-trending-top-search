@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 05 2025 03:11:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 05 2025 04:16:44 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
