@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 05 2025 16:20:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 05 2025 17:17:04 GMT+0800 (China Standard Time) -->
 
-1. [LLM预测下一词](https://www.zhihu.com/search?q=LLM%E9%A2%84%E6%B5%8B%E4%B8%8B%E4%B8%80%E8%AF%8D)
+1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=%E8%81%8C%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3)
@@ -26,7 +26,7 @@
 1. [被保护得太好的人是怎样的](https://www.zhihu.com/search?q=%E8%A2%AB%E4%BF%9D%E6%8A%A4%E5%BE%97%E5%A4%AA%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84)
 1. [湖人vs开拓者](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BC%80%E6%8B%93%E8%80%85)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
-1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
+1. [LLM预测下一词](https://www.zhihu.com/search?q=LLM%E9%A2%84%E6%B5%8B%E4%B8%8B%E4%B8%80%E8%AF%8D)
 1. [缅北白家21人获刑](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B621%E4%BA%BA%E8%8E%B7%E5%88%91)
 
 <!-- END -->
