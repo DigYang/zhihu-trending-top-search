@@ -14,15 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 05 2025 18:17:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 05 2025 19:13:10 GMT+0800 (China Standard Time) -->
 
+1. [史上最长春节假期](https://www.zhihu.com/search?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%95%BF%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F)
 1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=%E8%81%8C%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3)
 1. [周深演唱会](https://www.zhihu.com/search?q=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [tes对战t1](https://www.zhihu.com/search?q=tes%E5%AF%B9%E6%88%98t1)
+1. [有哪些非常冷门且令人意外的知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9D%9E%E5%B8%B8%E5%86%B7%E9%97%A8%E4%B8%94%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96%E7%9A%84%E7%9F%A5%E8%AF%86)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
+1. [利物浦vs皇马](https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E7%9A%87%E9%A9%AC)
 1. [被保护得太好的人是怎样的](https://www.zhihu.com/search?q=%E8%A2%AB%E4%BF%9D%E6%8A%A4%E5%BE%97%E5%A4%AA%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84)
 1. [湖人vs开拓者](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BC%80%E6%8B%93%E8%80%85)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
