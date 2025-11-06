@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 06 2025 22:15:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 06 2025 23:16:29 GMT+0800 (China Standard Time) -->
 
 1. [太阳vs勇士](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E5%8B%87%E5%A3%AB)
 1. [史上最长春节假期](https://www.zhihu.com/search?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%95%BF%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F)
