@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 07 2025 20:29:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 07 2025 21:24:08 GMT+0800 (China Standard Time) -->
 
-1. [英伟达市值站上 5 万亿美元](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E7%AB%99%E4%B8%8A%205%20%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
+1. [太阳vs勇士](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E5%8B%87%E5%A3%AB)
+1. [今日立冬](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [快船vs太阳](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E5%A4%AA%E9%98%B3)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
@@ -25,9 +26,8 @@
 1. [硬币为什么取消中间的方孔](https://www.zhihu.com/search?q=%E7%A1%AC%E5%B8%81%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%96%E6%B6%88%E4%B8%AD%E9%97%B4%E7%9A%84%E6%96%B9%E5%AD%94)
 1. [雷霆vs开拓者](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%BC%80%E6%8B%93%E8%80%85)
 1. [中国人到底有多能吃](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%83%BD%E5%90%83)
+1. [英伟达市值站上 5 万亿美元](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E7%AB%99%E4%B8%8A%205%20%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [如何评价电影新少林五祖](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E6%96%B0%E5%B0%91%E6%9E%97%E4%BA%94%E7%A5%96)
-1. [太阳vs勇士](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E5%8B%87%E5%A3%AB)
-1. [今日立冬](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC)
 1. [周末你允许孩子睡懒觉吗](https://www.zhihu.com/search?q=%E5%91%A8%E6%9C%AB%E4%BD%A0%E5%85%81%E8%AE%B8%E5%AD%A9%E5%AD%90%E7%9D%A1%E6%87%92%E8%A7%89%E5%90%97)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你目前最大的困扰是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9B%AE%E5%89%8D%E6%9C%80%E5%A4%A7%E7%9A%84%E5%9B%B0%E6%89%B0%E6%98%AF%E4%BB%80%E4%B9%88)
