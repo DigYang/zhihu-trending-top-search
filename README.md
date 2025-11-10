@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 10 2025 09:13:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 10 2025 11:14:52 GMT+0800 (China Standard Time) -->
 
-1. [今日立冬](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
@@ -26,6 +25,8 @@
 1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
 1. [知乎好物 100 榜单](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E7%89%A9%20100%20%E6%A6%9C%E5%8D%95)
+1. [今年双十一买点啥](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E4%B9%B0%E7%82%B9%E5%95%A5)
+1. [今日立冬](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC)
 
 <!-- END -->
 
