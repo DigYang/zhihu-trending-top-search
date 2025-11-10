@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 10 2025 20:31:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 10 2025 21:27:35 GMT+0800 (China Standard Time) -->
 
-1. [记者节](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%8A%82)
+1. [王楚钦首战迎魏世皓](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A6%96%E6%88%98%E8%BF%8E%E9%AD%8F%E4%B8%96%E7%9A%93)
+1. [「周末到河北」上好物100榜单了](https://www.zhihu.com/search?q=%E3%80%8C%E5%91%A8%E6%9C%AB%E5%88%B0%E6%B2%B3%E5%8C%97%E3%80%8D%E4%B8%8A%E5%A5%BD%E7%89%A9100%E6%A6%9C%E5%8D%95%E4%BA%86)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
 1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%AD%E6%88%98%E8%83%9C%E9%9B%84%E9%B9%BF)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -25,6 +26,7 @@
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%95%86%E6%88%98%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [颛顼为什么要绝地天通](https://www.zhihu.com/search?q=%E9%A2%9B%E9%A1%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%BB%9D%E5%9C%B0%E5%A4%A9%E9%80%9A)
+1. [记者节](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%8A%82)
 1. [灰熊vs雷霆](https://www.zhihu.com/search?q=%E7%81%B0%E7%86%8Avs%E9%9B%B7%E9%9C%86)
 1. [为什么会人走茶凉](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E4%BA%BA%E8%B5%B0%E8%8C%B6%E5%87%89)
 1. [你受过最狠的羞辱是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8F%97%E8%BF%87%E6%9C%80%E7%8B%A0%E7%9A%84%E7%BE%9E%E8%BE%B1%E6%98%AF%E4%BB%80%E4%B9%88)
