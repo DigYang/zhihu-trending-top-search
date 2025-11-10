@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 10 2025 22:14:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 10 2025 23:16:33 GMT+0800 (China Standard Time) -->
 
 1. [记者节](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%8A%82)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
