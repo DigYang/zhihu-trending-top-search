@@ -1,6 +1,10 @@
 [
   { "query": "T1夺冠", "display_query": "T1夺冠" },
   { "query": "你知道的最震惊的冷知识是什么", "display_query": "你知道的最震惊的冷知识是什么" },
+  { "query": "为什么在中国邮箱不流行", "display_query": "为什么在中国邮箱不流行" },
+  { "query": "你见过最真实的商战是什么", "display_query": "你见过最真实的商战是什么" },
+  { "query": "为什么会人走茶凉", "display_query": "为什么会人走茶凉" },
+  { "query": "你受过最狠的羞辱是什么", "display_query": "你受过最狠的羞辱是什么" },
   { "query": "父母腿脚不便 辅助工具", "display_query": "父母腿脚不便 辅助工具" },
   { "query": "老人走路累 外骨骼有用吗", "display_query": "老人走路累 外骨骼有用吗" },
   { "query": "长辈上下楼梯困难 解决方案", "display_query": "长辈上下楼梯困难 解决方案" },
