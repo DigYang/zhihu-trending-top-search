@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 16 2025 19:10:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 16 2025 20:26:38 GMT+0800 (China Standard Time) -->
 
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
 1. [10月70城房价出炉](https://www.zhihu.com/search?q=10%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
-1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86)
 1. [四川舰](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E8%88%B0)
@@ -26,6 +25,8 @@
 1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%88%B0%E5%BA%95%E8%83%BD%E6%B6%A8%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
+1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA)
 1. [四分之一决赛陈梦4比2蒯曼](https://www.zhihu.com/search?q=%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E9%99%88%E6%A2%A64%E6%AF%942%E8%92%AF%E6%9B%BC)
 1. [12306回应动车盲文标识无凸起](https://www.zhihu.com/search?q=12306%E5%9B%9E%E5%BA%94%E5%8A%A8%E8%BD%A6%E7%9B%B2%E6%96%87%E6%A0%87%E8%AF%86%E6%97%A0%E5%87%B8%E8%B5%B7)
 1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E9%97%BB%E8%BF%87%E6%9C%80%E8%87%AD%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
