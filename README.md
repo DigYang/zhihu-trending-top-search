@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 18 2025 13:15:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 18 2025 14:22:44 GMT+0800 (China Standard Time) -->
 
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
 1. [勇士vs鹈鹕](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%B9%88%E9%B9%95)
