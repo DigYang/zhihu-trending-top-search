@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 18 2025 14:22:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 18 2025 15:15:05 GMT+0800 (China Standard Time) -->
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
-1. [勇士vs鹈鹕](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%B9%88%E9%B9%95)
+1. [为什么中国大力发展核电](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%8A%9B%E5%8F%91%E5%B1%95%E6%A0%B8%E7%94%B5)
 1. [古人看到西方大教堂会不会震撼](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E7%9C%8B%E5%88%B0%E8%A5%BF%E6%96%B9%E5%A4%A7%E6%95%99%E5%A0%82%E4%BC%9A%E4%B8%8D%E4%BC%9A%E9%9C%87%E6%92%BC)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [四川舰](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E8%88%B0)
@@ -26,6 +25,9 @@
 1. [枭起青壤定档](https://www.zhihu.com/search?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E5%AE%9A%E6%A1%A3)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [长期不上班的人都是什么状态](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
+1. [勇士vs鹈鹕](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%B9%88%E9%B9%95)
 
 <!-- END -->
 
