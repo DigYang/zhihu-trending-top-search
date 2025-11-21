@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 21 2025 14:23:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 21 2025 15:15:10 GMT+0800 (China Standard Time) -->
 
-1. [雅思组合夺金谢幕](https://www.zhihu.com/search?q=%E9%9B%85%E6%80%9D%E7%BB%84%E5%90%88%E5%A4%BA%E9%87%91%E8%B0%A2%E5%B9%95)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [可以一次性给孩子一年的生活费吗](https://www.zhihu.com/search?q=%E5%8F%AF%E4%BB%A5%E4%B8%80%E6%AC%A1%E6%80%A7%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B8%80%E5%B9%B4%E7%9A%84%E7%94%9F%E6%B4%BB%E8%B4%B9%E5%90%97)
 1. [湖人战胜爵士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E6%88%98%E8%83%9C%E7%88%B5%E5%A3%AB)
 1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E9%80%89%E6%8B%A9%E5%8F%91%E5%B1%95%E9%AB%98%E9%93%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%BB%89%E4%BB%B7%E8%88%AA%E7%A9%BA)
@@ -26,7 +26,7 @@
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=%E6%B3%A1%E9%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E4%B8%8D%E5%87%BA%E8%A5%BF%E5%AE%89)
 1. [为什么流萤的人气这么高](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B5%81%E8%90%A4%E7%9A%84%E4%BA%BA%E6%B0%94%E8%BF%99%E4%B9%88%E9%AB%98)
 1. [在中国搭讪有多难](https://www.zhihu.com/search?q=%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%90%AD%E8%AE%AA%E6%9C%89%E5%A4%9A%E9%9A%BE)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
+1. [雅思组合夺金谢幕](https://www.zhihu.com/search?q=%E9%9B%85%E6%80%9D%E7%BB%84%E5%90%88%E5%A4%BA%E9%87%91%E8%B0%A2%E5%B9%95)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 
 <!-- END -->
