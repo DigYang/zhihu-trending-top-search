@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 25 2025 11:10:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 25 2025 12:21:14 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [你吃过最奢侈的一道菜](https://www.zhihu.com/search?q=%E4%BD%A0%E5%90%83%E8%BF%87%E6%9C%80%E5%A5%A2%E4%BE%88%E7%9A%84%E4%B8%80%E9%81%93%E8%8F%9C)
