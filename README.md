@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 01 2025 12:44:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 01 2025 13:23:31 GMT+0800 (China Standard Time) -->
 
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
 1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
@@ -24,8 +24,9 @@
 1. [网传南大教授闻海虎发邮件回应举报](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%8D%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%97%BB%E6%B5%B7%E8%99%8E%E5%8F%91%E9%82%AE%E4%BB%B6%E5%9B%9E%E5%BA%94%E4%B8%BE%E6%8A%A5)
 1. [美团发布上下文级联压缩技术](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E4%B8%8A%E4%B8%8B%E6%96%87%E7%BA%A7%E8%81%94%E5%8E%8B%E7%BC%A9%E6%8A%80%E6%9C%AF)
 1. [「老穷风」怎么火了](https://www.zhihu.com/search?q=%E3%80%8C%E8%80%81%E7%A9%B7%E9%A3%8E%E3%80%8D%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86)
-1. [喜人奇妙夜2第十期](https://www.zhihu.com/search?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%E7%AC%AC%E5%8D%81%E6%9C%9F)
 1. [多家手机厂商取消air机型](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88air%E6%9C%BA%E5%9E%8B)
+1. [王牧疑似回复闻海虎澄清信](https://www.zhihu.com/search?q=%E7%8E%8B%E7%89%A7%E7%96%91%E4%BC%BC%E5%9B%9E%E5%A4%8D%E9%97%BB%E6%B5%B7%E8%99%8E%E6%BE%84%E6%B8%85%E4%BF%A1)
+1. [喜人奇妙夜2第十期](https://www.zhihu.com/search?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%E7%AC%AC%E5%8D%81%E6%9C%9F)
 1. [疯狂动物城2隐喻](https://www.zhihu.com/search?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%9A%90%E5%96%BB)
 1. [黑龙江大学校史首篇nature](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%8F%B2%E9%A6%96%E7%AF%87nature)
 1. [疯狂动物城2预售票房超哪吒2](https://www.zhihu.com/search?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E8%B6%85%E5%93%AA%E5%90%922)
