@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 01 2025 09:23:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 01 2025 11:46:02 GMT+0800 (China Standard Time) -->
 
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
 1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
+1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%AF%E4%BB%A5%E7%AC%91%E4%B8%8A%E4%B8%80%E5%B9%B4%E7%9A%84%E7%AC%91%E8%AF%9D)
+1. [如何看待美国网友咆哮物价太高](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%92%86%E5%93%AE%E7%89%A9%E4%BB%B7%E5%A4%AA%E9%AB%98)
+1. [社会上有哪些人是不能招惹的](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BC%9A%E4%B8%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%BA%E6%98%AF%E4%B8%8D%E8%83%BD%E6%8B%9B%E6%83%B9%E7%9A%84)
 1. [网传南大教授闻海虎发邮件回应举报](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%8D%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%97%BB%E6%B5%B7%E8%99%8E%E5%8F%91%E9%82%AE%E4%BB%B6%E5%9B%9E%E5%BA%94%E4%B8%BE%E6%8A%A5)
+1. [美团发布上下文级联压缩技术](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E4%B8%8A%E4%B8%8B%E6%96%87%E7%BA%A7%E8%81%94%E5%8E%8B%E7%BC%A9%E6%8A%80%E6%9C%AF)
+1. [「老穷风」怎么火了](https://www.zhihu.com/search?q=%E3%80%8C%E8%80%81%E7%A9%B7%E9%A3%8E%E3%80%8D%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86)
+1. [喜人奇妙夜2第十期](https://www.zhihu.com/search?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%E7%AC%AC%E5%8D%81%E6%9C%9F)
+1. [多家手机厂商取消air机型](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88air%E6%9C%BA%E5%9E%8B)
 1. [疯狂动物城2隐喻](https://www.zhihu.com/search?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%9A%90%E5%96%BB)
 1. [黑龙江大学校史首篇nature](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%8F%B2%E9%A6%96%E7%AF%87nature)
 1. [疯狂动物城2预售票房超哪吒2](https://www.zhihu.com/search?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E8%B6%85%E5%93%AA%E5%90%922)
 1. [Qwen论文获评NeurIPS 2025最佳论文](https://www.zhihu.com/search?q=Qwen%E8%AE%BA%E6%96%87%E8%8E%B7%E8%AF%84NeurIPS%202025%E6%9C%80%E4%BD%B3%E8%AE%BA%E6%96%87)
-1. [美团发布上下文级联压缩技术](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E4%B8%8A%E4%B8%8B%E6%96%87%E7%BA%A7%E8%81%94%E5%8E%8B%E7%BC%A9%E6%8A%80%E6%9C%AF)
-1. [「老穷风」怎么火了](https://www.zhihu.com/search?q=%E3%80%8C%E8%80%81%E7%A9%B7%E9%A3%8E%E3%80%8D%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86)
-1. [喜人奇妙夜2第十期](https://www.zhihu.com/search?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%E7%AC%AC%E5%8D%81%E6%9C%9F)
 1. [威海3.6级地震](https://www.zhihu.com/search?q=%E5%A8%81%E6%B5%B73.6%E7%BA%A7%E5%9C%B0%E9%9C%87)
 
 <!-- END -->
