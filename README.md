@@ -14,22 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 02 2025 19:15:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 02 2025 20:33:41 GMT+0800 (China Standard Time) -->
 
-1. [NIP全员离队](https://www.zhihu.com/search?q=NIP%E5%85%A8%E5%91%98%E7%A6%BB%E9%98%9F)
-1. [雷军回应小米汽车续航测试](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95)
+1. [Uzi 复出](https://www.zhihu.com/search?q=Uzi%20%E5%A4%8D%E5%87%BA)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
+1. [太阳vs湖人](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E6%B9%96%E4%BA%BA)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
+1. [12月新规来了](https://www.zhihu.com/search?q=12%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86)
+1. [12月起这些新规开始施行](https://www.zhihu.com/search?q=12%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [湖人vs鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%B9%88%E9%B9%95)
+1. [NIP全员离队](https://www.zhihu.com/search?q=NIP%E5%85%A8%E5%91%98%E7%A6%BB%E9%98%9F)
+1. [雷军回应小米汽车续航测试](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95)
 1. [独行侠险胜快船](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0%E9%99%A9%E8%83%9C%E5%BF%AB%E8%88%B9)
 1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%AF%E4%BB%A5%E7%AC%91%E4%B8%8A%E4%B8%80%E5%B9%B4%E7%9A%84%E7%AC%91%E8%AF%9D)
 1. [湖南烟花店主举报公职人员后轻生](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%BA%97%E4%B8%BB%E4%B8%BE%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%8E%E8%BD%BB%E7%94%9F)
 1. [河南发现长江流域迄今最早青铜器](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%8F%91%E7%8E%B0%E9%95%BF%E6%B1%9F%E6%B5%81%E5%9F%9F%E8%BF%84%E4%BB%8A%E6%9C%80%E6%97%A9%E9%9D%92%E9%93%9C%E5%99%A8)
-1. [Uzi 复出](https://www.zhihu.com/search?q=Uzi%20%E5%A4%8D%E5%87%BA)
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
-1. [12月新规来了](https://www.zhihu.com/search?q=12%E6%9C%88%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86)
 1. [让人震撼的考古发现](https://www.zhihu.com/search?q=%E8%AE%A9%E4%BA%BA%E9%9C%87%E6%92%BC%E7%9A%84%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0)
 1. [明年起存取现超5万元不用再登记](https://www.zhihu.com/search?q=%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%AD%98%E5%8F%96%E7%8E%B0%E8%B6%855%E4%B8%87%E5%85%83%E4%B8%8D%E7%94%A8%E5%86%8D%E7%99%BB%E8%AE%B0)
 1. [跑步真的会越跑越年轻吗](https://www.zhihu.com/search?q=%E8%B7%91%E6%AD%A5%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B6%8A%E8%B7%91%E8%B6%8A%E5%B9%B4%E8%BD%BB%E5%90%97)
