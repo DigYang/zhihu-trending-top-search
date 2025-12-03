@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 15:17:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 16:21:33 GMT+0800 (China Standard Time) -->
 
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
