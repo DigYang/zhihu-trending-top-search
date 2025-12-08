@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 11:17:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 12:29:15 GMT+0800 (China Standard Time) -->
 
 1. [爱奇艺尖叫之夜](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C)
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
 1. [爱奇艺道歉](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E9%81%93%E6%AD%89)
+1. [你认为最失败的 Logo 设计有哪些](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%9C%80%E5%A4%B1%E8%B4%A5%E7%9A%84%20Logo%20%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%93%AA%E4%BA%9B)
 1. [无正当理由拒篮球国家队征召将遭行业惩戒](https://www.zhihu.com/search?q=%E6%97%A0%E6%AD%A3%E5%BD%93%E7%90%86%E7%94%B1%E6%8B%92%E7%AF%AE%E7%90%83%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%BE%81%E5%8F%AC%E5%B0%86%E9%81%AD%E8%A1%8C%E4%B8%9A%E6%83%A9%E6%88%92)
 1. [摩尔线程高开468%一签盈利近27万](https://www.zhihu.com/search?q=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E9%AB%98%E5%BC%80468%25%E4%B8%80%E7%AD%BE%E7%9B%88%E5%88%A9%E8%BF%9127%E4%B8%87)
 1. [詹姆斯连续 1297 场上双神迹终结](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E8%BF%9E%E7%BB%AD%201297%20%E5%9C%BA%E4%B8%8A%E5%8F%8C%E7%A5%9E%E8%BF%B9%E7%BB%88%E7%BB%93)
