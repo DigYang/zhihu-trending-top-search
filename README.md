@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 12:29:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 13:17:44 GMT+0800 (China Standard Time) -->
 
 1. [爱奇艺尖叫之夜](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C)
 1. [F1](https://www.zhihu.com/search?q=F1)
