@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 10 2025 22:17:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 10 2025 23:18:55 GMT+0800 (China Standard Time) -->
 
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%AA%91%E5%A3%AB)
