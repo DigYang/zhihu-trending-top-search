@@ -14,9 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 11 2025 17:20:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 11 2025 19:14:50 GMT+0800 (China Standard Time) -->
 
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E4%BC%9A%E7%BF%BB%E7%9C%8B%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%97)
+1. [皇马vs曼城](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E6%9B%BC%E5%9F%8E)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
 1. [美联储降息25个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [创业板指涨逾1%](https://www.zhihu.com/search?q=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A8%E9%80%BE1%25)
