@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 12 2025 19:15:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 12 2025 20:32:53 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E4%BC%9A%E7%BF%BB%E7%9C%8B%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%97)
