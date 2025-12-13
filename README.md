@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 13 2025 11:11:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 13 2025 12:21:00 GMT+0800 (China Standard Time) -->
 
 1. [四六级考试](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95)
 1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E4%BC%9A%E7%BF%BB%E7%9C%8B%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%97)
+1. [四级作文](https://www.zhihu.com/search?q=%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
 1. [美联储降息25个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [哪些演员的表演可以称为教科书式的演技](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E7%9A%84%E8%A1%A8%E6%BC%94%E5%8F%AF%E4%BB%A5%E7%A7%B0%E4%B8%BA%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E7%9A%84%E6%BC%94%E6%8A%80)
