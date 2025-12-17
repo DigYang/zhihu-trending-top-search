@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 17 2025 15:18:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 17 2025 16:22:58 GMT+0800 (China Standard Time) -->
 
-1. [Shad0w加入CFO](https://www.zhihu.com/search?q=Shad0w%E5%8A%A0%E5%85%A5CFO)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1%E5%A4%BA%E5%86%A0)
 1. [世界强化免疫日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%BC%BA%E5%8C%96%E5%85%8D%E7%96%AB%E6%97%A5)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%B6%A8%E4%BB%B7)
@@ -25,9 +26,8 @@
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [金价又涨了](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86)
 1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%9C%87%E6%83%8A%E4%BA%86%E4%BD%A0%E7%9A%84%E5%90%8D%E8%A8%80)
+1. [Shad0w加入CFO](https://www.zhihu.com/search?q=Shad0w%E5%8A%A0%E5%85%A5CFO)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
-1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
 1. [普通人存 100 万究竟有多难](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AD%98%20100%20%E4%B8%87%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E9%9A%BE)
 1. [南京博物院藏明代仇英名作现身拍卖市场](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F%E6%98%8E%E4%BB%A3%E4%BB%87%E8%8B%B1%E5%90%8D%E4%BD%9C%E7%8E%B0%E8%BA%AB%E6%8B%8D%E5%8D%96%E5%B8%82%E5%9C%BA)
 
