@@ -1,6 +1,5 @@
 [
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "哈工大暖廊", "display_query": "哈工大暖廊" },
+  { "query": "27 岁女子没来过例假竟是「男儿芯」", "display_query": "27 岁女子没来过例假竟是「男儿芯」" },
   { "query": "哪一刻让你终于意识到了这就是命", "display_query": "哪一刻让你终于意识到了这就是命" },
   { "query": "你见过最恶心的邻居是什么样子", "display_query": "你见过最恶心的邻居是什么样子" },
   { "query": "你干过最牛的一件事是什么", "display_query": "你干过最牛的一件事是什么" },
@@ -10,5 +9,7 @@
   { "query": "钱可以成为一个人的底气吗", "display_query": "钱可以成为一个人的底气吗" },
   { "query": "你是如何理解「当时只道是寻常」的", "display_query": "你是如何理解「当时只道是寻常」的" },
   { "query": "你给孩子最大的托底是什么", "display_query": "你给孩子最大的托底是什么" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "哈工大暖廊", "display_query": "哈工大暖廊" },
   { "query": "麦当劳涨价", "display_query": "麦当劳涨价" }
 ]
