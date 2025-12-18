@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 18 2025 13:17:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 18 2025 14:25:00 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [哈工大暖廊](https://www.zhihu.com/search?q=%E5%93%88%E5%B7%A5%E5%A4%A7%E6%9A%96%E5%BB%8A)
