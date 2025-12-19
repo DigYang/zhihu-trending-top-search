@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 19 2025 21:29:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 19 2025 22:16:07 GMT+0800 (China Standard Time) -->
 
-1. [新概念英语过时了吗](https://www.zhihu.com/search?q=%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97)
-1. [央视起底走私孕妇血样黑产链](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E8%B5%B0%E7%A7%81%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E9%BB%91%E4%BA%A7%E9%93%BE)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
+1. [鞠婧祎 丝芭](https://www.zhihu.com/search?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E4%B8%9D%E8%8A%AD)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%9C%87%E6%83%8A%E4%BA%86%E4%BD%A0%E7%9A%84%E5%90%8D%E8%A8%80)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
@@ -26,8 +26,8 @@
 1. [你是如何理解「当时只道是寻常」的](https://www.zhihu.com/search?q=%E4%BD%A0%E6%98%AF%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E3%80%8C%E5%BD%93%E6%97%B6%E5%8F%AA%E9%81%93%E6%98%AF%E5%AF%BB%E5%B8%B8%E3%80%8D%E7%9A%84)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%BB%99%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A4%A7%E7%9A%84%E6%89%98%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [2025世界人形机器人运动会](https://www.zhihu.com/search?q=2025%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
-1. [鞠婧祎 丝芭](https://www.zhihu.com/search?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E4%B8%9D%E8%8A%AD)
+1. [新概念英语过时了吗](https://www.zhihu.com/search?q=%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97)
+1. [央视起底走私孕妇血样黑产链](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E8%B5%B0%E7%A7%81%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E9%BB%91%E4%BA%A7%E9%93%BE)
 1. [如何通俗解释大数定律](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E9%80%9A%E4%BF%97%E8%A7%A3%E9%87%8A%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B)
 1. [河南女孩吐槽经常被南方室友催着洗澡](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%A5%B3%E5%AD%A9%E5%90%90%E6%A7%BD%E7%BB%8F%E5%B8%B8%E8%A2%AB%E5%8D%97%E6%96%B9%E5%AE%A4%E5%8F%8B%E5%82%AC%E7%9D%80%E6%B4%97%E6%BE%A1)
 1. [咪咕为何大幅下调 CBA 转播报价](https://www.zhihu.com/search?q=%E5%92%AA%E5%92%95%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83%20CBA%20%E8%BD%AC%E6%92%AD%E6%8A%A5%E4%BB%B7)
