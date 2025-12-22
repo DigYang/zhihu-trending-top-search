@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 22 2025 17:23:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 22 2025 18:17:31 GMT+0800 (China Standard Time) -->
 
 1. [今日冬至](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%86%AC%E8%87%B3)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E5%86%B7%E7%9F%A5%E8%AF%86)
