@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 23 2025 11:22:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 23 2025 12:33:24 GMT+0800 (China Standard Time) -->
 
-1. [演技封神究竟是个什么水平](https://www.zhihu.com/search?q=%E6%BC%94%E6%8A%80%E5%B0%81%E7%A5%9E%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
+1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 1. [今日冬至](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%86%AC%E8%87%B3)
+1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E5%86%B7%E7%9F%A5%E8%AF%86)
 1. [76人vs尼克斯](https://www.zhihu.com/search?q=76%E4%BA%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF)
 1. [曼城vs西汉姆联](https://www.zhihu.com/search?q=%E6%9B%BC%E5%9F%8Evs%E8%A5%BF%E6%B1%89%E5%A7%86%E8%81%94)
 1. [金价又涨了](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86)
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=%E7%94%9F%E6%B4%BB%E4%B8%AD%E4%BD%A0%E4%BB%AC%E8%A7%81%E8%BF%87%E6%9C%80%E6%84%9A%E8%A0%A2%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%98%AF%E5%95%A5)
 1. [湖人vs快船](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BF%AB%E8%88%B9)
+1. [演技封神究竟是个什么水平](https://www.zhihu.com/search?q=%E6%BC%94%E6%8A%80%E5%B0%81%E7%A5%9E%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 1. [雄鹿vs森林狼](https://www.zhihu.com/search?q=%E9%9B%84%E9%B9%BFvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [中国古代画家为何不追求「画得像」](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E7%94%BB%E5%AE%B6%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%BF%BD%E6%B1%82%E3%80%8C%E7%94%BB%E5%BE%97%E5%83%8F%E3%80%8D)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
-1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 
 <!-- END -->
 
