@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 25 2025 06:15:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 25 2025 09:14:58 GMT+0800 (China Standard Time) -->
 
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 1. [今日冬至](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%86%AC%E8%87%B3)
