@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 02 2026 00:20:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 02 2026 01:15:24 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs活塞](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%B4%BB%E5%A1%9E)
 1. [跨年晚会](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
