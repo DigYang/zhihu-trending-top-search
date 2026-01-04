@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 04 2026 19:12:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 04 2026 20:30:18 GMT+0800 (China Standard Time) -->
 
-1. [比亚迪超越特斯拉成全球电车销冠](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B6%85%E8%B6%8A%E7%89%B9%E6%96%AF%E6%8B%89%E6%88%90%E5%85%A8%E7%90%83%E7%94%B5%E8%BD%A6%E9%94%80%E5%86%A0)
-1. [为什么读英语长难句那么辛苦](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%BB%E8%8B%B1%E8%AF%AD%E9%95%BF%E9%9A%BE%E5%8F%A5%E9%82%A3%E4%B9%88%E8%BE%9B%E8%8B%A6)
+1. [上海春考](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%98%A5%E8%80%83)
+1. [元旦假期最后一天](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
 1. [超级月亮](https://www.zhihu.com/search?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C)
@@ -26,8 +26,8 @@
 1. [雷霆vs勇士](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%8B%87%E5%A3%AB)
 1. [公司倒闭前有什么征兆](https://www.zhihu.com/search?q=%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD%E5%89%8D%E6%9C%89%E4%BB%80%E4%B9%88%E5%BE%81%E5%85%86)
 1. [灰熊vs湖人](https://www.zhihu.com/search?q=%E7%81%B0%E7%86%8Avs%E6%B9%96%E4%BA%BA)
-1. [上海春考](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%98%A5%E8%80%83)
-1. [元旦假期最后一天](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
+1. [比亚迪超越特斯拉成全球电车销冠](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B6%85%E8%B6%8A%E7%89%B9%E6%96%AF%E6%8B%89%E6%88%90%E5%85%A8%E7%90%83%E7%94%B5%E8%BD%A6%E9%94%80%E5%86%A0)
+1. [为什么读英语长难句那么辛苦](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%BB%E8%8B%B1%E8%AF%AD%E9%95%BF%E9%9A%BE%E5%8F%A5%E9%82%A3%E4%B9%88%E8%BE%9B%E8%8B%A6)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E4%B8%AA%E4%BA%BA%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E7%9B%98%E7%82%B9)
 1. [知乎年终盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E7%BB%88%E7%9B%98%E7%82%B9)
