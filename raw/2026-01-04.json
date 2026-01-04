@@ -1,5 +1,6 @@
 [
-  { "query": "超级月亮", "display_query": "超级月亮" },
+  { "query": "张水华", "display_query": "张水华" },
+  { "query": "承诺夺冠送车的女跑版疑跑路", "display_query": "承诺夺冠送车的女跑版疑跑路" },
   { "query": "知乎个人年度报告", "display_query": "知乎个人年度报告" },
   { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
   { "query": "知乎年终盘点", "display_query": "知乎年终盘点" },
@@ -8,5 +9,6 @@
   { "query": "2025年终小问", "display_query": "2025年终小问" },
   { "query": "知乎年度视频", "display_query": "知乎年度视频" },
   { "query": "2025知乎年度视频", "display_query": "2025知乎年度视频" },
+  { "query": "超级月亮", "display_query": "超级月亮" },
   { "query": "年度报告", "display_query": "年度报告" }
 ]
