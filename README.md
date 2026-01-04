@@ -14,8 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 04 2026 14:24:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 04 2026 15:17:19 GMT+0800 (China Standard Time) -->
 
+1. [上海春考](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%98%A5%E8%80%83)
+1. [元旦假期最后一天](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
+1. [超级月亮](https://www.zhihu.com/search?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE)
+1. [雷霆vs勇士](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%8B%87%E5%A3%AB)
+1. [灰熊vs湖人](https://www.zhihu.com/search?q=%E7%81%B0%E7%86%8Avs%E6%B9%96%E4%BA%BA)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E4%B8%AA%E4%BA%BA%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E7%9B%98%E7%82%B9)
 1. [知乎年终盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E7%BB%88%E7%9B%98%E7%82%B9)
@@ -31,7 +36,6 @@
 1. [faker获青龙勋章](https://www.zhihu.com/search?q=faker%E8%8E%B7%E9%9D%92%E9%BE%99%E5%8B%8B%E7%AB%A0)
 1. [《再见爱人 5》第十二期](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%205%E3%80%8B%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%9C%9F)
 1. [特斯拉丢掉全球电车销冠王座](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%A2%E6%8E%89%E5%85%A8%E7%90%83%E7%94%B5%E8%BD%A6%E9%94%80%E5%86%A0%E7%8E%8B%E5%BA%A7)
-1. [超级月亮](https://www.zhihu.com/search?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE)
 1. [张水华](https://www.zhihu.com/search?q=%E5%BC%A0%E6%B0%B4%E5%8D%8E)
 1. [承诺夺冠送车的女跑版疑跑路](https://www.zhihu.com/search?q=%E6%89%BF%E8%AF%BA%E5%A4%BA%E5%86%A0%E9%80%81%E8%BD%A6%E7%9A%84%E5%A5%B3%E8%B7%91%E7%89%88%E7%96%91%E8%B7%91%E8%B7%AF)
 
