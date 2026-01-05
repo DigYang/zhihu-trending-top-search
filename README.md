@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 05 2026 21:37:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 05 2026 22:19:45 GMT+0800 (China Standard Time) -->
 
-1. [邓紫棋科幻小说入围银河奖](https://www.zhihu.com/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%E5%85%A5%E5%9B%B4%E9%93%B6%E6%B2%B3%E5%A5%96)
-1. [湖人三大引援目标](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%89%E5%A4%A7%E5%BC%95%E6%8F%B4%E7%9B%AE%E6%A0%87)
+1. [上海春考](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%98%A5%E8%80%83)
+1. [元旦假期最后一天](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C)
 1. [76人vs尼克斯](https://www.zhihu.com/search?q=76%E4%BA%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF)
 1. [雷霆vs勇士](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%8B%87%E5%A3%AB)
@@ -26,8 +26,8 @@
 1. [为什么读英语长难句那么辛苦](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%BB%E8%8B%B1%E8%AF%AD%E9%95%BF%E9%9A%BE%E5%8F%A5%E9%82%A3%E4%B9%88%E8%BE%9B%E8%8B%A6)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
-1. [上海春考](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%98%A5%E8%80%83)
-1. [元旦假期最后一天](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
+1. [邓紫棋科幻小说入围银河奖](https://www.zhihu.com/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%E5%85%A5%E5%9B%B4%E9%93%B6%E6%B2%B3%E5%A5%96)
+1. [湖人三大引援目标](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%89%E5%A4%A7%E5%BC%95%E6%8F%B4%E7%9B%AE%E6%A0%87)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [年轻人把“梗”做成一门新生意](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%8A%E2%80%9C%E6%A2%97%E2%80%9D%E5%81%9A%E6%88%90%E4%B8%80%E9%97%A8%E6%96%B0%E7%94%9F%E6%84%8F)
