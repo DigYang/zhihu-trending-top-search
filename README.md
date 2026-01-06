@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 06 2026 09:16:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 06 2026 11:24:36 GMT+0800 (China Standard Time) -->
 
-1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E6%BC%94%E4%BB%80%E4%B9%88%E5%83%8F%E4%BB%80%E4%B9%88)
-1. [为什么有很多人连基本的常识都没有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%BF%9E%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%B8%B8%E8%AF%86%E9%83%BD%E6%B2%A1%E6%9C%89)
+1. [雄霸为什么一定要杀掉风云](https://www.zhihu.com/search?q=%E9%9B%84%E9%9C%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%80%E6%8E%89%E9%A3%8E%E4%BA%91)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E4%B8%AA%E4%BA%BA%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E7%9B%98%E7%82%B9)
 1. [知乎年终盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E7%BB%88%E7%9B%98%E7%82%B9)
@@ -26,6 +25,9 @@
 1. [2025年终小问](https://www.zhihu.com/search?q=2025%E5%B9%B4%E7%BB%88%E5%B0%8F%E9%97%AE)
 1. [知乎年度视频](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E8%A7%86%E9%A2%91)
 1. [2025知乎年度视频](https://www.zhihu.com/search?q=2025%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E8%A7%86%E9%A2%91)
+1. [年度报告](https://www.zhihu.com/search?q=%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
+1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E6%BC%94%E4%BB%80%E4%B9%88%E5%83%8F%E4%BB%80%E4%B9%88)
+1. [为什么有很多人连基本的常识都没有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%BF%9E%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%B8%B8%E8%AF%86%E9%83%BD%E6%B2%A1%E6%9C%89)
 
 <!-- END -->
 
