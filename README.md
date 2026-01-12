@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 12 2026 15:22:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 12 2026 16:24:50 GMT+0800 (China Standard Time) -->
 
-1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%BE%80%E5%BE%80%E6%9C%80%E5%85%88%E7%A6%BB%E8%81%8C)
+1. [陈幸同 4-0 蒯曼](https://www.zhihu.com/search?q=%E9%99%88%E5%B9%B8%E5%90%8C%204-0%20%E8%92%AF%E6%9B%BC)
+1. [爬楼扫地机](https://www.zhihu.com/search?q=%E7%88%AC%E6%A5%BC%E6%89%AB%E5%9C%B0%E6%9C%BA)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [巴萨vs皇马](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8vs%E7%9A%87%E9%A9%AC)
@@ -25,6 +26,7 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [上汽为什么需要华为](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B1%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E5%8D%8E%E4%B8%BA)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%BE%80%E5%BE%80%E6%9C%80%E5%85%88%E7%A6%BB%E8%81%8C)
 1. [邓布利多为什么要让海格成为老师](https://www.zhihu.com/search?q=%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AE%A9%E6%B5%B7%E6%A0%BC%E6%88%90%E4%B8%BA%E8%80%81%E5%B8%88)
 1. [小区因收不齐物业费46部电梯全停运](https://www.zhihu.com/search?q=%E5%B0%8F%E5%8C%BA%E5%9B%A0%E6%94%B6%E4%B8%8D%E9%BD%90%E7%89%A9%E4%B8%9A%E8%B4%B946%E9%83%A8%E7%94%B5%E6%A2%AF%E5%85%A8%E5%81%9C%E8%BF%90)
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
