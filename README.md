@@ -14,8 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 14 2026 16:22:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 14 2026 17:24:21 GMT+0800 (China Standard Time) -->
 
+1. [秦志戬担任国乒总教练](https://www.zhihu.com/search?q=%E7%A7%A6%E5%BF%97%E6%88%AC%E6%8B%85%E4%BB%BB%E5%9B%BD%E4%B9%92%E6%80%BB%E6%95%99%E7%BB%83)
+1. [8 所本科层次职业学校将设立](https://www.zhihu.com/search?q=8%20%E6%89%80%E6%9C%AC%E7%A7%91%E5%B1%82%E6%AC%A1%E8%81%8C%E4%B8%9A%E5%AD%A6%E6%A0%A1%E5%B0%86%E8%AE%BE%E7%AB%8B)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E4%BB%A5%E8%A7%A3%E5%86%B3)
