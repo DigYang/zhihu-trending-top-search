@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 15 2026 17:23:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 15 2026 18:18:32 GMT+0800 (China Standard Time) -->
 
-1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
+1. [赛力斯三年半采购华为 750 亿](https://www.zhihu.com/search?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E4%B8%89%E5%B9%B4%E5%8D%8A%E9%87%87%E8%B4%AD%E5%8D%8E%E4%B8%BA%20750%20%E4%BA%BF)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [国考分数线公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [WBG对战IG](https://www.zhihu.com/search?q=WBG%E5%AF%B9%E6%88%98IG)
@@ -26,6 +26,7 @@
 1. [邓布利多为什么要让海格成为老师](https://www.zhihu.com/search?q=%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AE%A9%E6%B5%B7%E6%A0%BC%E6%88%90%E4%B8%BA%E8%80%81%E5%B8%88)
 1. [普通家庭怎么带孩子见世面](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E6%80%8E%E4%B9%88%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%96%E9%9D%A2)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
+1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
 1. [普通家庭对孩子最好的托举是什么](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%98%E4%B8%BE%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [为什么失业久了没有勇气找工作](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%B1%E4%B8%9A%E4%B9%85%E4%BA%86%E6%B2%A1%E6%9C%89%E5%8B%87%E6%B0%94%E6%89%BE%E5%B7%A5%E4%BD%9C)
