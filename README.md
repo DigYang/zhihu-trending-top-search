@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 16 2026 22:18:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 16 2026 23:18:27 GMT+0800 (China Standard Time) -->
 
-1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
-1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=%E7%BB%99%E5%8A%A8%E7%89%A9%E5%96%9D%E7%99%BD%E9%85%92%E4%BC%9A%E6%80%8E%E6%A0%B7)
+1. [美正从中东主要基地撤出人员](https://www.zhihu.com/search?q=%E7%BE%8E%E6%AD%A3%E4%BB%8E%E4%B8%AD%E4%B8%9C%E4%B8%BB%E8%A6%81%E5%9F%BA%E5%9C%B0%E6%92%A4%E5%87%BA%E4%BA%BA%E5%91%98)
+1. [u23国足今晚打平就出线](https://www.zhihu.com/search?q=u23%E5%9B%BD%E8%B6%B3%E4%BB%8A%E6%99%9A%E6%89%93%E5%B9%B3%E5%B0%B1%E5%87%BA%E7%BA%BF)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [国考分数线公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [降息](https://www.zhihu.com/search?q=%E9%99%8D%E6%81%AF)
@@ -26,6 +26,8 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [iG对战AL](https://www.zhihu.com/search?q=iG%E5%AF%B9%E6%88%98AL)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
+1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
+1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=%E7%BB%99%E5%8A%A8%E7%89%A9%E5%96%9D%E7%99%BD%E9%85%92%E4%BC%9A%E6%80%8E%E6%A0%B7)
 1. [汇报工作时如何做到清晰有条理](https://www.zhihu.com/search?q=%E6%B1%87%E6%8A%A5%E5%B7%A5%E4%BD%9C%E6%97%B6%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E6%B8%85%E6%99%B0%E6%9C%89%E6%9D%A1%E7%90%86)
 1. [U23国足首次晋级亚洲杯8强](https://www.zhihu.com/search?q=U23%E5%9B%BD%E8%B6%B3%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%BA%9A%E6%B4%B2%E6%9D%AF8%E5%BC%BA)
 1. [原神月之四少女值得抽吗](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%E6%9C%88%E4%B9%8B%E5%9B%9B%E5%B0%91%E5%A5%B3%E5%80%BC%E5%BE%97%E6%8A%BD%E5%90%97)
