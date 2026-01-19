@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 19 2026 11:45:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 19 2026 12:47:17 GMT+0800 (China Standard Time) -->
 
-1. [两千万成年人患注意缺陷多动障碍（ADHD）](https://www.zhihu.com/search?q=%E4%B8%A4%E5%8D%83%E4%B8%87%E6%88%90%E5%B9%B4%E4%BA%BA%E6%82%A3%E6%B3%A8%E6%84%8F%E7%BC%BA%E9%99%B7%E5%A4%9A%E5%8A%A8%E9%9A%9C%E7%A2%8D%EF%BC%88ADHD%EF%BC%89)
+1. [坐高铁再也不用扛行李了](https://www.zhihu.com/search?q=%E5%9D%90%E9%AB%98%E9%93%81%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A8%E6%89%9B%E8%A1%8C%E6%9D%8E%E4%BA%86)
 1. [聂卫平](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3)
 1. [聂卫平战日本特意穿了国乒球衣](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%88%98%E6%97%A5%E6%9C%AC%E7%89%B9%E6%84%8F%E7%A9%BF%E4%BA%86%E5%9B%BD%E4%B9%92%E7%90%83%E8%A1%A3)
 1. [聂卫平去世](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%8E%BB%E4%B8%96)
@@ -26,7 +26,7 @@
 1. [尹锡悦涉内乱案一审被判 5 年](https://www.zhihu.com/search?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E6%B6%89%E5%86%85%E4%B9%B1%E6%A1%88%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%205%20%E5%B9%B4)
 1. [特斯拉与小米推出低息购车政策](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8E%E5%B0%8F%E7%B1%B3%E6%8E%A8%E5%87%BA%E4%BD%8E%E6%81%AF%E8%B4%AD%E8%BD%A6%E6%94%BF%E7%AD%96)
 1. [李湘名下近 7 成企业已注销](https://www.zhihu.com/search?q=%E6%9D%8E%E6%B9%98%E5%90%8D%E4%B8%8B%E8%BF%91%207%20%E6%88%90%E4%BC%81%E4%B8%9A%E5%B7%B2%E6%B3%A8%E9%94%80)
-1. [坐高铁再也不用扛行李了](https://www.zhihu.com/search?q=%E5%9D%90%E9%AB%98%E9%93%81%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A8%E6%89%9B%E8%A1%8C%E6%9D%8E%E4%BA%86)
+1. [两千万成年人患注意缺陷多动障碍（ADHD）](https://www.zhihu.com/search?q=%E4%B8%A4%E5%8D%83%E4%B8%87%E6%88%90%E5%B9%B4%E4%BA%BA%E6%82%A3%E6%B3%A8%E6%84%8F%E7%BC%BA%E9%99%B7%E5%A4%9A%E5%8A%A8%E9%9A%9C%E7%A2%8D%EF%BC%88ADHD%EF%BC%89)
 1. [福耀科技大学大一学生被企业抢光](https://www.zhihu.com/search?q=%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%A4%A7%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E4%BC%81%E4%B8%9A%E6%8A%A2%E5%85%89)
 1. [西贝将关闭102家门店](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E5%B0%86%E5%85%B3%E9%97%AD102%E5%AE%B6%E9%97%A8%E5%BA%97)
 1. [贾国龙回应关店不懂公关被网红污蔑](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%9B%9E%E5%BA%94%E5%85%B3%E5%BA%97%E4%B8%8D%E6%87%82%E5%85%AC%E5%85%B3%E8%A2%AB%E7%BD%91%E7%BA%A2%E6%B1%A1%E8%94%91)
