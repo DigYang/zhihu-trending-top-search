@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 20 2026 15:22:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 20 2026 16:25:03 GMT+0800 (China Standard Time) -->
 
-1. [小伙为克服自卑在地铁上演讲](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99%E4%B8%BA%E5%85%8B%E6%9C%8D%E8%87%AA%E5%8D%91%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E6%BC%94%E8%AE%B2)
-1. [大范围雨雪来了多地发布停课通知](https://www.zhihu.com/search?q=%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E6%9D%A5%E4%BA%86%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5)
+1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG%E6%88%98%E8%83%9CAL)
 1. [湖人vs开拓者](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BC%80%E6%8B%93%E8%80%85)
@@ -26,8 +25,9 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
-1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
 1. [什么样的版图可以称为美观](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%89%88%E5%9B%BE%E5%8F%AF%E4%BB%A5%E7%A7%B0%E4%B8%BA%E7%BE%8E%E8%A7%82)
+1. [小伙为克服自卑在地铁上演讲](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99%E4%B8%BA%E5%85%8B%E6%9C%8D%E8%87%AA%E5%8D%91%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E6%BC%94%E8%AE%B2)
+1. [大范围雨雪来了多地发布停课通知](https://www.zhihu.com/search?q=%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E6%9D%A5%E4%BA%86%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
 1. [嫣然天使基金暂停筹款 医院有意找新址](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%A4%A9%E4%BD%BF%E5%9F%BA%E9%87%91%E6%9A%82%E5%81%9C%E7%AD%B9%E6%AC%BE%20%E5%8C%BB%E9%99%A2%E6%9C%89%E6%84%8F%E6%89%BE%E6%96%B0%E5%9D%80)
 1. [河南多地因极端暴雪停课](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%9B%A0%E6%9E%81%E7%AB%AF%E6%9A%B4%E9%9B%AA%E5%81%9C%E8%AF%BE)
