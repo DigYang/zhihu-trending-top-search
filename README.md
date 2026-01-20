@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 21 2026 01:23:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 21 2026 02:28:02 GMT+0800 (China Standard Time) -->
 
-1. [德国重启电动汽车购车补贴](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E9%87%8D%E5%90%AF%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E8%B4%AD%E8%BD%A6%E8%A1%A5%E8%B4%B4)
-1. [呼啸山庄内地定档 3 月 13 日](https://www.zhihu.com/search?q=%E5%91%BC%E5%95%B8%E5%B1%B1%E5%BA%84%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3%203%20%E6%9C%88%2013%20%E6%97%A5)
+1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B9%B0%E4%BA%86)
@@ -26,8 +25,9 @@
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
 1. [挣钱的本质是什么](https://www.zhihu.com/search?q=%E6%8C%A3%E9%92%B1%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
 1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=%E4%BB%8E%E4%BD%93%E5%88%B6%E5%86%85%E5%87%BA%E5%8E%BB%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%90%8E%E6%82%94%E5%90%97)
+1. [德国重启电动汽车购车补贴](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E9%87%8D%E5%90%AF%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E8%B4%AD%E8%BD%A6%E8%A1%A5%E8%B4%B4)
+1. [呼啸山庄内地定档 3 月 13 日](https://www.zhihu.com/search?q=%E5%91%BC%E5%95%B8%E5%B1%B1%E5%BA%84%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3%203%20%E6%9C%88%2013%20%E6%97%A5)
 
 <!-- END -->
 
