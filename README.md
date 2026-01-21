@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 21 2026 15:23:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 21 2026 16:24:53 GMT+0800 (China Standard Time) -->
 
+1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
 1. [黄金价格再创新高](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
