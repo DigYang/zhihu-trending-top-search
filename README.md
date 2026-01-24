@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 24 2026 13:17:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 24 2026 14:24:24 GMT+0800 (China Standard Time) -->
 
-1. [黄金价格再创新高](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [勇士vs独行侠](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E7%8B%AC%E8%A1%8C%E4%BE%A0)
@@ -26,6 +25,8 @@
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
 1. [挣钱的本质是什么](https://www.zhihu.com/search?q=%E6%8C%A3%E9%92%B1%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=%E4%BB%8E%E4%BD%93%E5%88%B6%E5%86%85%E5%87%BA%E5%8E%BB%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%90%8E%E6%82%94%E5%90%97)
+1. [黄金价格再创新高](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
 
 <!-- END -->
 
