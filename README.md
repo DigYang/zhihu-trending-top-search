@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 27 2026 20:37:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 27 2026 21:41:46 GMT+0800 (China Standard Time) -->
 
-1. [亚洲杯](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
@@ -26,6 +25,8 @@
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B9%B0%E4%BA%86)
 1. [湖人战胜独行侠](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E6%88%98%E8%83%9C%E7%8B%AC%E8%A1%8C%E4%BE%A0)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E9%98%BB%E7%A2%8D%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=%E5%8C%97%E6%96%B9%E7%94%A8%E9%A5%BA%E5%AD%90%E6%8E%A5%E5%BE%85%E5%AE%A2%E4%BA%BA%E6%98%AF%E9%87%8D%E8%A7%86%E5%90%97)
+1. [亚洲杯](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF)
 1. [国产顶刊Vita首篇论文上线](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BA%A7%E9%A1%B6%E5%88%8AVita%E9%A6%96%E7%AF%87%E8%AE%BA%E6%96%87%E4%B8%8A%E7%BA%BF)
 1. [王欣瑜无缘澳网女单8强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E6%97%A0%E7%BC%98%E6%BE%B3%E7%BD%91%E5%A5%B3%E5%8D%958%E5%BC%BA)
 1. [JDG战胜BLG](https://www.zhihu.com/search?q=JDG%E6%88%98%E8%83%9CBLG)
@@ -38,7 +39,6 @@
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E8%A7%89%E5%BE%97%E7%A9%B7%E6%B8%B8%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=%E5%8C%97%E6%96%B9%E7%94%A8%E9%A5%BA%E5%AD%90%E6%8E%A5%E5%BE%85%E5%AE%A2%E4%BA%BA%E6%98%AF%E9%87%8D%E8%A7%86%E5%90%97)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [王玉雯工作室严正声明](https://www.zhihu.com/search?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E)
 1. [华中科大Cell论文称癌细胞或可保护大脑](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%AD%E7%A7%91%E5%A4%A7Cell%E8%AE%BA%E6%96%87%E7%A7%B0%E7%99%8C%E7%BB%86%E8%83%9E%E6%88%96%E5%8F%AF%E4%BF%9D%E6%8A%A4%E5%A4%A7%E8%84%91)
