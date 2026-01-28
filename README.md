@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 29 2026 00:29:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 29 2026 01:27:33 GMT+0800 (China Standard Time) -->
 
-1. [妈妈辅导作业崩溃吞下整罐安眠药](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E5%B4%A9%E6%BA%83%E5%90%9E%E4%B8%8B%E6%95%B4%E7%BD%90%E5%AE%89%E7%9C%A0%E8%8D%AF)
-1. [Rodin Gen-2正式发布](https://www.zhihu.com/search?q=Rodin%20Gen-2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
+1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
+1. [火箭vs灰熊](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E7%81%B0%E7%86%8A)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B9%B0%E4%BA%86)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E9%98%BB%E7%A2%8D%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=%E5%8C%97%E6%96%B9%E7%94%A8%E9%A5%BA%E5%AD%90%E6%8E%A5%E5%BE%85%E5%AE%A2%E4%BA%BA%E6%98%AF%E9%87%8D%E8%A7%86%E5%90%97)
@@ -26,6 +26,8 @@
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
 1. [为什么欧洲人画不出动人的写意画](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AC%A7%E6%B4%B2%E4%BA%BA%E7%94%BB%E4%B8%8D%E5%87%BA%E5%8A%A8%E4%BA%BA%E7%9A%84%E5%86%99%E6%84%8F%E7%94%BB)
+1. [妈妈辅导作业崩溃吞下整罐安眠药](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E5%B4%A9%E6%BA%83%E5%90%9E%E4%B8%8B%E6%95%B4%E7%BD%90%E5%AE%89%E7%9C%A0%E8%8D%AF)
+1. [Rodin Gen-2正式发布](https://www.zhihu.com/search?q=Rodin%20Gen-2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
 
 <!-- END -->
 
