@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 28 2026 07:16:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 28 2026 09:18:55 GMT+0800 (China Standard Time) -->
 
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
