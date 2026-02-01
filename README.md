@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 04:19:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 05:17:31 GMT+0800 (China Standard Time) -->
 
 1. [网传陕西某高校买卖职称评教授](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%99%95%E8%A5%BF%E6%9F%90%E9%AB%98%E6%A0%A1%E4%B9%B0%E5%8D%96%E8%81%8C%E7%A7%B0%E8%AF%84%E6%95%99%E6%8E%88)
 1. [女子「上班头痛，下班就缓解」](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E3%80%8C%E4%B8%8A%E7%8F%AD%E5%A4%B4%E7%97%9B%EF%BC%8C%E4%B8%8B%E7%8F%AD%E5%B0%B1%E7%BC%93%E8%A7%A3%E3%80%8D)
