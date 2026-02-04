@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 04 2026 19:29:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 04 2026 20:45:56 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
 1. [春运第一天](https://www.zhihu.com/search?q=%E6%98%A5%E8%BF%90%E7%AC%AC%E4%B8%80%E5%A4%A9)
@@ -23,6 +23,7 @@
 1. [热刺vs曼城](https://www.zhihu.com/search?q=%E7%83%AD%E5%88%BAvs%E6%9B%BC%E5%9F%8E)
 1. [今晚油价上调](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [星穹铁道千星纪游PV](https://www.zhihu.com/search?q=%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E5%8D%83%E6%98%9F%E7%BA%AA%E6%B8%B8PV)
+1. [美国斩杀线是什么](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [「反向春运」火了](https://www.zhihu.com/search?q=%E3%80%8C%E5%8F%8D%E5%90%91%E6%98%A5%E8%BF%90%E3%80%8D%E7%81%AB%E4%BA%86)
 1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
 1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI%E5%BB%BA%E7%AB%8B%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9CMoltbook)
