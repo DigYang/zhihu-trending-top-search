@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 05 2026 14:51:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 05 2026 15:45:08 GMT+0800 (China Standard Time) -->
 
-1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
+1. [员工酸菜池中吐痰老板被罚百万](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E9%85%B8%E8%8F%9C%E6%B1%A0%E4%B8%AD%E5%90%90%E7%97%B0%E8%80%81%E6%9D%BF%E8%A2%AB%E7%BD%9A%E7%99%BE%E4%B8%87)
 1. [春运第一天](https://www.zhihu.com/search?q=%E6%98%A5%E8%BF%90%E7%AC%AC%E4%B8%80%E5%A4%A9)
 1. [格莱美红毯](https://www.zhihu.com/search?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF)
 1. [湖人vs篮网](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%AF%AE%E7%BD%91)
@@ -26,6 +26,7 @@
 1. [美国斩杀线是什么](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B1%A1%E8%94%91%E8%AF%BD%E8%B0%A4)
 1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%9B%9E%E5%BA%94)
+1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
 
 <!-- END -->
 
