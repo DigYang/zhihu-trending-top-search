@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 08 2026 12:58:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 08 2026 14:00:03 GMT+0800 (China Standard Time) -->
 
+1. [任天堂直面会](https://www.zhihu.com/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%E7%9B%B4%E9%9D%A2%E4%BC%9A)
 1. [苏翊鸣晋级大跳台决赛](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%99%8B%E7%BA%A7%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B)
 1. [我国成功发射可重复使用试验航天器](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8F%AF%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E8%AF%95%E9%AA%8C%E8%88%AA%E5%A4%A9%E5%99%A8)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
