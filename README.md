@@ -14,10 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 14 2026 09:40:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 14 2026 13:39:59 GMT+0800 (China Standard Time) -->
 
+1. [情人节](https://www.zhihu.com/search?q=%E6%83%85%E4%BA%BA%E8%8A%82)
 1. [独行侠vs湖人](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0vs%E6%B9%96%E4%BA%BA)
 1. [二十四扫房子](https://www.zhihu.com/search?q=%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%89%AB%E6%88%BF%E5%AD%90)
+1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
+1. [你心目中的年味是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%B9%B4%E5%91%B3%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [1月70城房价出炉](https://www.zhihu.com/search?q=1%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E8%A7%89%E5%BE%97%E7%A9%B7%E6%B8%B8%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=%E4%B8%AD%E9%A4%90%E5%92%8C%E8%A5%BF%E9%A4%90%E5%93%AA%E4%B8%AA%E6%B2%B9%E8%85%BB)
