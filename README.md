@@ -14,10 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 19 2026 16:36:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 19 2026 17:39:02 GMT+0800 (China Standard Time) -->
 
-1. [全国初二回娘家的女婿belike](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%88%9D%E4%BA%8C%E5%9B%9E%E5%A8%98%E5%AE%B6%E7%9A%84%E5%A5%B3%E5%A9%BFbelike)
-1. [为什么网购不能买烟草](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BD%91%E8%B4%AD%E4%B8%8D%E8%83%BD%E4%B9%B0%E7%83%9F%E8%8D%89)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%B9%B4%E5%91%B3%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [我的马年祝福](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
@@ -28,6 +26,8 @@
 1. [ai 搜索集卡享大礼](https://www.zhihu.com/search?q=ai%20%E6%90%9C%E7%B4%A2%E9%9B%86%E5%8D%A1%E4%BA%AB%E5%A4%A7%E7%A4%BC)
 1. [ai搜索集卡享大礼](https://www.zhihu.com/search?q=ai%E6%90%9C%E7%B4%A2%E9%9B%86%E5%8D%A1%E4%BA%AB%E5%A4%A7%E7%A4%BC)
 1. [马上集卡分大礼](https://www.zhihu.com/search?q=%E9%A9%AC%E4%B8%8A%E9%9B%86%E5%8D%A1%E5%88%86%E5%A4%A7%E7%A4%BC)
+1. [全国初二回娘家的女婿belike](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%88%9D%E4%BA%8C%E5%9B%9E%E5%A8%98%E5%AE%B6%E7%9A%84%E5%A5%B3%E5%A9%BFbelike)
+1. [为什么网购不能买烟草](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BD%91%E8%B4%AD%E4%B8%8D%E8%83%BD%E4%B9%B0%E7%83%9F%E8%8D%89)
 1. [春节里的传统文化含量拉满了](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E9%87%8C%E7%9A%84%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E5%90%AB%E9%87%8F%E6%8B%89%E6%BB%A1%E4%BA%86)
 1. [各大银行盯上压岁钱](https://www.zhihu.com/search?q=%E5%90%84%E5%A4%A7%E9%93%B6%E8%A1%8C%E7%9B%AF%E4%B8%8A%E5%8E%8B%E5%B2%81%E9%92%B1)
 1. [机票价格大跳水](https://www.zhihu.com/search?q=%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4)
