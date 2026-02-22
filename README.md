@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 22 2026 13:46:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 22 2026 14:39:50 GMT+0800 (China Standard Time) -->
 
-1. [沙尘暴](https://www.zhihu.com/search?q=%E6%B2%99%E5%B0%98%E6%9A%B4)
-1. [正月初五接财神](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%88%9D%E4%BA%94%E6%8E%A5%E8%B4%A2%E7%A5%9E)
-1. [初五迎财神](https://www.zhihu.com/search?q=%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E)
+1. [空中技巧混合团体决赛](https://www.zhihu.com/search?q=%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E5%86%B3%E8%B5%9B)
 1. [快船战胜掘金](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E6%88%98%E8%83%9C%E6%8E%98%E9%87%91)
-1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
+1. [亚马逊成全球营收最高企业](https://www.zhihu.com/search?q=%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%88%90%E5%85%A8%E7%90%83%E8%90%A5%E6%94%B6%E6%9C%80%E9%AB%98%E4%BC%81%E4%B8%9A)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%B9%B4%E5%91%B3%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [湖人vs快船](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BF%AB%E8%88%B9)
 1. [步行者vs奇才](https://www.zhihu.com/search?q=%E6%AD%A5%E8%A1%8C%E8%80%85vs%E5%A5%87%E6%89%8D)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E8%A7%89%E5%BE%97%E7%A9%B7%E6%B8%B8%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
+1. [在幼儿园当幼师是什么感觉](https://www.zhihu.com/search?q=%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%BD%93%E5%B9%BC%E5%B8%88%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89)
+1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=%E9%92%93%E9%B1%BC%E4%BD%AC%E6%9C%80%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [沙尘暴](https://www.zhihu.com/search?q=%E6%B2%99%E5%B0%98%E6%9A%B4)
+1. [正月初五接财神](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%88%9D%E4%BA%94%E6%8E%A5%E8%B4%A2%E7%A5%9E)
+1. [初五迎财神](https://www.zhihu.com/search?q=%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E)
+1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
 
 <!-- END -->
 
