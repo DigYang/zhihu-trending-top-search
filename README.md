@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 22 2026 09:45:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 22 2026 12:11:51 GMT+0800 (China Standard Time) -->
 
 1. [沙尘暴](https://www.zhihu.com/search?q=%E6%B2%99%E5%B0%98%E6%9A%B4)
 1. [正月初五接财神](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%88%9D%E4%BA%94%E6%8E%A5%E8%B4%A2%E7%A5%9E)
