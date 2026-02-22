@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 22 2026 21:39:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 22 2026 22:21:13 GMT+0800 (China Standard Time) -->
 
 1. [沙尘暴](https://www.zhihu.com/search?q=%E6%B2%99%E5%B0%98%E6%9A%B4)
 1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C)
