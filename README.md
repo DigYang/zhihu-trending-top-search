@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 23 2026 07:19:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 23 2026 09:46:05 GMT+0800 (China Standard Time) -->
 
 1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
