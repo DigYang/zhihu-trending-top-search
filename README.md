@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 24 2026 03:01:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 24 2026 04:38:41 GMT+0800 (China Standard Time) -->
 
 1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C)
 1. [黄景瑜演技](https://www.zhihu.com/search?q=%E9%BB%84%E6%99%AF%E7%91%9C%E6%BC%94%E6%8A%80)
