@@ -1,6 +1,5 @@
 [
-  { "query": "多地气温断崖式下跌", "display_query": "多地气温断崖式下跌" },
-  { "query": "黄景瑜演技", "display_query": "黄景瑜演技" },
+  { "query": "7名中国游客沉入贝加尔湖溺亡", "display_query": "7名中国游客沉入贝加尔湖溺亡" },
   { "query": "2026 米兰冬奥会", "display_query": "2026 米兰冬奥会" },
   { "query": "马年集卡赢大礼", "display_query": "马年集卡赢大礼" },
   { "query": "知乎春节回忆录", "display_query": "知乎春节回忆录" },
@@ -8,5 +7,9 @@
   { "query": "搜索回忆录", "display_query": "搜索回忆录" },
   { "query": "ai 回忆录", "display_query": "ai 回忆录" },
   { "query": "ai回忆录", "display_query": "ai回忆录" },
+  { "query": "武侠动作电影《镖人：风起大漠》热映", "display_query": "武侠动作电影《镖人：风起大漠》热映" },
+  { "query": "电影《惊蛰无声》热映", "display_query": "电影《惊蛰无声》热映" },
+  { "query": "多地气温断崖式下跌", "display_query": "多地气温断崖式下跌" },
+  { "query": "黄景瑜演技", "display_query": "黄景瑜演技" },
   { "query": "电影《飞驰人生 3》热映", "display_query": "电影《飞驰人生 3》热映" }
 ]
