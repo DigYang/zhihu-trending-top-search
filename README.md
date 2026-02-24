@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 25 2026 03:45:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 25 2026 04:28:26 GMT+0800 (China Standard Time) -->
 
 1. [考研初试](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95)
 1. [孙颖莎晋级32强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A732%E5%BC%BA)
