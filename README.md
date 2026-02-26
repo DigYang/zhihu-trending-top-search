@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 26 2026 18:39:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 26 2026 19:35:50 GMT+0800 (China Standard Time) -->
 
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
+1. [新品驾到](https://www.zhihu.com/search?q=%E6%96%B0%E5%93%81%E9%A9%BE%E5%88%B0)
 1. [jdg对战tes](https://www.zhihu.com/search?q=jdg%E5%AF%B9%E6%88%98tes)
 1. [今晚油价上涨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [WBG战胜IG](https://www.zhihu.com/search?q=WBG%E6%88%98%E8%83%9CIG)
