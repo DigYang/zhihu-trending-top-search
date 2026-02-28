@@ -14,9 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 13:28:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 14:30:25 GMT+0800 (China Standard Time) -->
 
+1. [中国男篮 不容易](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%20%E4%B8%8D%E5%AE%B9%E6%98%93)
+1. [环境空气质量新国标来了](https://www.zhihu.com/search?q=%E7%8E%AF%E5%A2%83%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F%E6%96%B0%E5%9B%BD%E6%A0%87%E6%9D%A5%E4%BA%86)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
+1. [酒驾](https://www.zhihu.com/search?q=%E9%85%92%E9%A9%BE)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg%E6%88%98%E8%83%9Cig)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
