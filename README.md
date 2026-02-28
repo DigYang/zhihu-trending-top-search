@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 09:22:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 11:49:45 GMT+0800 (China Standard Time) -->
 
-1. [四六级成绩公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg%E6%88%98%E8%83%9Cig)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
@@ -27,6 +26,7 @@
 1. [火箭vs魔术](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E9%AD%94%E6%9C%AF)
 1. [LPL第一赛段](https://www.zhihu.com/search?q=LPL%E7%AC%AC%E4%B8%80%E8%B5%9B%E6%AE%B5)
 1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA9%E9%87%8C%E6%98%82%E4%BA%BA%E8%AE%BE%E4%BA%89%E8%AE%AE)
+1. [四六级成绩公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
 1. [高考倒计时100天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9)
 
 <!-- END -->
