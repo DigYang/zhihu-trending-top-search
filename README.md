@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 12:50:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 13:28:53 GMT+0800 (China Standard Time) -->
 
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg%E6%88%98%E8%83%9Cig)
