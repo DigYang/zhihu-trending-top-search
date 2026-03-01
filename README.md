@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 01 2026 22:19:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 01 2026 23:18:04 GMT+0800 (China Standard Time) -->
 
+1. [王楚钦男单夺冠](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
 1. [退税](https://www.zhihu.com/search?q=%E9%80%80%E7%A8%8E)
 1. [考研查分](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%9F%A5%E5%88%86)
