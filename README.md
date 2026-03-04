@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 04 2026 07:21:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 04 2026 09:28:33 GMT+0800 (China Standard Time) -->
 
-1. [正月十五闹元宵](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%8D%81%E4%BA%94%E9%97%B9%E5%85%83%E5%AE%B5)
-1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
+1. [美伊以冲突](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E4%BB%A5%E5%86%B2%E7%AA%81)
 1. [元宵节](https://www.zhihu.com/search?q=%E5%85%83%E5%AE%B5%E8%8A%82)
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%87%E5%B0%94%E8%A5%BF)
 1. [森林狼vs掘金](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BCvs%E6%8E%98%E9%87%91)
@@ -26,6 +25,9 @@
 1. [王楚钦vs林昀儒](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E6%98%80%E5%84%92)
 1. [沪指再度刷新阶段高点](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%87%E5%86%8D%E5%BA%A6%E5%88%B7%E6%96%B0%E9%98%B6%E6%AE%B5%E9%AB%98%E7%82%B9)
 1. [休斯顿火箭](https://www.zhihu.com/search?q=%E4%BC%91%E6%96%AF%E9%A1%BF%E7%81%AB%E7%AE%AD)
+1. [电影《夜王》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%9C%E7%8E%8B%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [正月十五闹元宵](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%8D%81%E4%BA%94%E9%97%B9%E5%85%83%E5%AE%B5)
+1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 
 <!-- END -->
 
