@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 05 2026 07:24:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 05 2026 09:43:02 GMT+0800 (China Standard Time) -->
 
-1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
-1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95)
+1. [飞驰人生3暂列2026全球票房第一](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F3%E6%9A%82%E5%88%972026%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E7%AC%AC%E4%B8%80)
+1. [三桶油全线涨停](https://www.zhihu.com/search?q=%E4%B8%89%E6%A1%B6%E6%B2%B9%E5%85%A8%E7%BA%BF%E6%B6%A8%E5%81%9C)
 1. [凤凰传奇演唱会](https://www.zhihu.com/search?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [森林狼vs掘金](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BCvs%E6%8E%98%E9%87%91)
 1. [灰熊vs森林狼](https://www.zhihu.com/search?q=%E7%81%B0%E7%86%8Avs%E6%A3%AE%E6%9E%97%E7%8B%BC)
@@ -26,6 +26,8 @@
 1. [台湾台南市发生4.5级地震](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8F%91%E7%94%9F4.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [现货黄金大跌](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C)
 1. [沪指再度刷新阶段高点](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%87%E5%86%8D%E5%BA%A6%E5%88%B7%E6%96%B0%E9%98%B6%E6%AE%B5%E9%AB%98%E7%82%B9)
+1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
+1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95)
 
 <!-- END -->
 
