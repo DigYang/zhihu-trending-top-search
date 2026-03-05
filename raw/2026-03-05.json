@@ -1,9 +1,12 @@
 [
   { "query": "a股", "display_query": "a股" },
+  { "query": "哪些迹象表明公司不行了", "display_query": "哪些迹象表明公司不行了" },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "湖人险胜鹈鹕", "display_query": "湖人险胜鹈鹕" },
   { "query": "凤凰传奇演唱会", "display_query": "凤凰传奇演唱会" },
   { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
   { "query": "灰熊vs森林狼", "display_query": "灰熊vs森林狼" },
+  { "query": "快船vs步行者", "display_query": "快船vs步行者" },
   { "query": "央视元宵晚会节目单", "display_query": "央视元宵晚会节目单" },
   { "query": "央视元宵晚会", "display_query": "央视元宵晚会" },
   { "query": "今日惊蛰", "display_query": "今日惊蛰" },
