@@ -14,8 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 06 2026 17:32:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 06 2026 18:28:37 GMT+0800 (China Standard Time) -->
 
+1. [玩三角洲行动挫败感太强怎么办](https://www.zhihu.com/search?q=%E7%8E%A9%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E6%8C%AB%E8%B4%A5%E6%84%9F%E5%A4%AA%E5%BC%BA%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [中国女篮战胜巴西女篮](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%88%98%E8%83%9C%E5%B7%B4%E8%A5%BF%E5%A5%B3%E7%AF%AE)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E8%BF%B9%E8%B1%A1%E8%A1%A8%E6%98%8E%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A1%8C%E4%BA%86)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95)
