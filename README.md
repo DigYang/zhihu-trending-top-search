@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 09 2026 06:17:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 09 2026 09:44:49 GMT+0800 (China Standard Time) -->
 
-1. [三八妇女节](https://www.zhihu.com/search?q=%E4%B8%89%E5%85%AB%E5%A6%87%E5%A5%B3%E8%8A%82)
+1. [比亚迪发布第二代刀片电池及闪充技术](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A0%E5%8F%8A%E9%97%AA%E5%85%85%E6%8A%80%E6%9C%AF)
 1. [妇女节](https://www.zhihu.com/search?q=%E5%A6%87%E5%A5%B3%E8%8A%82)
 1. [电影《夜王》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%9C%E7%8E%8B%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [新能源车产超1600万](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BA%A7%E8%B6%851600%E4%B8%87)
-1. [2026GDP增长目标](https://www.zhihu.com/search?q=2026GDP%E5%A2%9E%E9%95%BF%E7%9B%AE%E6%A0%87)
-1. [加强初婚初育家庭住房保障](https://www.zhihu.com/search?q=%E5%8A%A0%E5%BC%BA%E5%88%9D%E5%A9%9A%E5%88%9D%E8%82%B2%E5%AE%B6%E5%BA%AD%E4%BD%8F%E6%88%BF%E4%BF%9D%E9%9A%9C)
 1. [培育未来新产业](https://www.zhihu.com/search?q=%E5%9F%B9%E8%82%B2%E6%9C%AA%E6%9D%A5%E6%96%B0%E4%BA%A7%E4%B8%9A)
 1. [Macbook Neo发布](https://www.zhihu.com/search?q=Macbook%20Neo%E5%8F%91%E5%B8%83)
 1. [善待自己不只是吃好穿好](https://www.zhihu.com/search?q=%E5%96%84%E5%BE%85%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%90%83%E5%A5%BD%E7%A9%BF%E5%A5%BD)
+1. [张凯丽建议全国统一婚假](https://www.zhihu.com/search?q=%E5%BC%A0%E5%87%AF%E4%B8%BD%E5%BB%BA%E8%AE%AE%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A9%9A%E5%81%87)
+1. [中国坚定维护国际法治](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%9D%9A%E5%AE%9A%E7%BB%B4%E6%8A%A4%E5%9B%BD%E9%99%85%E6%B3%95%E6%B2%BB)
+1. [三八妇女节](https://www.zhihu.com/search?q=%E4%B8%89%E5%85%AB%E5%A6%87%E5%A5%B3%E8%8A%82)
+1. [2026GDP增长目标](https://www.zhihu.com/search?q=2026GDP%E5%A2%9E%E9%95%BF%E7%9B%AE%E6%A0%87)
+1. [加强初婚初育家庭住房保障](https://www.zhihu.com/search?q=%E5%8A%A0%E5%BC%BA%E5%88%9D%E5%A9%9A%E5%88%9D%E8%82%B2%E5%AE%B6%E5%BA%AD%E4%BD%8F%E6%88%BF%E4%BF%9D%E9%9A%9C)
 
 <!-- END -->
 
