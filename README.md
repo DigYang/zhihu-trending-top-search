@@ -14,8 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 11 2026 12:04:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 11 2026 13:43:14 GMT+0800 (China Standard Time) -->
 
+1. [空调「铝代铜」真的不可取吗？](https://www.zhihu.com/search?q=%E7%A9%BA%E8%B0%83%E3%80%8C%E9%93%9D%E4%BB%A3%E9%93%9C%E3%80%8D%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%8F%AF%E5%8F%96%E5%90%97%EF%BC%9F)
+1. [网传腾讯文档北京团队迁深圳](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E8%85%BE%E8%AE%AF%E6%96%87%E6%A1%A3%E5%8C%97%E4%BA%AC%E5%9B%A2%E9%98%9F%E8%BF%81%E6%B7%B1%E5%9C%B3)
 1. [白日提灯](https://www.zhihu.com/search?q=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%8A%B1%20624%20%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%8B%E4%B8%80%E6%A0%B9%E9%A6%99%E8%95%89)
 1. [全国秋粮累计收购超3亿吨](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E7%B4%AF%E8%AE%A1%E6%94%B6%E8%B4%AD%E8%B6%853%E4%BA%BF%E5%90%A8)
