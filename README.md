@@ -14,8 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 12 2026 22:56:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 12 2026 23:56:23 GMT+0800 (China Standard Time) -->
 
+1. [AI平台应保护好更多的成毅们](https://www.zhihu.com/search?q=AI%E5%B9%B3%E5%8F%B0%E5%BA%94%E4%BF%9D%E6%8A%A4%E5%A5%BD%E6%9B%B4%E5%A4%9A%E7%9A%84%E6%88%90%E6%AF%85%E4%BB%AC)
+1. [openai为龙虾紧急收购了一家23人公司](https://www.zhihu.com/search?q=openai%E4%B8%BA%E9%BE%99%E8%99%BE%E7%B4%A7%E6%80%A5%E6%94%B6%E8%B4%AD%E4%BA%86%E4%B8%80%E5%AE%B623%E4%BA%BA%E5%85%AC%E5%8F%B8)
 1. [皇马vs曼城](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E6%9B%BC%E5%9F%8E)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%8A%B1%20624%20%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%8B%E4%B8%80%E6%A0%B9%E9%A6%99%E8%95%89)
