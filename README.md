@@ -14,8 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 13 2026 12:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 13 2026 14:43:39 GMT+0800 (China Standard Time) -->
 
+1. [马德里竞技5比2热刺](https://www.zhihu.com/search?q=%E9%A9%AC%E5%BE%B7%E9%87%8C%E7%AB%9E%E6%8A%805%E6%AF%942%E7%83%AD%E5%88%BA)
+1. [千元未拆封首饰因过48小时不退货](https://www.zhihu.com/search?q=%E5%8D%83%E5%85%83%E6%9C%AA%E6%8B%86%E5%B0%81%E9%A6%96%E9%A5%B0%E5%9B%A0%E8%BF%8748%E5%B0%8F%E6%97%B6%E4%B8%8D%E9%80%80%E8%B4%A7)
 1. [皇马vs曼城](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E6%9B%BC%E5%9F%8E)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [湖人击败森林狼](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E5%87%BB%E8%B4%A5%E6%A3%AE%E6%9E%97%E7%8B%BC)
