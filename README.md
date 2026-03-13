@@ -14,10 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 13 2026 14:43:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 13 2026 15:40:19 GMT+0800 (China Standard Time) -->
 
-1. [马德里竞技5比2热刺](https://www.zhihu.com/search?q=%E9%A9%AC%E5%BE%B7%E9%87%8C%E7%AB%9E%E6%8A%805%E6%AF%942%E7%83%AD%E5%88%BA)
-1. [千元未拆封首饰因过48小时不退货](https://www.zhihu.com/search?q=%E5%8D%83%E5%85%83%E6%9C%AA%E6%8B%86%E5%B0%81%E9%A6%96%E9%A5%B0%E5%9B%A0%E8%BF%8748%E5%B0%8F%E6%97%B6%E4%B8%8D%E9%80%80%E8%B4%A7)
 1. [皇马vs曼城](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E6%9B%BC%E5%9F%8E)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [湖人击败森林狼](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E5%87%BB%E8%B4%A5%E6%A3%AE%E6%9E%97%E7%8B%BC)
@@ -28,6 +26,8 @@
 1. [苹果春季新品上手评测](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%98%A5%E5%AD%A3%E6%96%B0%E5%93%81%E4%B8%8A%E6%89%8B%E8%AF%84%E6%B5%8B)
 1. [中传一口气砍掉16个本科专业](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E7%A0%8D%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A)
 1. [十五五会带来哪些机遇与挑战](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%9C%BA%E9%81%87%E4%B8%8E%E6%8C%91%E6%88%98)
+1. [马德里竞技5比2热刺](https://www.zhihu.com/search?q=%E9%A9%AC%E5%BE%B7%E9%87%8C%E7%AB%9E%E6%8A%805%E6%AF%942%E7%83%AD%E5%88%BA)
+1. [千元未拆封首饰因过48小时不退货](https://www.zhihu.com/search?q=%E5%8D%83%E5%85%83%E6%9C%AA%E6%8B%86%E5%B0%81%E9%A6%96%E9%A5%B0%E5%9B%A0%E8%BF%8748%E5%B0%8F%E6%97%B6%E4%B8%8D%E9%80%80%E8%B4%A7)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%8A%B1%20624%20%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%8B%E4%B8%80%E6%A0%B9%E9%A6%99%E8%95%89)
 1. [孙宇晨称删「90前」勿沾老登气息](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E7%A7%B0%E5%88%A0%E3%80%8C90%E5%89%8D%E3%80%8D%E5%8B%BF%E6%B2%BE%E8%80%81%E7%99%BB%E6%B0%94%E6%81%AF)
 
