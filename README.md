@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 14 2026 12:05:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 14 2026 13:40:28 GMT+0800 (China Standard Time) -->
 
-1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
-1. [王楚钦晋级八强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA)
+1. [卡普空杯开赛第二天精彩对决](https://www.zhihu.com/search?q=%E5%8D%A1%E6%99%AE%E7%A9%BA%E6%9D%AF%E5%BC%80%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%A4%A9%E7%B2%BE%E5%BD%A9%E5%AF%B9%E5%86%B3)
 1. [独行侠vs灰熊](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0vs%E7%81%B0%E7%86%8A)
 1. [湖人击败森林狼](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E5%87%BB%E8%B4%A5%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -26,6 +25,9 @@
 1. [在明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=%E5%9C%A8%E6%98%8E%E7%99%BD%E4%BB%80%E4%B9%88%E9%81%93%E7%90%86%E5%90%8E%E4%BD%A0%E5%B0%B1%E4%B8%8D%E5%86%8D%E7%84%A6%E8%99%91%E4%BA%86)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E7%9C%81%E9%92%B1%E5%90%97)
+1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BA%86)
+1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
+1. [王楚钦晋级八强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA)
 
 <!-- END -->
 
