@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 15 2026 09:55:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 15 2026 12:29:06 GMT+0800 (China Standard Time) -->
 
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [王楚钦晋级八强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA)
