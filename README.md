@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 16 2026 06:20:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 16 2026 07:24:05 GMT+0800 (China Standard Time) -->
 
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [我国正研究解决地外星球长期生存问题](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%AD%A3%E7%A0%94%E7%A9%B6%E8%A7%A3%E5%86%B3%E5%9C%B0%E5%A4%96%E6%98%9F%E7%90%83%E9%95%BF%E6%9C%9F%E7%94%9F%E5%AD%98%E9%97%AE%E9%A2%98)
