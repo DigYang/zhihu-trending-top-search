@@ -14,11 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 16 2026 18:00:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 16 2026 19:41:40 GMT+0800 (China Standard Time) -->
 
-1. [补码的本质是什么](https://www.zhihu.com/search?q=%E8%A1%A5%E7%A0%81%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [奥斯卡红毯](https://www.zhihu.com/search?q=%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%BA%A2%E6%AF%AF)
+1. [现在干什么能挣钱](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%E8%83%BD%E6%8C%A3%E9%92%B1)
 1. [315晚会曝光名单](https://www.zhihu.com/search?q=315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89%E5%90%8D%E5%8D%95)
+1. [日本的汽车产业还能支撑多久](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%9A%84%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E8%BF%98%E8%83%BD%E6%94%AF%E6%92%91%E5%A4%9A%E4%B9%85)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=%E9%92%93%E9%B1%BC%E4%BD%AC%E6%9C%80%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BA%86)
+1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
+1. [为什么年轻人反感老一辈说教](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%8D%E6%84%9F%E8%80%81%E4%B8%80%E8%BE%88%E8%AF%B4%E6%95%99)
+1. [补码的本质是什么](https://www.zhihu.com/search?q=%E8%A1%A5%E7%A0%81%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [现货黄金跌破5000美元](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45000%E7%BE%8E%E5%85%83)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [我国正研究解决地外星球长期生存问题](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%AD%A3%E7%A0%94%E7%A9%B6%E8%A7%A3%E5%86%B3%E5%9C%B0%E5%A4%96%E6%98%9F%E7%90%83%E9%95%BF%E6%9C%9F%E7%94%9F%E5%AD%98%E9%97%AE%E9%A2%98)
@@ -26,8 +34,6 @@
 1. [AWE 家的参考系](https://www.zhihu.com/search?q=AWE%20%E5%AE%B6%E7%9A%84%E5%8F%82%E8%80%83%E7%B3%BB)
 1. [AWE 是啥？](https://www.zhihu.com/search?q=AWE%20%E6%98%AF%E5%95%A5%EF%BC%9F)
 1. [AWE 逛展看什么？](https://www.zhihu.com/search?q=AWE%20%E9%80%9B%E5%B1%95%E7%9C%8B%E4%BB%80%E4%B9%88%EF%BC%9F)
-1. [奥斯卡红毯](https://www.zhihu.com/search?q=%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%BA%A2%E6%AF%AF)
-1. [现在干什么能挣钱](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%E8%83%BD%E6%8C%A3%E9%92%B1)
 1. [逛 AWE，问什么显得我很懂](https://www.zhihu.com/search?q=%E9%80%9B%20AWE%EF%BC%8C%E9%97%AE%E4%BB%80%E4%B9%88%E6%98%BE%E5%BE%97%E6%88%91%E5%BE%88%E6%87%82)
 1. [AWE，智能生活的 next level？](https://www.zhihu.com/search?q=AWE%EF%BC%8C%E6%99%BA%E8%83%BD%E7%94%9F%E6%B4%BB%E7%9A%84%20next%20level%EF%BC%9F)
 1. [杨旭文空降 AWE 知乎展台](https://www.zhihu.com/search?q=%E6%9D%A8%E6%97%AD%E6%96%87%E7%A9%BA%E9%99%8D%20AWE%20%E7%9F%A5%E4%B9%8E%E5%B1%95%E5%8F%B0)
