@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 22 2026 16:28:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 22 2026 17:26:42 GMT+0800 (China Standard Time) -->
 
-1. [奇瑞布局可控核聚变](https://www.zhihu.com/search?q=%E5%A5%87%E7%91%9E%E5%B8%83%E5%B1%80%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98)
-1. [戴军曝潜水时曾被拔呼吸器威胁](https://www.zhihu.com/search?q=%E6%88%B4%E5%86%9B%E6%9B%9D%E6%BD%9C%E6%B0%B4%E6%97%B6%E6%9B%BE%E8%A2%AB%E6%8B%94%E5%91%BC%E5%90%B8%E5%99%A8%E5%A8%81%E8%83%81)
+1. [现货白银再失守70美元](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E7%99%BD%E9%93%B6%E5%86%8D%E5%A4%B1%E5%AE%8870%E7%BE%8E%E5%85%83)
+1. [4s店称吃饭超260次客户已报警](https://www.zhihu.com/search?q=4s%E5%BA%97%E7%A7%B0%E5%90%83%E9%A5%AD%E8%B6%85260%E6%AC%A1%E5%AE%A2%E6%88%B7%E5%B7%B2%E6%8A%A5%E8%AD%A6)
 1. [肖战宝诗龙](https://www.zhihu.com/search?q=%E8%82%96%E6%88%98%E5%AE%9D%E8%AF%97%E9%BE%99)
 1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
 1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
@@ -26,6 +26,8 @@
 1. [巴萨晋级欧冠八强](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8%E6%99%8B%E7%BA%A7%E6%AC%A7%E5%86%A0%E5%85%AB%E5%BC%BA)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
+1. [奇瑞布局可控核聚变](https://www.zhihu.com/search?q=%E5%A5%87%E7%91%9E%E5%B8%83%E5%B1%80%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98)
+1. [戴军曝潜水时曾被拔呼吸器威胁](https://www.zhihu.com/search?q=%E6%88%B4%E5%86%9B%E6%9B%9D%E6%BD%9C%E6%B0%B4%E6%97%B6%E6%9B%BE%E8%A2%AB%E6%8B%94%E5%91%BC%E5%90%B8%E5%99%A8%E5%A8%81%E8%83%81)
 1. [今日春分](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E6%98%A5%E5%88%86)
 1. [二月二龙抬头](https://www.zhihu.com/search?q=%E4%BA%8C%E6%9C%88%E4%BA%8C%E9%BE%99%E6%8A%AC%E5%A4%B4)
 
