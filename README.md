@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 24 2026 20:59:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 24 2026 22:19:48 GMT+0800 (China Standard Time) -->
 
-1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
-1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
+1. [崔永熙状态回归](https://www.zhihu.com/search?q=%E5%B4%94%E6%B0%B8%E7%86%99%E7%8A%B6%E6%80%81%E5%9B%9E%E5%BD%92)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
@@ -26,8 +25,10 @@
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG%E5%A4%BA%E5%86%A0)
 1. [热火vs火箭](https://www.zhihu.com/search?q=%E7%83%AD%E7%81%ABvs%E7%81%AB%E7%AE%AD)
 1. [勇士vs独行侠](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E7%8B%AC%E8%A1%8C%E4%BE%A0)
-1. [为什么在高档场所就不自在](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E9%AB%98%E6%A1%A3%E5%9C%BA%E6%89%80%E5%B0%B1%E4%B8%8D%E8%87%AA%E5%9C%A8)
 1. [巴萨vs巴列卡诺](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8vs%E5%B7%B4%E5%88%97%E5%8D%A1%E8%AF%BA)
+1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
+1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
+1. [为什么在高档场所就不自在](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E9%AB%98%E6%A1%A3%E5%9C%BA%E6%89%80%E5%B0%B1%E4%B8%8D%E8%87%AA%E5%9C%A8)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [美军为什么打不赢治安战](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E4%B8%8D%E8%B5%A2%E6%B2%BB%E5%AE%89%E6%88%98)
