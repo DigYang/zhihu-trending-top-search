@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 24 2026 19:40:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 24 2026 20:59:10 GMT+0800 (China Standard Time) -->
 
 1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
 1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
