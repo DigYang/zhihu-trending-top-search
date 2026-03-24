@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 24 2026 17:50:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 24 2026 18:45:14 GMT+0800 (China Standard Time) -->
 
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
+1. [为什么在高档场所就不自在](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E9%AB%98%E6%A1%A3%E5%9C%BA%E6%89%80%E5%B0%B1%E4%B8%8D%E8%87%AA%E5%9C%A8)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%B0%E7%90%83%E4%B8%8A%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%B7%A8%E5%85%BD)
 1. [bin](https://www.zhihu.com/search?q=bin)
@@ -26,6 +26,7 @@
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [美军为什么打不赢治安战](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E4%B8%8D%E8%B5%A2%E6%B2%BB%E5%AE%89%E6%88%98)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [如何在一天中长时间专注一件事](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%80%E5%A4%A9%E4%B8%AD%E9%95%BF%E6%97%B6%E9%97%B4%E4%B8%93%E6%B3%A8%E4%B8%80%E4%BB%B6%E4%BA%8B)
 1. [国内航司集体上调燃油附加费](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E8%88%AA%E5%8F%B8%E9%9B%86%E4%BD%93%E4%B8%8A%E8%B0%83%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9)
 1. [央行坚持支持性的货币政策立场](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%9D%9A%E6%8C%81%E6%94%AF%E6%8C%81%E6%80%A7%E7%9A%84%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E7%AB%8B%E5%9C%BA)
