@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 25 2026 19:37:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 25 2026 20:57:11 GMT+0800 (China Standard Time) -->
 
 1. [心源性猝死](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
 1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
