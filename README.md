@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 25 2026 15:02:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 25 2026 16:42:06 GMT+0800 (China Standard Time) -->
 
-1. [心源性猝死](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
-1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
+1. [雨天最适合做什么](https://www.zhihu.com/search?q=%E9%9B%A8%E5%A4%A9%E6%9C%80%E9%80%82%E5%90%88%E5%81%9A%E4%BB%80%E4%B9%88)
+1. [AWE 是啥？](https://www.zhihu.com/search?q=AWE%20%E6%98%AF%E5%95%A5%EF%BC%9F)
 1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
@@ -26,6 +26,8 @@
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
 1. [什么是心源性猝死](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
 1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
+1. [心源性猝死](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
+1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
 1. [西沙群岛是中国的固有领土](https://www.zhihu.com/search?q=%E8%A5%BF%E6%B2%99%E7%BE%A4%E5%B2%9B%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%BA%E6%9C%89%E9%A2%86%E5%9C%9F)
 1. [对于维持心理健康有什么极简建议](https://www.zhihu.com/search?q=%E5%AF%B9%E4%BA%8E%E7%BB%B4%E6%8C%81%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%9C%89%E4%BB%80%E4%B9%88%E6%9E%81%E7%AE%80%E5%BB%BA%E8%AE%AE)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
