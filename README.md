@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 26 2026 21:01:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 26 2026 22:57:54 GMT+0800 (China Standard Time) -->
 
-1. [心源性猝死](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
-1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
+1. [周杰伦 歌词](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%AD%8C%E8%AF%8D)
+1. [对维持心理健康的极简建议](https://www.zhihu.com/search?q=%E5%AF%B9%E7%BB%B4%E6%8C%81%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9A%84%E6%9E%81%E7%AE%80%E5%BB%BA%E8%AE%AE)
 1. [你在低谷期学会了什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E4%BD%8E%E8%B0%B7%E6%9C%9F%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [什么是心源性猝死](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
 1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
@@ -26,6 +26,8 @@
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
+1. [心源性猝死](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
+1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
 1. [为什么爱运动的人也会心脏骤停](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B1%E8%BF%90%E5%8A%A8%E7%9A%84%E4%BA%BA%E4%B9%9F%E4%BC%9A%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C)
 1. [专柜买 4 个 LV 包均为假货](https://www.zhihu.com/search?q=%E4%B8%93%E6%9F%9C%E4%B9%B0%204%20%E4%B8%AA%20LV%20%E5%8C%85%E5%9D%87%E4%B8%BA%E5%81%87%E8%B4%A7)
 1. [张雪峰从送医到去世仅3小时](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%BB%8E%E9%80%81%E5%8C%BB%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%853%E5%B0%8F%E6%97%B6)
