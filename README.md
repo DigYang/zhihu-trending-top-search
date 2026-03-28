@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 28 2026 21:46:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 28 2026 22:26:50 GMT+0800 (China Standard Time) -->
 
-1. [一文读懂长护险相关问题](https://www.zhihu.com/search?q=%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E9%95%BF%E6%8A%A4%E9%99%A9%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98)
-1. [AI狂潮下程序员会大批失业吗](https://www.zhihu.com/search?q=AI%E7%8B%82%E6%BD%AE%E4%B8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BC%9A%E5%A4%A7%E6%89%B9%E5%A4%B1%E4%B8%9A%E5%90%97)
+1. [微笑卫星计划4月9日发射](https://www.zhihu.com/search?q=%E5%BE%AE%E7%AC%91%E5%8D%AB%E6%98%9F%E8%AE%A1%E5%88%924%E6%9C%889%E6%97%A5%E5%8F%91%E5%B0%84)
+1. [中园石化加油站被立案调查](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%AD%E7%9F%B3%E5%8C%96%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
@@ -26,6 +26,8 @@
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=%E6%98%8E%E7%99%BD%E4%BB%80%E4%B9%88%E9%81%93%E7%90%86%E5%90%8E%E4%BD%A0%E5%B0%B1%E4%B8%8D%E5%86%8D%E7%84%A6%E8%99%91%E4%BA%86)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%92%8CAI%E5%AF%B9%E8%AF%9D)
+1. [一文读懂长护险相关问题](https://www.zhihu.com/search?q=%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E9%95%BF%E6%8A%A4%E9%99%A9%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98)
+1. [AI狂潮下程序员会大批失业吗](https://www.zhihu.com/search?q=AI%E7%8B%82%E6%BD%AE%E4%B8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BC%9A%E5%A4%A7%E6%89%B9%E5%A4%B1%E4%B8%9A%E5%90%97)
 1. [张雪峰不懂运动科学](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%8D%E6%87%82%E8%BF%90%E5%8A%A8%E7%A7%91%E5%AD%A6)
 1. [小哥爬7楼送外卖看到牌匾愣住](https://www.zhihu.com/search?q=%E5%B0%8F%E5%93%A5%E7%88%AC7%E6%A5%BC%E9%80%81%E5%A4%96%E5%8D%96%E7%9C%8B%E5%88%B0%E7%89%8C%E5%8C%BE%E6%84%A3%E4%BD%8F)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=%E6%B3%A1%E9%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E4%B8%8D%E5%87%BA%E8%A5%BF%E5%AE%89)
