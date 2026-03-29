@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 29 2026 07:25:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 29 2026 09:57:05 GMT+0800 (China Standard Time) -->
 
-1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=%E6%B3%A1%E9%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E4%B8%8D%E5%87%BA%E8%A5%BF%E5%AE%89)
-1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
+1. [心脏急救药别当保健品天天吃](https://www.zhihu.com/search?q=%E5%BF%83%E8%84%8F%E6%80%A5%E6%95%91%E8%8D%AF%E5%88%AB%E5%BD%93%E4%BF%9D%E5%81%A5%E5%93%81%E5%A4%A9%E5%A4%A9%E5%90%83)
+1. [如何评价蔡依林的《布拉格广场》改编版](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%94%A1%E4%BE%9D%E6%9E%97%E7%9A%84%E3%80%8A%E5%B8%83%E6%8B%89%E6%A0%BC%E5%B9%BF%E5%9C%BA%E3%80%8B%E6%94%B9%E7%BC%96%E7%89%88)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
@@ -26,6 +26,8 @@
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=%E6%98%8E%E7%99%BD%E4%BB%80%E4%B9%88%E9%81%93%E7%90%86%E5%90%8E%E4%BD%A0%E5%B0%B1%E4%B8%8D%E5%86%8D%E7%84%A6%E8%99%91%E4%BA%86)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%92%8CAI%E5%AF%B9%E8%AF%9D)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=%E6%B3%A1%E9%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E4%B8%8D%E5%87%BA%E8%A5%BF%E5%AE%89)
+1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
 
 <!-- END -->
 
