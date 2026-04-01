@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 01 2026 07:28:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 01 2026 10:03:58 GMT+0800 (China Standard Time) -->
 
 1. [中国科学家合成新核素](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%90%88%E6%88%90%E6%96%B0%E6%A0%B8%E7%B4%A0)
 1. [双休和单休区别大吗](https://www.zhihu.com/search?q=%E5%8F%8C%E4%BC%91%E5%92%8C%E5%8D%95%E4%BC%91%E5%8C%BA%E5%88%AB%E5%A4%A7%E5%90%97)
