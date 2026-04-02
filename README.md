@@ -14,14 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 02 2026 16:01:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 02 2026 17:55:58 GMT+0800 (China Standard Time) -->
 
-1. [双休和单休区别大吗](https://www.zhihu.com/search?q=%E5%8F%8C%E4%BC%91%E5%92%8C%E5%8D%95%E4%BC%91%E5%8C%BA%E5%88%AB%E5%A4%A7%E5%90%97)
+1. [我国科研人员发现99个新物种](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E7%A7%91%E7%A0%94%E4%BA%BA%E5%91%98%E5%8F%91%E7%8E%B099%E4%B8%AA%E6%96%B0%E7%89%A9%E7%A7%8D)
+1. [5万亿网贷行业迎来最强监管](https://www.zhihu.com/search?q=5%E4%B8%87%E4%BA%BF%E7%BD%91%E8%B4%B7%E8%A1%8C%E4%B8%9A%E8%BF%8E%E6%9D%A5%E6%9C%80%E5%BC%BA%E7%9B%91%E7%AE%A1)
+1. [湖人vs雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86)
+1. [广州暴雨](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8)
 1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%89%8D%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [为什么突然开始人均养猫了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E5%BC%80%E5%A7%8B%E4%BA%BA%E5%9D%87%E5%85%BB%E7%8C%AB%E4%BA%86)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
+1. [蔡磊进入渐冻症终末期](https://www.zhihu.com/search?q=%E8%94%A1%E7%A3%8A%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F)
 1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
+1. [双休和单休区别大吗](https://www.zhihu.com/search?q=%E5%8F%8C%E4%BC%91%E5%92%8C%E5%8D%95%E4%BC%91%E5%8C%BA%E5%88%AB%E5%A4%A7%E5%90%97)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E5%88%86%E6%9E%90)
 1. [简历诊断](https://www.zhihu.com/search?q=%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
