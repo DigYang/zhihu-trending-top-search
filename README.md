@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 07 2026 12:31:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 07 2026 14:16:26 GMT+0800 (China Standard Time) -->
 
-1. [清明节](https://www.zhihu.com/search?q=%E6%B8%85%E6%98%8E%E8%8A%82)
 1. [王楚钦 vs 松岛辉空](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20vs%20%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
@@ -26,6 +25,8 @@
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI模拟面试](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95)
 1. [求职数据通](https://www.zhihu.com/search?q=%E6%B1%82%E8%81%8C%E6%95%B0%E6%8D%AE%E9%80%9A)
+1. [offer 季](https://www.zhihu.com/search?q=offer%20%E5%AD%A3)
+1. [清明节](https://www.zhihu.com/search?q=%E6%B8%85%E6%98%8E%E8%8A%82)
 1. [优思益塌房](https://www.zhihu.com/search?q=%E4%BC%98%E6%80%9D%E7%9B%8A%E5%A1%8C%E6%88%BF)
 1. [东契奇伤退](https://www.zhihu.com/search?q=%E4%B8%9C%E5%A5%91%E5%A5%87%E4%BC%A4%E9%80%80)
 1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC)
