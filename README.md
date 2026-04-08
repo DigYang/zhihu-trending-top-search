@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 08 2026 07:32:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 08 2026 09:57:04 GMT+0800 (China Standard Time) -->
 
-1. [金钱和健康哪个更重要](https://www.zhihu.com/search?q=%E9%87%91%E9%92%B1%E5%92%8C%E5%81%A5%E5%BA%B7%E5%93%AA%E4%B8%AA%E6%9B%B4%E9%87%8D%E8%A6%81)
+1. [周杰伦被指抄袭](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD)
+1. [带货翻了车代价会越来越大](https://www.zhihu.com/search?q=%E5%B8%A6%E8%B4%A7%E7%BF%BB%E4%BA%86%E8%BD%A6%E4%BB%A3%E4%BB%B7%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%A7)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=%E5%8F%91%E7%8E%B0%E5%AD%A9%E5%AD%90%E5%BE%88%E6%99%AE%E9%80%9A%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [国际油价大涨](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
@@ -25,6 +26,7 @@
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
 1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=%E9%80%80%E4%BC%91%E5%90%8E%E6%97%85%E6%B8%B8%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97)
 1. [真的有先父遗传吗](https://www.zhihu.com/search?q=%E7%9C%9F%E7%9A%84%E6%9C%89%E5%85%88%E7%88%B6%E9%81%97%E4%BC%A0%E5%90%97)
+1. [金钱和健康哪个更重要](https://www.zhihu.com/search?q=%E9%87%91%E9%92%B1%E5%92%8C%E5%81%A5%E5%BA%B7%E5%93%AA%E4%B8%AA%E6%9B%B4%E9%87%8D%E8%A6%81)
 1. [教父的人情可以不还吗](https://www.zhihu.com/search?q=%E6%95%99%E7%88%B6%E7%9A%84%E4%BA%BA%E6%83%85%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%BF%98%E5%90%97)
 
 <!-- END -->
