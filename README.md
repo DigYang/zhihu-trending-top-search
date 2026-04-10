@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 10 2026 13:19:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 10 2026 15:19:28 GMT+0800 (China Standard Time) -->
 
+1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%89%8D%E4%B8%BB%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA)
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
 1. [网红都那么美为什么当不了明星](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%83%BD%E9%82%A3%E4%B9%88%E7%BE%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E4%B8%8D%E4%BA%86%E6%98%8E%E6%98%9F)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
