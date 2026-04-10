@@ -14,10 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 10 2026 15:19:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 10 2026 17:01:51 GMT+0800 (China Standard Time) -->
 
+1. [刘强东章泽天成立新公司](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%AB%A0%E6%B3%BD%E5%A4%A9%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8)
+1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
+1. [湖人vs勇士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%8B%87%E5%A3%AB)
 1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%89%8D%E4%B8%BB%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA)
+1. [戛纳](https://www.zhihu.com/search?q=%E6%88%9B%E7%BA%B3)
+1. [步行者vs篮网](https://www.zhihu.com/search?q=%E6%AD%A5%E8%A1%8C%E8%80%85vs%E7%AF%AE%E7%BD%91)
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
+1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
+1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
+1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [网红都那么美为什么当不了明星](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%83%BD%E9%82%A3%E4%B9%88%E7%BE%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E4%B8%8D%E4%BA%86%E6%98%8E%E6%98%9F)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
@@ -35,7 +43,6 @@
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=%E5%8F%91%E7%8E%B0%E5%AD%A9%E5%AD%90%E5%BE%88%E6%99%AE%E9%80%9A%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86)
-1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 
 <!-- END -->
 
