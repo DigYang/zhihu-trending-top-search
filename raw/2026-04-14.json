@@ -1,5 +1,5 @@
 [
-  { "query": "切尔西vs曼城", "display_query": "切尔西vs曼城" },
+  { "query": "胡先煦官宣十日终焉", "display_query": "胡先煦官宣十日终焉" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   { "query": "怎样才能叫做真正会科研的人", "display_query": "怎样才能叫做真正会科研的人" },
   { "query": "你心目中的排名第一的雪糕是什么", "display_query": "你心目中的排名第一的雪糕是什么" },
@@ -8,5 +8,6 @@
   { "query": "如何评价电视剧《新三国》", "display_query": "如何评价电视剧《新三国》" },
   { "query": "在明白什么道理后你就不再焦虑了", "display_query": "在明白什么道理后你就不再焦虑了" },
   { "query": "一个人能做出什么开源项目", "display_query": "一个人能做出什么开源项目" },
-  { "query": "有哪些原来很贵的食材现在便宜了", "display_query": "有哪些原来很贵的食材现在便宜了" }
+  { "query": "有哪些原来很贵的食材现在便宜了", "display_query": "有哪些原来很贵的食材现在便宜了" },
+  { "query": "切尔西vs曼城", "display_query": "切尔西vs曼城" }
 ]

@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 14 2026 06:37:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 14 2026 07:37:27 GMT+0800 (China Standard Time) -->
 
-1. [切尔西vs曼城](https://www.zhihu.com/search?q=%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E)
+1. [胡先煦官宣十日终焉](https://www.zhihu.com/search?q=%E8%83%A1%E5%85%88%E7%85%A6%E5%AE%98%E5%AE%A3%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
 1. [你心目中的排名第一的雪糕是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%9B%AA%E7%B3%95%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -26,6 +26,7 @@
 1. [在明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=%E5%9C%A8%E6%98%8E%E7%99%BD%E4%BB%80%E4%B9%88%E9%81%93%E7%90%86%E5%90%8E%E4%BD%A0%E5%B0%B1%E4%B8%8D%E5%86%8D%E7%84%A6%E8%99%91%E4%BA%86)
 1. [一个人能做出什么开源项目](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E5%81%9A%E5%87%BA%E4%BB%80%E4%B9%88%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 1. [有哪些原来很贵的食材现在便宜了](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8E%9F%E6%9D%A5%E5%BE%88%E8%B4%B5%E7%9A%84%E9%A3%9F%E6%9D%90%E7%8E%B0%E5%9C%A8%E4%BE%BF%E5%AE%9C%E4%BA%86)
+1. [切尔西vs曼城](https://www.zhihu.com/search?q=%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E)
 
 <!-- END -->
 
