@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 13 2026 15:54:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 13 2026 17:49:47 GMT+0800 (China Standard Time) -->
 
 1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%89%8D%E4%B8%BB%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
