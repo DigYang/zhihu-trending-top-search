@@ -1,4 +1,6 @@
 [
+  { "query": "导师给你的最后忠告是什么", "display_query": "导师给你的最后忠告是什么" },
+  { "query": "一个人能做出什么开源项目", "display_query": "一个人能做出什么开源项目" },
   { "query": "《飞驰人生 3》电影票房破 30 亿", "display_query": "《飞驰人生 3》电影票房破 30 亿" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "AI面试官", "display_query": "AI面试官" },
@@ -17,7 +19,6 @@
   { "query": "阿尔卡拉斯vs辛纳", "display_query": "阿尔卡拉斯vs辛纳" },
   { "query": "如何评价电视剧《新三国》", "display_query": "如何评价电视剧《新三国》" },
   { "query": "在明白什么道理后你就不再焦虑了", "display_query": "在明白什么道理后你就不再焦虑了" },
-  { "query": "一个人能做出什么开源项目", "display_query": "一个人能做出什么开源项目" },
   { "query": "有哪些原来很贵的食材现在便宜了", "display_query": "有哪些原来很贵的食材现在便宜了" },
   { "query": "切尔西vs曼城", "display_query": "切尔西vs曼城" }
 ]
