@@ -14,14 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 15 2026 09:59:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 15 2026 12:49:47 GMT+0800 (China Standard Time) -->
 
+1. [哈啰违规投放单车拒改被罚](https://www.zhihu.com/search?q=%E5%93%88%E5%95%B0%E8%BF%9D%E8%A7%84%E6%8A%95%E6%94%BE%E5%8D%95%E8%BD%A6%E6%8B%92%E6%94%B9%E8%A2%AB%E7%BD%9A)
+1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E7%BB%99%E4%BD%A0%E7%9A%84%E6%9C%80%E5%90%8E%E5%BF%A0%E5%91%8A%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [什么是知识的诅咒](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E7%9F%A5%E8%AF%86%E7%9A%84%E8%AF%85%E5%92%92)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
+1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
+1. [AI简历诊断](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
+1. [AI简历分析](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E5%88%86%E6%9E%90)
+1. [简历诊断](https://www.zhihu.com/search?q=%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
+1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
+1. [AI模拟面试](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95)
 1. [周深演唱会](https://www.zhihu.com/search?q=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [李梦演技](https://www.zhihu.com/search?q=%E6%9D%8E%E6%A2%A6%E6%BC%94%E6%8A%80)
 1. [勇士不敌快船](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB%E4%B8%8D%E6%95%8C%E5%BF%AB%E8%88%B9)
 1. [太累的工作要不要辞职](https://www.zhihu.com/search?q=%E5%A4%AA%E7%B4%AF%E7%9A%84%E5%B7%A5%E4%BD%9C%E8%A6%81%E4%B8%8D%E8%A6%81%E8%BE%9E%E8%81%8C)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
-1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E7%BB%99%E4%BD%A0%E7%9A%84%E6%9C%80%E5%90%8E%E5%BF%A0%E5%91%8A%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
 1. [俄外长拉夫罗夫已抵达中国](https://www.zhihu.com/search?q=%E4%BF%84%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E5%B7%B2%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%9B%BD)
 1. [你心目中的排名第一的雪糕是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%9B%AA%E7%B3%95%E6%98%AF%E4%BB%80%E4%B9%88)
