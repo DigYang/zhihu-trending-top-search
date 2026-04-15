@@ -14,8 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 16 2026 06:36:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 16 2026 07:37:01 GMT+0800 (China Standard Time) -->
 
+1. [工作是为了钱还是为了什么](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E6%98%AF%E4%B8%BA%E4%BA%86%E9%92%B1%E8%BF%98%E6%98%AF%E4%B8%BA%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [蒸馏前任火了](https://www.zhihu.com/search?q=%E8%92%B8%E9%A6%8F%E5%89%8D%E4%BB%BB%E7%81%AB%E4%BA%86)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
