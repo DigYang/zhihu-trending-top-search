@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 18 2026 15:56:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 18 2026 16:47:05 GMT+0800 (China Standard Time) -->
 
 1. [教资成绩](https://www.zhihu.com/search?q=%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9)
 1. [3月70城房价出炉](https://www.zhihu.com/search?q=3%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
