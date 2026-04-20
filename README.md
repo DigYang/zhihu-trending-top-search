@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 21 2026 03:57:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 21 2026 04:47:47 GMT+0800 (China Standard Time) -->
 
 1. [北京晚霞](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E)
 1. [勇士vs太阳](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%A4%AA%E9%98%B3)
