@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 20 2026 17:59:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 20 2026 19:21:35 GMT+0800 (China Standard Time) -->
 
+1. [北京晚霞](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E)
+1. [勇士vs太阳](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%A4%AA%E9%98%B3)
+1. [火箭vs湖人](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B9%96%E4%BA%BA)
+1. [哈兰德破门](https://www.zhihu.com/search?q=%E5%93%88%E5%85%B0%E5%BE%B7%E7%A0%B4%E9%97%A8)
+1. [今日谷雨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%B0%B7%E9%9B%A8)
+1. [掘金大胜森林狼](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91%E5%A4%A7%E8%83%9C%E6%A3%AE%E6%9E%97%E7%8B%BC)
+1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%B1%E5%A7%86%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E)
+1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1vs%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF)
+1. [BLG战胜AL](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CAL)
+1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [新格伦火箭第三次成功发射](https://www.zhihu.com/search?q=%E6%96%B0%E6%A0%BC%E4%BC%A6%E7%81%AB%E7%AE%AD%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84)
 1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
 1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E7%9C%81%E9%92%B1%E5%90%97)
@@ -30,12 +40,10 @@
 1. [美伊战事致全球蒸发5亿桶原油](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%8B%E8%87%B4%E5%85%A8%E7%90%83%E8%92%B8%E5%8F%915%E4%BA%BF%E6%A1%B6%E5%8E%9F%E6%B2%B9)
 1. [尼格买提薛之谦因染发引发健康问题](https://www.zhihu.com/search?q=%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9B%A0%E6%9F%93%E5%8F%91%E5%BC%95%E5%8F%91%E5%81%A5%E5%BA%B7%E9%97%AE%E9%A2%98)
 1. [Anthropic发布Claude Opus 4.7](https://www.zhihu.com/search?q=Anthropic%E5%8F%91%E5%B8%83Claude%20Opus%204.7)
-1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%B1%E5%A7%86%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [教资成绩](https://www.zhihu.com/search?q=%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9)
 1. [3月70城房价出炉](https://www.zhihu.com/search?q=3%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
 1. [五一假期首日火车票今日开售](https://www.zhihu.com/search?q=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E9%A6%96%E6%97%A5%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE)
 1. [电子游戏中有哪些误译](https://www.zhihu.com/search?q=%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AF%AF%E8%AF%91)
-1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1vs%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF)
 1. [TES战胜BLG](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CBLG)
 1. [苏超公布2026年赞助商](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%85%AC%E5%B8%832026%E5%B9%B4%E8%B5%9E%E5%8A%A9%E5%95%86)
 1. [2026 苏超十三队队服发布](https://www.zhihu.com/search?q=2026%20%E8%8B%8F%E8%B6%85%E5%8D%81%E4%B8%89%E9%98%9F%E9%98%9F%E6%9C%8D%E5%8F%91%E5%B8%83)
