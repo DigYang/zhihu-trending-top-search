@@ -14,16 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 21 2026 10:04:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 21 2026 13:21:44 GMT+0800 (China Standard Time) -->
 
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%B1%E5%A7%86%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [日本发生7.5级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [何润东翻红](https://www.zhihu.com/search?q=%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%BF%BB%E7%BA%A2)
-1. [2026 人形机器人半程马拉松赛](https://www.zhihu.com/search?q=2026%20%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B)
-1. [建议低精力人群查维D](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E4%BD%8E%E7%B2%BE%E5%8A%9B%E4%BA%BA%E7%BE%A4%E6%9F%A5%E7%BB%B4D)
+1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=%E8%9C%9C%E8%9C%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E8%BA%AB%E4%B8%8A%E7%9A%84%E8%8A%B1%E7%B2%89%E5%88%AE%E4%B8%8B%E6%9D%A5)
+1. [2026 苏超](https://www.zhihu.com/search?q=2026%20%E8%8B%8F%E8%B6%85)
 1. [为什么现在流行反向追剧](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E6%B5%81%E8%A1%8C%E5%8F%8D%E5%90%91%E8%BF%BD%E5%89%A7)
 1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
+1. [苏超宿迁2-0南京](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%AE%BF%E8%BF%812-0%E5%8D%97%E4%BA%AC)
+1. [徐州3-0泰州](https://www.zhihu.com/search?q=%E5%BE%90%E5%B7%9E3-0%E6%B3%B0%E5%B7%9E)
+1. [2026 人形机器人半程马拉松赛](https://www.zhihu.com/search?q=2026%20%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B)
+1. [建议低精力人群查维D](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E4%BD%8E%E7%B2%BE%E5%8A%9B%E4%BA%BA%E7%BE%A4%E6%9F%A5%E7%BB%B4D)
 1. [微波炉加热塑料微塑料飙升 125 倍](https://www.zhihu.com/search?q=%E5%BE%AE%E6%B3%A2%E7%82%89%E5%8A%A0%E7%83%AD%E5%A1%91%E6%96%99%E5%BE%AE%E5%A1%91%E6%96%99%E9%A3%99%E5%8D%87%20125%20%E5%80%8D)
 1. [劳务中介：微信余额不满三百不给面试](https://www.zhihu.com/search?q=%E5%8A%B3%E5%8A%A1%E4%B8%AD%E4%BB%8B%EF%BC%9A%E5%BE%AE%E4%BF%A1%E4%BD%99%E9%A2%9D%E4%B8%8D%E6%BB%A1%E4%B8%89%E7%99%BE%E4%B8%8D%E7%BB%99%E9%9D%A2%E8%AF%95)
 1. [北京晚霞](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E)
