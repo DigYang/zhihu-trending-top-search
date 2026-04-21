@@ -14,15 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 21 2026 07:37:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 21 2026 10:04:24 GMT+0800 (China Standard Time) -->
 
+1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%B1%E5%A7%86%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E)
+1. [日本发生7.5级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
+1. [何润东翻红](https://www.zhihu.com/search?q=%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%BF%BB%E7%BA%A2)
+1. [2026 人形机器人半程马拉松赛](https://www.zhihu.com/search?q=2026%20%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B)
+1. [建议低精力人群查维D](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E4%BD%8E%E7%B2%BE%E5%8A%9B%E4%BA%BA%E7%BE%A4%E6%9F%A5%E7%BB%B4D)
+1. [为什么现在流行反向追剧](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E6%B5%81%E8%A1%8C%E5%8F%8D%E5%90%91%E8%BF%BD%E5%89%A7)
+1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
+1. [微波炉加热塑料微塑料飙升 125 倍](https://www.zhihu.com/search?q=%E5%BE%AE%E6%B3%A2%E7%82%89%E5%8A%A0%E7%83%AD%E5%A1%91%E6%96%99%E5%BE%AE%E5%A1%91%E6%96%99%E9%A3%99%E5%8D%87%20125%20%E5%80%8D)
+1. [劳务中介：微信余额不满三百不给面试](https://www.zhihu.com/search?q=%E5%8A%B3%E5%8A%A1%E4%B8%AD%E4%BB%8B%EF%BC%9A%E5%BE%AE%E4%BF%A1%E4%BD%99%E9%A2%9D%E4%B8%8D%E6%BB%A1%E4%B8%89%E7%99%BE%E4%B8%8D%E7%BB%99%E9%9D%A2%E8%AF%95)
 1. [北京晚霞](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E)
 1. [勇士vs太阳](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%A4%AA%E9%98%B3)
 1. [火箭vs湖人](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B9%96%E4%BA%BA)
 1. [哈兰德破门](https://www.zhihu.com/search?q=%E5%93%88%E5%85%B0%E5%BE%B7%E7%A0%B4%E9%97%A8)
 1. [今日谷雨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%B0%B7%E9%9B%A8)
 1. [掘金大胜森林狼](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91%E5%A4%A7%E8%83%9C%E6%A3%AE%E6%9E%97%E7%8B%BC)
-1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%B1%E5%A7%86%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1vs%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF)
 1. [BLG战胜AL](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CAL)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
