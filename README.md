@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 22 2026 13:20:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 22 2026 15:24:28 GMT+0800 (China Standard Time) -->
 
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%B1%E5%A7%86%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
