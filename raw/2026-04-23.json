@@ -1,4 +1,14 @@
 [
+  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  { "query": "为什么现在的孩子会沉迷手机", "display_query": "为什么现在的孩子会沉迷手机" },
+  { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
+  { "query": "你曾经错过大牛股吗", "display_query": "你曾经错过大牛股吗" },
+  { "query": "什么生活常识必须知道", "display_query": "什么生活常识必须知道" },
+  { "query": "真的有先父遗传吗", "display_query": "真的有先父遗传吗" },
+  { "query": "为什么安陵容这类人难相处", "display_query": "为什么安陵容这类人难相处" },
+  { "query": "为什么要无条件爱孩子", "display_query": "为什么要无条件爱孩子" },
+  { "query": "认知水平高的人有什么特征", "display_query": "认知水平高的人有什么特征" },
   { "query": "杭州幼儿园试点收 1 岁宝宝", "display_query": "杭州幼儿园试点收 1 岁宝宝" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -10,17 +20,14 @@
   { "query": "网传 DeepSeek V4 即将发布", "display_query": "网传 DeepSeek V4 即将发布" },
   { "query": "何润东在苏超复刻「霸王巡场」", "display_query": "何润东在苏超复刻「霸王巡场」" },
   { "query": "小米汽车", "display_query": "小米汽车" },
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "低精力是因为杏仁核长期应激吗", "display_query": "低精力是因为杏仁核长期应激吗" },
   { "query": "2026 苏超", "display_query": "2026 苏超" },
   { "query": "拼多多被罚 15.2 亿且暴力阻碍监管", "display_query": "拼多多被罚 15.2 亿且暴力阻碍监管" },
   { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
   { "query": "接英雄回家", "display_query": "接英雄回家" },
-  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
   { "query": "明白什么道理后你就不再焦虑了", "display_query": "明白什么道理后你就不再焦虑了" },
   { "query": "内心强大的人有什么特点", "display_query": "内心强大的人有什么特点" },
   { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
-  { "query": "哪些名场面让你记住了整部动漫", "display_query": "哪些名场面让你记住了整部动漫" },
-  { "query": "你曾经错过大牛股吗", "display_query": "你曾经错过大牛股吗" }
+  { "query": "哪些名场面让你记住了整部动漫", "display_query": "哪些名场面让你记住了整部动漫" }
 ]
