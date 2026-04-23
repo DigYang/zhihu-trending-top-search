@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 24 2026 05:40:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 24 2026 06:38:14 GMT+0800 (China Standard Time) -->
 
 1. [火箭vs湖人](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B9%96%E4%BA%BA)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
