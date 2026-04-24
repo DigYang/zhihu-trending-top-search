@@ -14,14 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 24 2026 15:53:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 24 2026 19:01:38 GMT+0800 (China Standard Time) -->
 
+1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F)
+1. [中国航天日](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5)
+1. [小米yu7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3yu7)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [网传 DeepSeek V4 即将发布](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%20DeepSeek%20V4%20%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
+1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91h1%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E7%A6%BB%E8%B5%9B%E9%81%93)
 1. [Kimi 发布并开源 K2.6](https://www.zhihu.com/search?q=Kimi%20%E5%8F%91%E5%B8%83%E5%B9%B6%E5%BC%80%E6%BA%90%20K2.6)
 1. [番茄上金番作者用 AI 写作](https://www.zhihu.com/search?q=%E7%95%AA%E8%8C%84%E4%B8%8A%E9%87%91%E7%95%AA%E4%BD%9C%E8%80%85%E7%94%A8%20AI%20%E5%86%99%E4%BD%9C)
 1. [为何云南泼水节变味了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%BA%91%E5%8D%97%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%8F%98%E5%91%B3%E4%BA%86)
