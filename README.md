@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 24 2026 07:39:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 24 2026 10:07:09 GMT+0800 (China Standard Time) -->
 
+1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
+1. [网传 DeepSeek V4 即将发布](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%20DeepSeek%20V4%20%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
+1. [100多位演员入驻爱奇艺AI库](https://www.zhihu.com/search?q=100%E5%A4%9A%E4%BD%8D%E6%BC%94%E5%91%98%E5%85%A5%E9%A9%BB%E7%88%B1%E5%A5%87%E8%89%BAAI%E5%BA%93)
+1. [项飙在高校讲座场场爆满](https://www.zhihu.com/search?q=%E9%A1%B9%E9%A3%99%E5%9C%A8%E9%AB%98%E6%A0%A1%E8%AE%B2%E5%BA%A7%E5%9C%BA%E5%9C%BA%E7%88%86%E6%BB%A1)
+1. [女子产后被男友起诉退彩礼分娩费](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%A2%AB%E7%94%B7%E5%8F%8B%E8%B5%B7%E8%AF%89%E9%80%80%E5%BD%A9%E7%A4%BC%E5%88%86%E5%A8%A9%E8%B4%B9)
+1. [爱奇艺回应AI授权](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%9B%9E%E5%BA%94AI%E6%8E%88%E6%9D%83)
 1. [卡尔南开大学二轮调剂被刷](https://www.zhihu.com/search?q=%E5%8D%A1%E5%B0%94%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6%E4%BA%8C%E8%BD%AE%E8%B0%83%E5%89%82%E8%A2%AB%E5%88%B7)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
