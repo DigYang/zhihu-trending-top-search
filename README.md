@@ -14,8 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 28 2026 16:14:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 28 2026 18:59:05 GMT+0800 (China Standard Time) -->
 
+1. [4个月大宝宝频繁求抱查出凶险脑病](https://www.zhihu.com/search?q=4%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%AE%9D%E5%AE%9D%E9%A2%91%E7%B9%81%E6%B1%82%E6%8A%B1%E6%9F%A5%E5%87%BA%E5%87%B6%E9%99%A9%E8%84%91%E7%97%85)
+1. [东方甄选拒绝第二个董宇辉](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%8B%92%E7%BB%9D%E7%AC%AC%E4%BA%8C%E4%B8%AA%E8%91%A3%E5%AE%87%E8%BE%89)
+1. [tes战胜nip](https://www.zhihu.com/search?q=tes%E6%88%98%E8%83%9Cnip)
+1. [雷霆vs太阳](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%A4%AA%E9%98%B3)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
@@ -35,7 +39,6 @@
 1. [沪深两市成交额突破1万亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF)
 1. [王鹤棣演技](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E6%8A%80)
 1. [DeepSeek](https://www.zhihu.com/search?q=DeepSeek)
-1. [tes战胜nip](https://www.zhihu.com/search?q=tes%E6%88%98%E8%83%9Cnip)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
 1. [赵心童战胜丁俊晖](https://www.zhihu.com/search?q=%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%88%98%E8%83%9C%E4%B8%81%E4%BF%8A%E6%99%96)
 
