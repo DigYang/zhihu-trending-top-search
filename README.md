@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 28 2026 20:24:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 28 2026 23:23:04 GMT+0800 (China Standard Time) -->
 
-1. [追觅CEO炮轰小红书](https://www.zhihu.com/search?q=%E8%BF%BD%E8%A7%85CEO%E7%82%AE%E8%BD%B0%E5%B0%8F%E7%BA%A2%E4%B9%A6)
+1. [曼联2:1布伦特福德](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%942%3A1%E5%B8%83%E4%BC%A6%E7%89%B9%E7%A6%8F%E5%BE%B7)
 1. [tes战胜nip](https://www.zhihu.com/search?q=tes%E6%88%98%E8%83%9Cnip)
 1. [雷霆vs太阳](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%A4%AA%E9%98%B3)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
@@ -26,6 +26,7 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%8E%89%E6%BA%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F%E9%80%80%E7%A5%A8)
 1. [宋祖儿被指瘦脱相了](https://www.zhihu.com/search?q=%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E6%8C%87%E7%98%A6%E8%84%B1%E7%9B%B8%E4%BA%86)
+1. [追觅CEO炮轰小红书](https://www.zhihu.com/search?q=%E8%BF%BD%E8%A7%85CEO%E7%82%AE%E8%BD%B0%E5%B0%8F%E7%BA%A2%E4%B9%A6)
 1. [4个月大宝宝频繁求抱查出凶险脑病](https://www.zhihu.com/search?q=4%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%AE%9D%E5%AE%9D%E9%A2%91%E7%B9%81%E6%B1%82%E6%8A%B1%E6%9F%A5%E5%87%BA%E5%87%B6%E9%99%A9%E8%84%91%E7%97%85)
 1. [东方甄选拒绝第二个董宇辉](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%8B%92%E7%BB%9D%E7%AC%AC%E4%BA%8C%E4%B8%AA%E8%91%A3%E5%AE%87%E8%BE%89)
 1. [2026北京车展](https://www.zhihu.com/search?q=2026%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95)
