@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 01 2026 16:55:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 01 2026 18:20:06 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
@@ -25,6 +25,7 @@
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87)
 1. [网友做完光子嫩肤后眼睛不适](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%81%9A%E5%AE%8C%E5%85%89%E5%AD%90%E5%AB%A9%E8%82%A4%E5%90%8E%E7%9C%BC%E7%9D%9B%E4%B8%8D%E9%80%82)
+1. [2026五一档](https://www.zhihu.com/search?q=2026%E4%BA%94%E4%B8%80%E6%A1%A3)
 1. [2026五一假期](https://www.zhihu.com/search?q=2026%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F)
 1. [追觅CEO炮轰小红书](https://www.zhihu.com/search?q=%E8%BF%BD%E8%A7%85CEO%E7%82%AE%E8%BD%B0%E5%B0%8F%E7%BA%A2%E4%B9%A6)
 1. [国际不打小孩日](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E4%B8%8D%E6%89%93%E5%B0%8F%E5%AD%A9%E6%97%A5)
