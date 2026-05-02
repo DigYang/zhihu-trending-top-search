@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 02 2026 17:00:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 02 2026 18:04:31 GMT+0800 (China Standard Time) -->
 
 1. [国际不打小孩日](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E4%B8%8D%E6%89%93%E5%B0%8F%E5%AD%A9%E6%97%A5)
 1. [暴雨大暴雨要来了](https://www.zhihu.com/search?q=%E6%9A%B4%E9%9B%A8%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86)
@@ -25,6 +25,7 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87)
+1. [张雪曾拒绝跟华为合作](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9B%BE%E6%8B%92%E7%BB%9D%E8%B7%9F%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C)
 1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=%E9%98%BF%20Sa%20%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A)
 1. [追觅发布火箭汽车](https://www.zhihu.com/search?q=%E8%BF%BD%E8%A7%85%E5%8F%91%E5%B8%83%E7%81%AB%E7%AE%AD%E6%B1%BD%E8%BD%A6)
 1. [教授呼吁大学向社会开放](https://www.zhihu.com/search?q=%E6%95%99%E6%8E%88%E5%91%BC%E5%90%81%E5%A4%A7%E5%AD%A6%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BC%80%E6%94%BE)
