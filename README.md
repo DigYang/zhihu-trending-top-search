@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 02 2026 19:39:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 02 2026 20:57:43 GMT+0800 (China Standard Time) -->
 
 1. [国际不打小孩日](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E4%B8%8D%E6%89%93%E5%B0%8F%E5%AD%A9%E6%97%A5)
 1. [暴雨大暴雨要来了](https://www.zhihu.com/search?q=%E6%9A%B4%E9%9B%A8%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86)
