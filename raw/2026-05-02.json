@@ -1,4 +1,6 @@
 [
+  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
+  { "query": "暴雨大暴雨要来了", "display_query": "暴雨大暴雨要来了" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -6,10 +8,9 @@
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "DeepSeek V4 预览版上线并开源", "display_query": "DeepSeek V4 预览版上线并开源" },
   { "query": "DeepSeek v4 百万上下文", "display_query": "DeepSeek v4 百万上下文" },
-  { "query": "追觅发布火箭汽车", "display_query": "追觅发布火箭汽车" },
   { "query": "阿 Sa 蔡卓妍官宣结婚", "display_query": "阿 Sa 蔡卓妍官宣结婚" },
+  { "query": "追觅发布火箭汽车", "display_query": "追觅发布火箭汽车" },
   { "query": "教授呼吁大学向社会开放", "display_query": "教授呼吁大学向社会开放" },
-  { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
   { "query": "美联储宣布维持利率不变", "display_query": "美联储宣布维持利率不变" },
   { "query": "欧洲央行维持三大关键利率不变", "display_query": "欧洲央行维持三大关键利率不变" },
   { "query": "老鹰vs尼克斯", "display_query": "老鹰vs尼克斯" },
