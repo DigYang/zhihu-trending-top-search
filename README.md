@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 06 2026 19:00:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 06 2026 21:53:47 GMT+0800 (China Standard Time) -->
 
-1. [紧跟台积电三星市值1万亿美元](https://www.zhihu.com/search?q=%E7%B4%A7%E8%B7%9F%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%B8%89%E6%98%9F%E5%B8%82%E5%80%BC1%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
+1. [南非失踪商人疑被大肚鳄鱼吞食](https://www.zhihu.com/search?q=%E5%8D%97%E9%9D%9E%E5%A4%B1%E8%B8%AA%E5%95%86%E4%BA%BA%E7%96%91%E8%A2%AB%E5%A4%A7%E8%82%9A%E9%B3%84%E9%B1%BC%E5%90%9E%E9%A3%9F)
 1. [坚持油车的原因是什么](https://www.zhihu.com/search?q=%E5%9D%9A%E6%8C%81%E6%B2%B9%E8%BD%A6%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E8%A7%89%E5%BE%97%E7%A9%B7%E6%B8%B8%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97)
 1. [美股三大指数集体高开](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
@@ -26,6 +26,7 @@
 1. [真的有先父遗传吗](https://www.zhihu.com/search?q=%E7%9C%9F%E7%9A%84%E6%9C%89%E5%85%88%E7%88%B6%E9%81%97%E4%BC%A0%E5%90%97)
 1. [为什么安陵容这类人难相处](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%89%E9%99%B5%E5%AE%B9%E8%BF%99%E7%B1%BB%E4%BA%BA%E9%9A%BE%E7%9B%B8%E5%A4%84)
 1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%97%A0%E6%9D%A1%E4%BB%B6%E7%88%B1%E5%AD%A9%E5%AD%90)
+1. [紧跟台积电三星市值1万亿美元](https://www.zhihu.com/search?q=%E7%B4%A7%E8%B7%9F%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%B8%89%E6%98%9F%E5%B8%82%E5%80%BC1%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
