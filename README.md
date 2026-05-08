@@ -14,11 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 08 2026 15:21:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 08 2026 17:10:58 GMT+0800 (China Standard Time) -->
 
+1. [伊朗](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97)
+1. [国乒女团晋级四强](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [骑士vs活塞](https://www.zhihu.com/search?q=%E9%AA%91%E5%A3%ABvs%E6%B4%BB%E5%A1%9E)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [中国科学家揭示左撇子真相](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%8F%AD%E7%A4%BA%E5%B7%A6%E6%92%87%E5%AD%90%E7%9C%9F%E7%9B%B8)
