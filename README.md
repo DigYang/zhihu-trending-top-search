@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 10 2026 06:36:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 10 2026 07:41:05 GMT+0800 (China Standard Time) -->
 
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A)
+1. [国乒男团进决赛](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E8%BF%9B%E5%86%B3%E8%B5%9B)
 1. [尼克斯vs76人](https://www.zhihu.com/search?q=%E5%B0%BC%E5%85%8B%E6%96%AFvs76%E4%BA%BA)
 1. [俄罗斯胜利日阅兵](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E8%83%9C%E5%88%A9%E6%97%A5%E9%98%85%E5%85%B5)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
