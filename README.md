@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 11 2026 10:39:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 11 2026 14:33:23 GMT+0800 (China Standard Time) -->
 
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [国乒男团进决赛](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E8%BF%9B%E5%86%B3%E8%B5%9B)
@@ -23,9 +23,10 @@
 1. [骑士vs活塞](https://www.zhihu.com/search?q=%E9%AA%91%E5%A3%ABvs%E6%B4%BB%E5%A1%9E)
 1. [美伊谈判](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4)
 1. [NBA](https://www.zhihu.com/search?q=NBA)
-1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E4%B8%80%E7%83%9F%E8%8A%B1%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [年轻人开始报兴趣班旅行](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%8A%A5%E5%85%B4%E8%B6%A3%E7%8F%AD%E6%97%85%E8%A1%8C)
 1. [女游客秋千坠亡家属已和解](https://www.zhihu.com/search?q=%E5%A5%B3%E6%B8%B8%E5%AE%A2%E7%A7%8B%E5%8D%83%E5%9D%A0%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%B7%B2%E5%92%8C%E8%A7%A3)
+1. [研究发现多吃苦对大脑有害](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E5%A4%9A%E5%90%83%E8%8B%A6%E5%AF%B9%E5%A4%A7%E8%84%91%E6%9C%89%E5%AE%B3)
+1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E4%B8%80%E7%83%9F%E8%8A%B1%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 
 <!-- END -->
 
