@@ -14,10 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 13 2026 14:22:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 13 2026 19:58:48 GMT+0800 (China Standard Time) -->
 
+1. [金曲奖入围名单](https://www.zhihu.com/search?q=%E9%87%91%E6%9B%B2%E5%A5%96%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95)
 1. [国际护士节](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E6%8A%A4%E5%A3%AB%E8%8A%82)
+1. [TES对战NIP](https://www.zhihu.com/search?q=TES%E5%AF%B9%E6%88%98NIP)
+1. [戛纳](https://www.zhihu.com/search?q=%E6%88%9B%E7%BA%B3)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86)
+1. [戛纳红毯](https://www.zhihu.com/search?q=%E6%88%9B%E7%BA%B3%E7%BA%A2%E6%AF%AF)
+1. [机票价格大跳水](https://www.zhihu.com/search?q=%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4)
+1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E5%90%8E%E4%BD%A0%E5%AF%B9%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A5%9B%E9%AD%85%E4%BA%86)
