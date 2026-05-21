@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 21 2026 08:02:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 21 2026 13:05:18 GMT+0800 (China Standard Time) -->
 
 1. [谷歌开发者大会](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A)
 1. [A股三大指数集体翻红](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E7%BF%BB%E7%BA%A2)
+1. [英伟达财报](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5)
 1. [马刺vs雷霆](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAvs%E9%9B%B7%E9%9C%86)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
