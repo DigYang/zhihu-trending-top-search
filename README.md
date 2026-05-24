@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 24 2026 10:44:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 24 2026 14:32:46 GMT+0800 (China Standard Time) -->
 
 1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
 1. [油价今晚上调](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E4%B8%8A%E8%B0%83)
+1. [武汉发布暴雨红色预警](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
 1. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
