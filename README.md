@@ -14,15 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 26 2026 16:32:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 26 2026 23:58:01 GMT+0800 (China Standard Time) -->
 
+1. [T1战胜DK](https://www.zhihu.com/search?q=T1%E6%88%98%E8%83%9CDK)
 1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E6%B0%94%E8%B1%A1%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)
+1. [雨霖铃](https://www.zhihu.com/search?q=%E9%9B%A8%E9%9C%96%E9%93%83)
+1. [雷军强烈建议大家现在就换手机](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E7%8E%B0%E5%9C%A8%E5%B0%B1%E6%8D%A2%E6%89%8B%E6%9C%BA)
 1. [《错嫁有喜》原著](https://www.zhihu.com/search?q=%E3%80%8A%E9%94%99%E5%AB%81%E6%9C%89%E5%96%9C%E3%80%8B%E5%8E%9F%E8%91%97)
 1. [爆剧《错嫁有喜》原著在这里](https://www.zhihu.com/search?q=%E7%88%86%E5%89%A7%E3%80%8A%E9%94%99%E5%AB%81%E6%9C%89%E5%96%9C%E3%80%8B%E5%8E%9F%E8%91%97%E5%9C%A8%E8%BF%99%E9%87%8C)
-1. [山西沁源一煤矿发生事故](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85)
+1. [给阿嬷的情书拿到第一个电影奖](https://www.zhihu.com/search?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E6%8B%BF%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%94%B5%E5%BD%B1%E5%A5%96)
 1. [耿同学：举报不为赚钱 已与MCN解约](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%EF%BC%9A%E4%B8%BE%E6%8A%A5%E4%B8%8D%E4%B8%BA%E8%B5%9A%E9%92%B1%20%E5%B7%B2%E4%B8%8EMCN%E8%A7%A3%E7%BA%A6)
 1. [2026 年电影票房突破 150 亿](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B4%20150%20%E4%BA%BF)
 1. [王鹤棣 沈月](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%B2%88%E6%9C%88)
+1. [山西沁源一煤矿发生事故](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85)
 1. [山西煤矿事故已致90人死亡](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B490%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [为什么煤矿工人仍在人力下井采矿](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%85%A4%E7%9F%BF%E5%B7%A5%E4%BA%BA%E4%BB%8D%E5%9C%A8%E4%BA%BA%E5%8A%9B%E4%B8%8B%E4%BA%95%E9%87%87%E7%9F%BF)
 1. [公园用墓碑铺路网友吵翻](https://www.zhihu.com/search?q=%E5%85%AC%E5%9B%AD%E7%94%A8%E5%A2%93%E7%A2%91%E9%93%BA%E8%B7%AF%E7%BD%91%E5%8F%8B%E5%90%B5%E7%BF%BB)
@@ -31,7 +35,6 @@
 1. [尼克斯vs骑士](https://www.zhihu.com/search?q=%E5%B0%BC%E5%85%8B%E6%96%AFvs%E9%AA%91%E5%A3%AB)
 1. [阿森纳时隔22年再夺英超冠军](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3%E6%97%B6%E9%9A%9422%E5%B9%B4%E5%86%8D%E5%A4%BA%E8%8B%B1%E8%B6%85%E5%86%A0%E5%86%9B)
 1. [黑袍纠察队大结局](https://www.zhihu.com/search?q=%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E5%A4%A7%E7%BB%93%E5%B1%80)
-1. [雷军强烈建议大家现在就换手机](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E7%8E%B0%E5%9C%A8%E5%B0%B1%E6%8D%A2%E6%89%8B%E6%9C%BA)
 1. [英特尔CEO陈立武新规](https://www.zhihu.com/search?q=%E8%8B%B1%E7%89%B9%E5%B0%94CEO%E9%99%88%E7%AB%8B%E6%AD%A6%E6%96%B0%E8%A7%84)
 1. [为何今年暴雨来得又早又强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%BB%8A%E5%B9%B4%E6%9A%B4%E9%9B%A8%E6%9D%A5%E5%BE%97%E5%8F%88%E6%97%A9%E5%8F%88%E5%BC%BA)
 1. [肖战金海燕奖最佳男主角](https://www.zhihu.com/search?q=%E8%82%96%E6%88%98%E9%87%91%E6%B5%B7%E7%87%95%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
