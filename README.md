@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 28 2026 00:33:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 28 2026 03:20:22 GMT+0800 (China Standard Time) -->
 
 1. [怎样能看出一个人的开车水平很高](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E8%83%BD%E7%9C%8B%E5%87%BA%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BC%80%E8%BD%A6%E6%B0%B4%E5%B9%B3%E5%BE%88%E9%AB%98)
 1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E6%B0%94%E8%B1%A1%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)
