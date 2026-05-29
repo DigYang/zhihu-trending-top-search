@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 29 2026 07:09:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 29 2026 10:42:47 GMT+0800 (China Standard Time) -->
 
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
 1. [读博可以改变一个人的性格吗](https://www.zhihu.com/search?q=%E8%AF%BB%E5%8D%9A%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%8F%98%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%80%A7%E6%A0%BC%E5%90%97)
