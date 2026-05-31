@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 31 2026 18:09:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 31 2026 20:06:51 GMT+0800 (China Standard Time) -->
 
 1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
@@ -24,6 +24,7 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [711门店广告夯爆了写成劣爆了](https://www.zhihu.com/search?q=711%E9%97%A8%E5%BA%97%E5%B9%BF%E5%91%8A%E5%A4%AF%E7%88%86%E4%BA%86%E5%86%99%E6%88%90%E5%8A%A3%E7%88%86%E4%BA%86)
 1. [「碳水脸」说法引争议](https://www.zhihu.com/search?q=%E3%80%8C%E7%A2%B3%E6%B0%B4%E8%84%B8%E3%80%8D%E8%AF%B4%E6%B3%95%E5%BC%95%E4%BA%89%E8%AE%AE)
+1. [电影《给阿嬤的情书》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%A4%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [全球100个最热城市印度占98个](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83100%E4%B8%AA%E6%9C%80%E7%83%AD%E5%9F%8E%E5%B8%82%E5%8D%B0%E5%BA%A6%E5%8D%A098%E4%B8%AA)
 1. [留神峪煤矿有重大违法行为](https://www.zhihu.com/search?q=%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E6%9C%89%E9%87%8D%E5%A4%A7%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA)
 1. [日本本州东部6.5级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A86.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
