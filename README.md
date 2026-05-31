@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 01 2026 04:52:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 01 2026 05:54:38 GMT+0800 (China Standard Time) -->
 
 1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [711门店广告夯爆了写成劣爆了](https://www.zhihu.com/search?q=711%E9%97%A8%E5%BA%97%E5%B9%BF%E5%91%8A%E5%A4%AF%E7%88%86%E4%BA%86%E5%86%99%E6%88%90%E5%8A%A3%E7%88%86%E4%BA%86)
