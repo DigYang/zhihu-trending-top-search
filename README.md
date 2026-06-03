@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 03 2026 08:26:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 03 2026 13:59:08 GMT+0800 (China Standard Time) -->
 
-1. [六一儿童节](https://www.zhihu.com/search?q=%E5%85%AD%E4%B8%80%E5%84%BF%E7%AB%A5%E8%8A%82)
 1. [我国全面进入汛期](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E6%B1%9B%E6%9C%9F)
 1. [高考祝福](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
@@ -26,6 +25,8 @@
 1. [高考加油的文案](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E7%9A%84%E6%96%87%E6%A1%88)
 1. [高考作文素材](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E7%B4%A0%E6%9D%90)
 1. [极简真的养人吗](https://www.zhihu.com/search?q=%E6%9E%81%E7%AE%80%E7%9C%9F%E7%9A%84%E5%85%BB%E4%BA%BA%E5%90%97)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [六一儿童节](https://www.zhihu.com/search?q=%E5%85%AD%E4%B8%80%E5%84%BF%E7%AB%A5%E8%8A%82)
 
 <!-- END -->
 
