@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 04 2026 04:13:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 04 2026 07:00:56 GMT+0800 (China Standard Time) -->
 
 1. [高考进入倒计时](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%BF%9B%E5%85%A5%E5%80%92%E8%AE%A1%E6%97%B6)
 1. [车企 5 月销量数据出炉](https://www.zhihu.com/search?q=%E8%BD%A6%E4%BC%81%205%20%E6%9C%88%E9%94%80%E9%87%8F%E6%95%B0%E6%8D%AE%E5%87%BA%E7%82%89)
