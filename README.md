@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 07 2026 06:03:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 07 2026 07:59:16 GMT+0800 (China Standard Time) -->
 
 1. [今日芒种](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%8A%92%E7%A7%8D)
 1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=%E9%94%99%E6%80%AA%E5%AD%A9%E5%AD%90%E9%9C%80%E8%A6%81%E9%81%93%E6%AD%89%E5%90%97)
