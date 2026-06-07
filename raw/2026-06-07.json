@@ -1,7 +1,6 @@
 [
   { "query": "今日芒种", "display_query": "今日芒种" },
   { "query": "错怪孩子需要道歉吗", "display_query": "错怪孩子需要道歉吗" },
-  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   { "query": "你看过最感动的短篇漫画是什么", "display_query": "你看过最感动的短篇漫画是什么" },
   { "query": "为什么人不能靠意志力戒毒", "display_query": "为什么人不能靠意志力戒毒" },
   { "query": "高考加油", "display_query": "高考加油" },
@@ -9,6 +8,8 @@
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "为什么在中国境内找不到夏朝", "display_query": "为什么在中国境内找不到夏朝" },
   { "query": "claudecode使用感受如何", "display_query": "claudecode使用感受如何" },
+  { "query": "如何评价勇哥说餐饮", "display_query": "如何评价勇哥说餐饮" },
+  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   { "query": "美国原油库存连续六周下降", "display_query": "美国原油库存连续六周下降" },
   { "query": "太阳爆发一次强烈耀斑", "display_query": "太阳爆发一次强烈耀斑" },
   { "query": "我的进城办事专T来了", "display_query": "我的进城办事专T来了" },
