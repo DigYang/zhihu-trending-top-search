@@ -14,17 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 09 2026 12:59:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 09 2026 16:33:20 GMT+0800 (China Standard Time) -->
 
-1. [觉得自己就是在为周末而活](https://www.zhihu.com/search?q=%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%B8%BA%E5%91%A8%E6%9C%AB%E8%80%8C%E6%B4%BB)
-1. [高考选择题怎么来的](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E9%80%89%E6%8B%A9%E9%A2%98%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84)
+1. [高考作文](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
+1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [浪姐四公](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC)
+1. [NBA总决赛](https://www.zhihu.com/search?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B)
+1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [高考注意事项](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 1. [高考化学](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6)
 1. [高考地理](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%9C%B0%E7%90%86)
-1. [BLG战胜JDG](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CJDG)
 1. [BLG 1:3 不敌 WE](https://www.zhihu.com/search?q=BLG%201%3A3%20%E4%B8%8D%E6%95%8C%20WE)
 1. [高考时间](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4)
+1. [觉得自己就是在为周末而活](https://www.zhihu.com/search?q=%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%B8%BA%E5%91%A8%E6%9C%AB%E8%80%8C%E6%B4%BB)
+1. [高考选择题怎么来的](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E9%80%89%E6%8B%A9%E9%A2%98%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84)
+1. [BLG战胜JDG](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CJDG)
 1. [2026高考日程表](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E6%97%A5%E7%A8%8B%E8%A1%A8)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CWE)
