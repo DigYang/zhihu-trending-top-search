@@ -14,11 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 13 2026 16:50:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 13 2026 19:10:39 GMT+0800 (China Standard Time) -->
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%E7%9B%B4%E9%9D%A2%E4%BC%9A)
 1. [高考作文](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
 1. [英语四级](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7)
+1. [六级](https://www.zhihu.com/search?q=%E5%85%AD%E7%BA%A7)
+1. [英语六级考试](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95)
 1. [HLE战胜T1](https://www.zhihu.com/search?q=HLE%E6%88%98%E8%83%9CT1)
 1. [SpaceX被曝IPO定价135美元](https://www.zhihu.com/search?q=SpaceX%E8%A2%AB%E6%9B%9DIPO%E5%AE%9A%E4%BB%B7135%E7%BE%8E%E5%85%83)
 1. [2026 高考](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83)
