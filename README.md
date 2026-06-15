@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 15 2026 07:02:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 15 2026 11:37:09 GMT+0800 (China Standard Time) -->
 
-1. [任天堂直面会](https://www.zhihu.com/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%E7%9B%B4%E9%9D%A2%E4%BC%9A)
-1. [高考作文](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
+1. [中式主题乐园能有多出圈](https://www.zhihu.com/search?q=%E4%B8%AD%E5%BC%8F%E4%B8%BB%E9%A2%98%E4%B9%90%E5%9B%AD%E8%83%BD%E6%9C%89%E5%A4%9A%E5%87%BA%E5%9C%88)
 1. [英语四级](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7)
 1. [马刺VS尼克斯](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAVS%E5%B0%BC%E5%85%8B%E6%96%AF)
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=%E9%87%8D%E5%9B%9E%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E8%BF%98%E8%83%BD%E5%81%9A%E5%AF%B9%E5%87%A0%E9%81%93)
@@ -26,6 +25,9 @@
 1. [昔日零分考生37岁再战高考](https://www.zhihu.com/search?q=%E6%98%94%E6%97%A5%E9%9B%B6%E5%88%86%E8%80%83%E7%94%9F37%E5%B2%81%E5%86%8D%E6%88%98%E9%AB%98%E8%80%83)
 1. [5月汽车销量前十已无燃油车](https://www.zhihu.com/search?q=5%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%B7%B2%E6%97%A0%E7%87%83%E6%B2%B9%E8%BD%A6)
 1. [全国小麦收获进度近七成](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%B0%8F%E9%BA%A6%E6%94%B6%E8%8E%B7%E8%BF%9B%E5%BA%A6%E8%BF%91%E4%B8%83%E6%88%90)
+1. [人生其实是均值回归的](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E5%85%B6%E5%AE%9E%E6%98%AF%E5%9D%87%E5%80%BC%E5%9B%9E%E5%BD%92%E7%9A%84)
+1. [任天堂直面会](https://www.zhihu.com/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%E7%9B%B4%E9%9D%A2%E4%BC%9A)
+1. [高考作文](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
 
 <!-- END -->
 
