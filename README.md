@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 18 2026 02:10:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 18 2026 05:00:46 GMT+0800 (China Standard Time) -->
 
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%9C%A8%E6%8B%8D%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
 1. [极简真的养人吗](https://www.zhihu.com/search?q=%E6%9E%81%E7%AE%80%E7%9C%9F%E7%9A%84%E5%85%BB%E4%BA%BA%E5%90%97)
