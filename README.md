@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 18 2026 11:23:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 18 2026 16:39:05 GMT+0800 (China Standard Time) -->
 
+1. [压力给到C罗](https://www.zhihu.com/search?q=%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0C%E7%BD%97)
+1. [金价猛涨站上4300美元](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E7%AB%99%E4%B8%8A4300%E7%BE%8E%E5%85%83)
+1. [被留下的毕业礼物](https://www.zhihu.com/search?q=%E8%A2%AB%E7%95%99%E4%B8%8B%E7%9A%84%E6%AF%95%E4%B8%9A%E7%A4%BC%E7%89%A9)
+1. [冯小刚新片《抓特务》端午上映](https://www.zhihu.com/search?q=%E5%86%AF%E5%B0%8F%E5%88%9A%E6%96%B0%E7%89%87%E3%80%8A%E6%8A%93%E7%89%B9%E5%8A%A1%E3%80%8B%E7%AB%AF%E5%8D%88%E4%B8%8A%E6%98%A0)
+1. [白鹿起诉蒙淇淇](https://www.zhihu.com/search?q=%E7%99%BD%E9%B9%BF%E8%B5%B7%E8%AF%89%E8%92%99%E6%B7%87%E6%B7%87)
+1. [SpaceX登陆纳斯达克](https://www.zhihu.com/search?q=SpaceX%E7%99%BB%E9%99%86%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B)
+1. [荷兰 vs 日本](https://www.zhihu.com/search?q=%E8%8D%B7%E5%85%B0%20vs%20%E6%97%A5%E6%9C%AC)
+1. [AMD 嘲讽 MacBook 游戏兼容差](https://www.zhihu.com/search?q=AMD%20%E5%98%B2%E8%AE%BD%20MacBook%20%E6%B8%B8%E6%88%8F%E5%85%BC%E5%AE%B9%E5%B7%AE)
+1. [蔚来李斌预警全年车市或跌15%至20%](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%E9%A2%84%E8%AD%A6%E5%85%A8%E5%B9%B4%E8%BD%A6%E5%B8%82%E6%88%96%E8%B7%8C15%25%E8%87%B320%25)
+1. [梅西帽子戏法](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95)
 1. [丁禹兮张海虾复活](https://www.zhihu.com/search?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BC%A0%E6%B5%B7%E8%99%BE%E5%A4%8D%E6%B4%BB)
 1. [女子家门口遇害案二审维持原判](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4)
 1. [极简真的养人吗](https://www.zhihu.com/search?q=%E6%9E%81%E7%AE%80%E7%9C%9F%E7%9A%84%E5%85%BB%E4%BA%BA%E5%90%97)
