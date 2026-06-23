@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 23 2026 07:21:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 23 2026 10:43:15 GMT+0800 (China Standard Time) -->
 
-1. [梅西](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF)
+1. [成年人的见面真的很贵](https://www.zhihu.com/search?q=%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E8%A7%81%E9%9D%A2%E7%9C%9F%E7%9A%84%E5%BE%88%E8%B4%B5)
+1. [定目标真的有用吗](https://www.zhihu.com/search?q=%E5%AE%9A%E7%9B%AE%E6%A0%87%E7%9C%9F%E7%9A%84%E6%9C%89%E7%94%A8%E5%90%97)
 1. [亚马尔](https://www.zhihu.com/search?q=%E4%BA%9A%E9%A9%AC%E5%B0%94)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
@@ -25,6 +26,7 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [樊振东加盟杜塞尔多夫](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8A%A0%E7%9B%9F%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB)
 1. [梅西帽子戏法](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95)
+1. [梅西](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF)
 1. [阿根廷3-0阿尔及利亚](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-0%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A)
 
 <!-- END -->
