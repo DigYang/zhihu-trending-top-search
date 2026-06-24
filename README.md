@@ -14,12 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 24 2026 14:41:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 24 2026 18:17:24 GMT+0800 (China Standard Time) -->
 
-1. [佛得角计划有变](https://www.zhihu.com/search?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98)
-1. [马斯克拿下7800亿元天价薪酬](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%BF%E4%B8%8B7800%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E8%96%AA%E9%85%AC)
+1. [上海高考查分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
+1. [广东高考分数线](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
+1. [高考分数线](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
+1. [福建高考查分](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
+1. [辽宁舰完成远海实战化训练](https://www.zhihu.com/search?q=%E8%BE%BD%E5%AE%81%E8%88%B0%E5%AE%8C%E6%88%90%E8%BF%9C%E6%B5%B7%E5%AE%9E%E6%88%98%E5%8C%96%E8%AE%AD%E7%BB%83)
 1. [上海高考出分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [天津高考出分](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
+1. [福建高考出分](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
+1. [辽宁高考出分](https://www.zhihu.com/search?q=%E8%BE%BD%E5%AE%81%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
+1. [重庆高考出分](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
+1. [佛得角计划有变](https://www.zhihu.com/search?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98)
+1. [马斯克拿下7800亿元天价薪酬](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%BF%E4%B8%8B7800%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E8%96%AA%E9%85%AC)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
