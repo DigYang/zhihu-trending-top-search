@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 27 2026 17:59:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 27 2026 19:39:50 GMT+0800 (China Standard Time) -->
 
-1. [1点点茶叶](https://www.zhihu.com/search?q=1%E7%82%B9%E7%82%B9%E8%8C%B6%E5%8F%B6)
-1. [英国为什么总在换首相](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E5%9C%A8%E6%8D%A2%E9%A6%96%E7%9B%B8)
+1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
+1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [四川高考分数线公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [山西高考分数线公布](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [北京高考分数线公布](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [浙江高考分数线公布](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
@@ -25,10 +26,9 @@
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%9C%A8%E6%8B%8D%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
 1. [你最近过的怎样](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E8%BF%91%E8%BF%87%E7%9A%84%E6%80%8E%E6%A0%B7)
 1. [iPhone会涨价吗](https://www.zhihu.com/search?q=iPhone%E4%BC%9A%E6%B6%A8%E4%BB%B7%E5%90%97)
+1. [1点点茶叶](https://www.zhihu.com/search?q=1%E7%82%B9%E7%82%B9%E8%8C%B6%E5%8F%B6)
+1. [英国为什么总在换首相](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E5%9C%A8%E6%8D%A2%E9%A6%96%E7%9B%B8)
 1. [上海高考出分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
-1. [四川高考分数线公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 
 <!-- END -->
 
