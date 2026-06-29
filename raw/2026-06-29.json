@@ -1,5 +1,6 @@
 [
-  { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" },
+  { "query": "尊界", "display_query": "尊界" },
+  { "query": "百厨大战", "display_query": "百厨大战" },
   { "query": "四川高考分数线公布", "display_query": "四川高考分数线公布" },
   { "query": "山西高考分数线公布", "display_query": "山西高考分数线公布" },
   { "query": "北京高考分数线公布", "display_query": "北京高考分数线公布" },
@@ -8,6 +9,7 @@
   { "query": "演员知道自己正在拍一部烂片吗", "display_query": "演员知道自己正在拍一部烂片吗" },
   { "query": "你最近过的怎样", "display_query": "你最近过的怎样" },
   { "query": "iPhone会涨价吗", "display_query": "iPhone会涨价吗" },
+  { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" },
   { "query": "山姆超市是怎么在中国火起来的", "display_query": "山姆超市是怎么在中国火起来的" },
   { "query": "江苏高考出分", "display_query": "江苏高考出分" }
 ]

@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 29 2026 07:04:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 29 2026 10:54:37 GMT+0800 (China Standard Time) -->
 
-1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [尊界](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8C)
+1. [百厨大战](https://www.zhihu.com/search?q=%E7%99%BE%E5%8E%A8%E5%A4%A7%E6%88%98)
 1. [四川高考分数线公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [山西高考分数线公布](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [北京高考分数线公布](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
@@ -25,6 +26,7 @@
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%9C%A8%E6%8B%8D%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
 1. [你最近过的怎样](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E8%BF%91%E8%BF%87%E7%9A%84%E6%80%8E%E6%A0%B7)
 1. [iPhone会涨价吗](https://www.zhihu.com/search?q=iPhone%E4%BC%9A%E6%B6%A8%E4%BB%B7%E5%90%97)
+1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [山姆超市是怎么在中国火起来的](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82%E6%98%AF%E6%80%8E%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84)
 1. [江苏高考出分](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 
