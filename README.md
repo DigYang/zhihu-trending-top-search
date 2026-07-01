@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 01 2026 13:17:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 01 2026 17:36:04 GMT+0800 (China Standard Time) -->
 
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
@@ -22,6 +22,7 @@
 1. [欧洲35℃高温影响超1亿人](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B235%E2%84%83%E9%AB%98%E6%B8%A9%E5%BD%B1%E5%93%8D%E8%B6%851%E4%BA%BF%E4%BA%BA)
 1. [勇哥餐饮创业说被封号客服挂电话](https://www.zhihu.com/search?q=%E5%8B%87%E5%93%A5%E9%A4%90%E9%A5%AE%E5%88%9B%E4%B8%9A%E8%AF%B4%E8%A2%AB%E5%B0%81%E5%8F%B7%E5%AE%A2%E6%9C%8D%E6%8C%82%E7%94%B5%E8%AF%9D)
 1. [奔驰将取消德国 9 万名员工年终奖](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E5%B0%86%E5%8F%96%E6%B6%88%E5%BE%B7%E5%9B%BD%209%20%E4%B8%87%E5%90%8D%E5%91%98%E5%B7%A5%E5%B9%B4%E7%BB%88%E5%A5%96)
+1. [北大程乐松毕业致辞火了](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E7%A8%8B%E4%B9%90%E6%9D%BE%E6%AF%95%E4%B8%9A%E8%87%B4%E8%BE%9E%E7%81%AB%E4%BA%86)
 1. [笔趣阁APP再次爆火](https://www.zhihu.com/search?q=%E7%AC%94%E8%B6%A3%E9%98%81APP%E5%86%8D%E6%AC%A1%E7%88%86%E7%81%AB)
 1. [美海军陆战队接收「无雷达」F-35](https://www.zhihu.com/search?q=%E7%BE%8E%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E6%8E%A5%E6%94%B6%E3%80%8C%E6%97%A0%E9%9B%B7%E8%BE%BE%E3%80%8DF-35)
 1. [恋与深空致歉玩家仍退游删号](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E8%87%B4%E6%AD%89%E7%8E%A9%E5%AE%B6%E4%BB%8D%E9%80%80%E6%B8%B8%E5%88%A0%E5%8F%B7)
