@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 01 2026 06:12:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 01 2026 08:02:07 GMT+0800 (China Standard Time) -->
 
-1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
-1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
+1. [葫芦岛居民楼发生闪爆](https://www.zhihu.com/search?q=%E8%91%AB%E8%8A%A6%E5%B2%9B%E5%B1%85%E6%B0%91%E6%A5%BC%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86)
+1. [v8](https://www.zhihu.com/search?q=v8)
 1. [热浪炙烤欧洲 多地打破高温纪录](https://www.zhihu.com/search?q=%E7%83%AD%E6%B5%AA%E7%82%99%E7%83%A4%E6%AC%A7%E6%B4%B2%20%E5%A4%9A%E5%9C%B0%E6%89%93%E7%A0%B4%E9%AB%98%E6%B8%A9%E7%BA%AA%E5%BD%95)
 1. [欧洲35℃高温影响超1亿人](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B235%E2%84%83%E9%AB%98%E6%B8%A9%E5%BD%B1%E5%93%8D%E8%B6%851%E4%BA%BF%E4%BA%BA)
 1. [勇哥餐饮创业说被封号客服挂电话](https://www.zhihu.com/search?q=%E5%8B%87%E5%93%A5%E9%A4%90%E9%A5%AE%E5%88%9B%E4%B8%9A%E8%AF%B4%E8%A2%AB%E5%B0%81%E5%8F%B7%E5%AE%A2%E6%9C%8D%E6%8C%82%E7%94%B5%E8%AF%9D)
@@ -26,6 +26,8 @@
 1. [浪姐总决赛](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B)
 1. [奔驰将取消德国 9 万名员工年终奖](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E5%B0%86%E5%8F%96%E6%B6%88%E5%BE%B7%E5%9B%BD%209%20%E4%B8%87%E5%90%8D%E5%91%98%E5%B7%A5%E5%B9%B4%E7%BB%88%E5%A5%96)
 1. [《乘风 2026》曾沛慈年度总冠军](https://www.zhihu.com/search?q=%E3%80%8A%E4%B9%98%E9%A3%8E%202026%E3%80%8B%E6%9B%BE%E6%B2%9B%E6%85%88%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B)
+1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
+1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [OpenAI发布GPT-5.6系列模型](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.6%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B)
 
 <!-- END -->
