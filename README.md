@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 02 2026 14:35:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 02 2026 17:56:40 GMT+0800 (China Standard Time) -->
 
-1. [七月文案](https://www.zhihu.com/search?q=%E4%B8%83%E6%9C%88%E6%96%87%E6%A1%88)
-1. [庆祝建党105周年](https://www.zhihu.com/search?q=%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A105%E5%91%A8%E5%B9%B4)
+1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek%E5%B4%A9%E4%BA%86)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [笔趣阁APP再次爆火](https://www.zhihu.com/search?q=%E7%AC%94%E8%B6%A3%E9%98%81APP%E5%86%8D%E6%AC%A1%E7%88%86%E7%81%AB)
@@ -25,6 +24,10 @@
 1. [存储三巨头被告了](https://www.zhihu.com/search?q=%E5%AD%98%E5%82%A8%E4%B8%89%E5%B7%A8%E5%A4%B4%E8%A2%AB%E5%91%8A%E4%BA%86)
 1. [韩红为「走个面儿」道歉并退出公益行业](https://www.zhihu.com/search?q=%E9%9F%A9%E7%BA%A2%E4%B8%BA%E3%80%8C%E8%B5%B0%E4%B8%AA%E9%9D%A2%E5%84%BF%E3%80%8D%E9%81%93%E6%AD%89%E5%B9%B6%E9%80%80%E5%87%BA%E5%85%AC%E7%9B%8A%E8%A1%8C%E4%B8%9A)
 1. [德国 vs 巴拉圭](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%20vs%20%E5%B7%B4%E6%8B%89%E5%9C%AD)
+1. [天下苦话费贵久矣](https://www.zhihu.com/search?q=%E5%A4%A9%E4%B8%8B%E8%8B%A6%E8%AF%9D%E8%B4%B9%E8%B4%B5%E4%B9%85%E7%9F%A3)
+1. [恋与深空回应三大争议](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%9B%9E%E5%BA%94%E4%B8%89%E5%A4%A7%E4%BA%89%E8%AE%AE)
+1. [七月文案](https://www.zhihu.com/search?q=%E4%B8%83%E6%9C%88%E6%96%87%E6%A1%88)
+1. [庆祝建党105周年](https://www.zhihu.com/search?q=%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A105%E5%91%A8%E5%B9%B4)
 1. [功率半导体缺货涨价](https://www.zhihu.com/search?q=%E5%8A%9F%E7%8E%87%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%BC%BA%E8%B4%A7%E6%B6%A8%E4%BB%B7)
 1. [美的油烟机玩梗张杰引争议](https://www.zhihu.com/search?q=%E7%BE%8E%E7%9A%84%E6%B2%B9%E7%83%9F%E6%9C%BA%E7%8E%A9%E6%A2%97%E5%BC%A0%E6%9D%B0%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [内娱年度最差编剧](https://www.zhihu.com/search?q=%E5%86%85%E5%A8%B1%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%B7%AE%E7%BC%96%E5%89%A7)
