@@ -14,18 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 03 2026 08:00:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 03 2026 15:21:29 GMT+0800 (China Standard Time) -->
 
+1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek%E5%B4%A9%E4%BA%86)
+1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
+1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
+1. [女子跑步不拉伸小腿肌肉硬成铁块](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B7%91%E6%AD%A5%E4%B8%8D%E6%8B%89%E4%BC%B8%E5%B0%8F%E8%85%BF%E8%82%8C%E8%82%89%E7%A1%AC%E6%88%90%E9%93%81%E5%9D%97)
+1. [欧洲新能源车作外接空调](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BD%9C%E5%A4%96%E6%8E%A5%E7%A9%BA%E8%B0%83)
+1. [欧洲高温新能源车当空调](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E9%AB%98%E6%B8%A9%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%BD%93%E7%A9%BA%E8%B0%83)
+1. [恋与深空回应三大争议](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%9B%9E%E5%BA%94%E4%B8%89%E5%A4%A7%E4%BA%89%E8%AE%AE)
+1. [日元创 40 年新低](https://www.zhihu.com/search?q=%E6%97%A5%E5%85%83%E5%88%9B%2040%20%E5%B9%B4%E6%96%B0%E4%BD%8E)
+1. [80后集体扎堆染黄毛](https://www.zhihu.com/search?q=80%E5%90%8E%E9%9B%86%E4%BD%93%E6%89%8E%E5%A0%86%E6%9F%93%E9%BB%84%E6%AF%9B)
+1. [法国 vs 瑞典](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%20vs%20%E7%91%9E%E5%85%B8)
 1. [为什么在生活中几乎看不到雪茄](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E7%94%9F%E6%B4%BB%E4%B8%AD%E5%87%A0%E4%B9%8E%E7%9C%8B%E4%B8%8D%E5%88%B0%E9%9B%AA%E8%8C%84)
 1. [猪的战斗力在野外属于什么水平](https://www.zhihu.com/search?q=%E7%8C%AA%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B%E5%9C%A8%E9%87%8E%E5%A4%96%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
-1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek%E5%B4%A9%E4%BA%86)
 1. [陈垣宇VS雨果](https://www.zhihu.com/search?q=%E9%99%88%E5%9E%A3%E5%AE%87VS%E9%9B%A8%E6%9E%9C)
 1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=%E5%A6%BB%E5%AD%90%E7%9A%84%E6%B5%AA%E6%BC%AB%E6%97%85%E8%A1%8C)
 1. [国内航线燃油附加费将下调](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E8%88%AA%E7%BA%BF%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E5%B0%86%E4%B8%8B%E8%B0%83)
 1. [庆祝建党105周年](https://www.zhihu.com/search?q=%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A105%E5%91%A8%E5%B9%B4)
-1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
-1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
-1. [女子跑步不拉伸小腿肌肉硬成铁块](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B7%91%E6%AD%A5%E4%B8%8D%E6%8B%89%E4%BC%B8%E5%B0%8F%E8%85%BF%E8%82%8C%E8%82%89%E7%A1%AC%E6%88%90%E9%93%81%E5%9D%97)
 
 <!-- END -->
 
