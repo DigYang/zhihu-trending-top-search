@@ -1,6 +1,5 @@
 [
-  { "query": "温瑞博蒯曼晋级混双四强", "display_query": "温瑞博蒯曼晋级混双四强" },
-  { "query": "樊振东正式加盟杜塞尔多夫", "display_query": "樊振东正式加盟杜塞尔多夫" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "高铁上的商务座都被谁买了", "display_query": "高铁上的商务座都被谁买了" },
   { "query": "G2对战TES", "display_query": "G2对战TES" },
   { "query": "克罗地亚出局", "display_query": "克罗地亚出局" },
@@ -9,6 +8,7 @@
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "如何评价歼50战斗机", "display_query": "如何评价歼50战斗机" },
   { "query": "影视剧哪些美人曾经惊艳了你", "display_query": "影视剧哪些美人曾经惊艳了你" },
-  { "query": "A股", "display_query": "A股" },
-  { "query": "去旅游你对住宿有要求吗", "display_query": "去旅游你对住宿有要求吗" }
+  { "query": "去旅游你对住宿有要求吗", "display_query": "去旅游你对住宿有要求吗" },
+  { "query": "温瑞博蒯曼晋级混双四强", "display_query": "温瑞博蒯曼晋级混双四强" },
+  { "query": "樊振东正式加盟杜塞尔多夫", "display_query": "樊振东正式加盟杜塞尔多夫" }
 ]
