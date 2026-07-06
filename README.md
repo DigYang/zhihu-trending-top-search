@@ -14,9 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 06 2026 18:05:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 06 2026 22:21:41 GMT+0800 (China Standard Time) -->
 
+1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [有线耳机](https://www.zhihu.com/search?q=%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA)
+1. [崩坏星穹铁道](https://www.zhihu.com/search?q=%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)
+1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
+1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [孙颖莎冠军](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%A0%E5%86%9B)
+1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89vs%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1)
+1. [blg对战t1](https://www.zhihu.com/search?q=blg%E5%AF%B9%E6%88%98t1)
+1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA)
+1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99)
 1. [《南部档案》大结局](https://www.zhihu.com/search?q=%E3%80%8A%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
