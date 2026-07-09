@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 09 2026 08:14:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 09 2026 12:45:35 GMT+0800 (China Standard Time) -->
 
-1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [网友称日常沟通避免反问句](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%97%A5%E5%B8%B8%E6%B2%9F%E9%80%9A%E9%81%BF%E5%85%8D%E5%8F%8D%E9%97%AE%E5%8F%A5)
 1. [裁判](https://www.zhihu.com/search?q=%E8%A3%81%E5%88%A4)
 1. [苏醒](https://www.zhihu.com/search?q=%E8%8B%8F%E9%86%92)
 1. [G2对战T1](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98T1)
@@ -26,6 +25,9 @@
 1. [地震快讯](https://www.zhihu.com/search?q=%E5%9C%B0%E9%9C%87%E5%BF%AB%E8%AE%AF)
 1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
+1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
+1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
+1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
 
 <!-- END -->
 
