@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 13 2026 18:18:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 13 2026 21:15:38 GMT+0800 (China Standard Time) -->
 
 1. [西班牙vs法国](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%B3%95%E5%9B%BD)
+1. [沪深两市成交额突破2万亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [小红书遭举报存在VIE信披矛盾等问题](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%81%AD%E4%B8%BE%E6%8A%A5%E5%AD%98%E5%9C%A8VIE%E4%BF%A1%E6%8A%AB%E7%9F%9B%E7%9B%BE%E7%AD%89%E9%97%AE%E9%A2%98)
