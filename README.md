@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 16 2026 22:55:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 17 2026 00:12:59 GMT+0800 (China Standard Time) -->
 
 1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
@@ -26,21 +26,6 @@
 1. [奔跑吧14](https://www.zhihu.com/search?q=%E5%A5%94%E8%B7%91%E5%90%A714)
 1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
-1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
-1. [冉莹颖邹市明三次离婚没离成](https://www.zhihu.com/search?q=%E5%86%89%E8%8E%B9%E9%A2%96%E9%82%B9%E5%B8%82%E6%98%8E%E4%B8%89%E6%AC%A1%E7%A6%BB%E5%A9%9A%E6%B2%A1%E7%A6%BB%E6%88%90)
-1. [长鑫科技最高估值超4万亿](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%9C%80%E9%AB%98%E4%BC%B0%E5%80%BC%E8%B6%854%E4%B8%87%E4%BA%BF)
-1. [《功夫女足》热映](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [内蒙古 16 岁高中生因拍门玩闹被捅杀](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%2016%20%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%A0%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E8%A2%AB%E6%8D%85%E6%9D%80)
-1. [冉莹颖邹市明《姐姐当家 2》表现](https://www.zhihu.com/search?q=%E5%86%89%E8%8E%B9%E9%A2%96%E9%82%B9%E5%B8%82%E6%98%8E%E3%80%8A%E5%A7%90%E5%A7%90%E5%BD%93%E5%AE%B6%202%E3%80%8B%E8%A1%A8%E7%8E%B0)
-1. [6月新增新冠确诊7.9万例](https://www.zhihu.com/search?q=6%E6%9C%88%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A7.9%E4%B8%87%E4%BE%8B)
-1. [赛力斯预计半年净亏损15-18亿](https://www.zhihu.com/search?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E9%A2%84%E8%AE%A1%E5%8D%8A%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F15-18%E4%BA%BF)
-1. [《功夫女足》预测票房大幅飙升](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E5%A4%A7%E5%B9%85%E9%A3%99%E5%8D%87)
-1. [GDP](https://www.zhihu.com/search?q=GDP)
-1. [美国CPI](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BDCPI)
-1. [TMEA盛典阵容官宣](https://www.zhihu.com/search?q=TMEA%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3)
-1. [美伊冲突](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81)
-1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD%E4%BE%B5%E6%9D%83%20LV%20%E8%A2%AB%E5%88%A4%E8%B5%94%201030%20%E4%B8%87)
-1. [sk海力士暴跌](https://www.zhihu.com/search?q=sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%9A%B4%E8%B7%8C)
 
 <!-- END -->
 
