@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 20 2026 14:10:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 20 2026 17:53:39 GMT+0800 (China Standard Time) -->
 
+1. [林诗栋蒯曼 3-2 袁励岑王艺迪](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%203-2%20%E8%A2%81%E5%8A%B1%E5%B2%91%E7%8E%8B%E8%89%BA%E8%BF%AA)
+1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
+1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
+1. [阿根廷 脏](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%84%8F)
+1. [英格兰教练图赫尔排兵布阵](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%95%99%E7%BB%83%E5%9B%BE%E8%B5%AB%E5%B0%94%E6%8E%92%E5%85%B5%E5%B8%83%E9%98%B5)
+1. [法国vs英格兰](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0)
+1. [2026 世界人工智能大会](https://www.zhihu.com/search?q=2026%20%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A)
+1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
+1. [曝气象局会卡40℃不报](https://www.zhihu.com/search?q=%E6%9B%9D%E6%B0%94%E8%B1%A1%E5%B1%80%E4%BC%9A%E5%8D%A140%E2%84%83%E4%B8%8D%E6%8A%A5)
+1. [重庆彭水发生山体崩塌](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8F%91%E7%94%9F%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C)
 1. [以后大家拼的就是身体了](https://www.zhihu.com/search?q=%E4%BB%A5%E5%90%8E%E5%A4%A7%E5%AE%B6%E6%8B%BC%E7%9A%84%E5%B0%B1%E6%98%AF%E8%BA%AB%E4%BD%93%E4%BA%86)
 1. [霸王茶姬终于能看清咖啡因了](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%BB%88%E4%BA%8E%E8%83%BD%E7%9C%8B%E6%B8%85%E5%92%96%E5%95%A1%E5%9B%A0%E4%BA%86)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
