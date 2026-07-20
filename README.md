@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 20 2026 20:11:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 20 2026 23:05:40 GMT+0800 (China Standard Time) -->
 
 1. [金球奖](https://www.zhihu.com/search?q=%E9%87%91%E7%90%83%E5%A5%96)
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
@@ -23,9 +23,10 @@
 1. [GEN对战T1](https://www.zhihu.com/search?q=GEN%E5%AF%B9%E6%88%98T1)
 1. [A股行情](https://www.zhihu.com/search?q=A%E8%82%A1%E8%A1%8C%E6%83%85)
 1. [澎湖海战](https://www.zhihu.com/search?q=%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98)
-1. [《八仙！》定档 7 月 24 日](https://www.zhihu.com/search?q=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AE%9A%E6%A1%A3%207%20%E6%9C%88%2024%20%E6%97%A5)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
+1. [半熟恋人5](https://www.zhihu.com/search?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA5)
+1. [《八仙！》定档 7 月 24 日](https://www.zhihu.com/search?q=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AE%9A%E6%A1%A3%207%20%E6%9C%88%2024%20%E6%97%A5)
 1. [林诗栋蒯曼 3-2 袁励岑王艺迪](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%203-2%20%E8%A2%81%E5%8A%B1%E5%B2%91%E7%8E%8B%E8%89%BA%E8%BF%AA)
 1. [阿根廷 脏](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%84%8F)
 1. [英格兰教练图赫尔排兵布阵](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%95%99%E7%BB%83%E5%9B%BE%E8%B5%AB%E5%B0%94%E6%8E%92%E5%85%B5%E5%B8%83%E9%98%B5)
