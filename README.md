@@ -14,11 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 22 2026 16:16:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 22 2026 19:02:34 GMT+0800 (China Standard Time) -->
 
+1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [韦世豪破门](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%A0%B4%E9%97%A8)
+1. [上海申花vs青岛海牛](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1vs%E9%9D%92%E5%B2%9B%E6%B5%B7%E7%89%9B)
+1. [电影功夫女足](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
+1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
+1. [半熟恋人](https://www.zhihu.com/search?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA)
 1. [阿根廷 脏](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%84%8F)
+1. [雀骨](https://www.zhihu.com/search?q=%E9%9B%80%E9%AA%A8)
 1. [Kimi-K3 灰度测试](https://www.zhihu.com/search?q=Kimi-K3%20%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95)
 1. [2026 世界人工智能大会](https://www.zhihu.com/search?q=2026%20%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A)
 1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI%20K3%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
@@ -28,7 +35,6 @@
 1. [莫言之女管笑笑被爆论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%8E%AB%E8%A8%80%E4%B9%8B%E5%A5%B3%E7%AE%A1%E7%AC%91%E7%AC%91%E8%A2%AB%E7%88%86%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
 1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
 1. [F1](https://www.zhihu.com/search?q=F1)
-1. [雀骨](https://www.zhihu.com/search?q=%E9%9B%80%E9%AA%A8)
 1. [八仙](https://www.zhihu.com/search?q=%E5%85%AB%E4%BB%99)
 
 <!-- END -->
