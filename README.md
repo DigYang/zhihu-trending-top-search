@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 22 2026 19:02:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 22 2026 21:37:19 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
 1. [韦世豪破门](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%A0%B4%E9%97%A8)
@@ -23,6 +23,9 @@
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
+1. [悬案热播](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%83%AD%E6%92%AD)
+1. [悬案真实背景](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E%E8%83%8C%E6%99%AF)
+1. [悬案导演答](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E5%AF%BC%E6%BC%94%E7%AD%94)
 1. [半熟恋人](https://www.zhihu.com/search?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA)
 1. [阿根廷 脏](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%84%8F)
 1. [雀骨](https://www.zhihu.com/search?q=%E9%9B%80%E9%AA%A8)
