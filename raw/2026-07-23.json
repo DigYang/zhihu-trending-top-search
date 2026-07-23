@@ -1,6 +1,5 @@
 [
-  { "query": "马斯克拍AI版《奥德赛》", "display_query": "马斯克拍AI版《奥德赛》" },
-  { "query": "Kimi 员工震惊 OpenAI 算力", "display_query": "Kimi 员工震惊 OpenAI 算力" },
+  { "query": "上证指数", "display_query": "上证指数" },
   { "query": "TES战胜WE", "display_query": "TES战胜WE" },
   { "query": "为什么在中国邮箱不流行", "display_query": "为什么在中国邮箱不流行" },
   { "query": "今日大暑", "display_query": "今日大暑" },
@@ -9,8 +8,9 @@
   { "query": "为什么物理规则几乎都是乘法", "display_query": "为什么物理规则几乎都是乘法" },
   { "query": "电影功夫女足", "display_query": "电影功夫女足" },
   { "query": "高考数据通", "display_query": "高考数据通" },
-  { "query": "上证指数", "display_query": "上证指数" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
+  { "query": "马斯克拍AI版《奥德赛》", "display_query": "马斯克拍AI版《奥德赛》" },
+  { "query": "Kimi 员工震惊 OpenAI 算力", "display_query": "Kimi 员工震惊 OpenAI 算力" },
   { "query": "悬案热播", "display_query": "悬案热播" },
   { "query": "悬案真实背景", "display_query": "悬案真实背景" },
   { "query": "悬案导演答", "display_query": "悬案导演答" },
