@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 24 2026 10:07:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 24 2026 13:44:15 GMT+0800 (China Standard Time) -->
 
-1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
+1. [雀骨大结局](https://www.zhihu.com/search?q=%E9%9B%80%E9%AA%A8%E5%A4%A7%E7%BB%93%E5%B1%80)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CWE)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [今日大暑](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%A4%A7%E6%9A%91)
@@ -26,6 +26,7 @@
 1. [电影功夫女足](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
+1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
 1. [八仙](https://www.zhihu.com/search?q=%E5%85%AB%E4%BB%99)
 1. [百花杀](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E6%9D%80)
 
