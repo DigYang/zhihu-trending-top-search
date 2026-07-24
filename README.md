@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 24 2026 20:18:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 24 2026 22:49:11 GMT+0800 (China Standard Time) -->
 
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [AL战胜JDG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CJDG)
