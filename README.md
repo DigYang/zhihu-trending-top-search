@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 27 2026 07:55:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 27 2026 10:28:16 GMT+0800 (China Standard Time) -->
 
-1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [大麦猫眼疑似跳票](https://www.zhihu.com/search?q=%E5%A4%A7%E9%BA%A6%E7%8C%AB%E7%9C%BC%E7%96%91%E4%BC%BC%E8%B7%B3%E7%A5%A8)
+1. [东北为何成为低物价天堂](https://www.zhihu.com/search?q=%E4%B8%9C%E5%8C%97%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E4%BD%8E%E7%89%A9%E4%BB%B7%E5%A4%A9%E5%A0%82)
 1. [AL战胜JDG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CJDG)
 1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%BE%88%E5%86%B7%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
@@ -25,6 +26,7 @@
 1. [为什么狗对小孩子容忍度高](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8B%97%E5%AF%B9%E5%B0%8F%E5%AD%A9%E5%AD%90%E5%AE%B9%E5%BF%8D%E5%BA%A6%E9%AB%98)
 1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 1. [黛玉是否有性格缺陷](https://www.zhihu.com/search?q=%E9%BB%9B%E7%8E%89%E6%98%AF%E5%90%A6%E6%9C%89%E6%80%A7%E6%A0%BC%E7%BC%BA%E9%99%B7)
+1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [世界最伟大的水果](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%B0%B4%E6%9E%9C)
 
 <!-- END -->
