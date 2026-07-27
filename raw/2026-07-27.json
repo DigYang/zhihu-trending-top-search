@@ -1,6 +1,6 @@
 [
-  { "query": "大麦猫眼疑似跳票", "display_query": "大麦猫眼疑似跳票" },
-  { "query": "东北为何成为低物价天堂", "display_query": "东北为何成为低物价天堂" },
+  { "query": "深圳大学vs黄石东楚", "display_query": "深圳大学vs黄石东楚" },
+  { "query": "长期熬夜会不会提前老年痴呆", "display_query": "长期熬夜会不会提前老年痴呆" },
   { "query": "AL战胜JDG", "display_query": "AL战胜JDG" },
   { "query": "美股", "display_query": "美股" },
   { "query": "你知道哪些很冷的冷知识", "display_query": "你知道哪些很冷的冷知识" },
@@ -9,6 +9,8 @@
   { "query": "为什么狗对小孩子容忍度高", "display_query": "为什么狗对小孩子容忍度高" },
   { "query": "如何低成本照顾自己的心理健康", "display_query": "如何低成本照顾自己的心理健康" },
   { "query": "黛玉是否有性格缺陷", "display_query": "黛玉是否有性格缺陷" },
+  { "query": "大麦猫眼疑似跳票", "display_query": "大麦猫眼疑似跳票" },
+  { "query": "东北为何成为低物价天堂", "display_query": "东北为何成为低物价天堂" },
   { "query": "为什么在中国邮箱不流行", "display_query": "为什么在中国邮箱不流行" },
   { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" }
 ]
