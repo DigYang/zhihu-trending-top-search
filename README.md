@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 28 2026 16:23:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 28 2026 19:11:25 GMT+0800 (China Standard Time) -->
 
+1. [群星闪耀时撤档](https://www.zhihu.com/search?q=%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6%E6%92%A4%E6%A1%A3)
+1. [沃齐尼亚签约科洛科洛](https://www.zhihu.com/search?q=%E6%B2%83%E9%BD%90%E5%B0%BC%E4%BA%9A%E7%AD%BE%E7%BA%A6%E7%A7%91%E6%B4%9B%E7%A7%91%E6%B4%9B)
+1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
+1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E4%BB%A5%E8%A7%A3%E5%86%B3)
+1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%BE%88%E5%86%B7%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
+1. [为什么狗对小孩子容忍度高](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8B%97%E5%AF%B9%E5%B0%8F%E5%AD%A9%E5%AD%90%E5%AE%B9%E5%BF%8D%E5%BA%A6%E9%AB%98)
+1. [湘超](https://www.zhihu.com/search?q=%E6%B9%98%E8%B6%85)
+1. [中老年人如何防止肌肉流失](https://www.zhihu.com/search?q=%E4%B8%AD%E8%80%81%E5%B9%B4%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E8%82%8C%E8%82%89%E6%B5%81%E5%A4%B1)
+1. [世界最伟大的水果](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%B0%B4%E6%9E%9C)
+1. [一天走一万步能降低脂肪肝吗](https://www.zhihu.com/search?q=%E4%B8%80%E5%A4%A9%E8%B5%B0%E4%B8%80%E4%B8%87%E6%AD%A5%E8%83%BD%E9%99%8D%E4%BD%8E%E8%84%82%E8%82%AA%E8%82%9D%E5%90%97)
 1. [裁判温契奇宣布退役](https://www.zhihu.com/search?q=%E8%A3%81%E5%88%A4%E6%B8%A9%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9)
 1. [Claude Opus 5 系统提示词泄漏](https://www.zhihu.com/search?q=Claude%20Opus%205%20%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%B3%84%E6%BC%8F)
 1. [贫困生喝咖啡引争议](https://www.zhihu.com/search?q=%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%96%9D%E5%92%96%E5%95%A1%E5%BC%95%E4%BA%89%E8%AE%AE)
