@@ -14,17 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 28 2026 13:40:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 28 2026 16:23:34 GMT+0800 (China Standard Time) -->
 
-1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [Bin BLG](https://www.zhihu.com/search?q=Bin%20BLG)
-1. [滔搏暴力打折甩卖耐克库存](https://www.zhihu.com/search?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98)
+1. [裁判温契奇宣布退役](https://www.zhihu.com/search?q=%E8%A3%81%E5%88%A4%E6%B8%A9%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9)
+1. [Claude Opus 5 系统提示词泄漏](https://www.zhihu.com/search?q=Claude%20Opus%205%20%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%B3%84%E6%BC%8F)
 1. [贫困生喝咖啡引争议](https://www.zhihu.com/search?q=%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%96%9D%E5%92%96%E5%95%A1%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%2050%20%E5%91%A8%E5%B9%B4)
 1. [Anthropic发布Claude Opus 5](https://www.zhihu.com/search?q=Anthropic%E5%8F%91%E5%B8%83Claude%20Opus%205)
 1. [詹姆斯加盟 76 人](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F%2076%20%E4%BA%BA)
 1. [携程被罚没51.79亿元](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%B2%A151.79%E4%BA%BF%E5%85%83)
+1. [仇子龙曾公开反对基因编辑](https://www.zhihu.com/search?q=%E4%BB%87%E5%AD%90%E9%BE%99%E6%9B%BE%E5%85%AC%E5%BC%80%E5%8F%8D%E5%AF%B9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91)
+1. [张雅琪菜单被吐槽](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E8%8F%9C%E5%8D%95%E8%A2%AB%E5%90%90%E6%A7%BD)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [Bin BLG](https://www.zhihu.com/search?q=Bin%20BLG)
+1. [滔搏暴力打折甩卖耐克库存](https://www.zhihu.com/search?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98)
 1. [个人贷款新规2026明示融资成本](https://www.zhihu.com/search?q=%E4%B8%AA%E4%BA%BA%E8%B4%B7%E6%AC%BE%E6%96%B0%E8%A7%842026%E6%98%8E%E7%A4%BA%E8%9E%8D%E8%B5%84%E6%88%90%E6%9C%AC)
 1. [王虹 13 岁跳级上高中 16 岁上北大](https://www.zhihu.com/search?q=%E7%8E%8B%E8%99%B9%2013%20%E5%B2%81%E8%B7%B3%E7%BA%A7%E4%B8%8A%E9%AB%98%E4%B8%AD%2016%20%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7)
 1. [FLUX 3原生多模态大模型](https://www.zhihu.com/search?q=FLUX%203%E5%8E%9F%E7%94%9F%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B)
