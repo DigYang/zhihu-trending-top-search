@@ -1,6 +1,7 @@
 [
   { "query": "A股", "display_query": "A股" },
   { "query": "日本地震", "display_query": "日本地震" },
+  { "query": "美联储宣布维持利率不变", "display_query": "美联储宣布维持利率不变" },
   { "query": "你都见过哪些不动声色的善良", "display_query": "你都见过哪些不动声色的善良" },
   { "query": "上海震感", "display_query": "上海震感" },
   { "query": "黎曼猜想为什么难以解决", "display_query": "黎曼猜想为什么难以解决" },
