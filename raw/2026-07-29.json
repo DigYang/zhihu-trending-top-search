@@ -1,7 +1,4 @@
 [
-  { "query": "美素佳儿奶粉铅超标事件", "display_query": "美素佳儿奶粉铅超标事件" },
-  { "query": "QQ宠物时隔八年回归", "display_query": "QQ宠物时隔八年回归" },
-  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   { "query": "美股", "display_query": "美股" },
   { "query": "黎曼猜想为什么难以解决", "display_query": "黎曼猜想为什么难以解决" },
   { "query": "你知道哪些很冷的冷知识", "display_query": "你知道哪些很冷的冷知识" },
@@ -9,6 +6,12 @@
   { "query": "湘超", "display_query": "湘超" },
   { "query": "中老年人如何防止肌肉流失", "display_query": "中老年人如何防止肌肉流失" },
   { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" },
+  { "query": "一天走一万步能降低脂肪肝吗", "display_query": "一天走一万步能降低脂肪肝吗" },
+  { "query": "公司即将要倒闭的征兆", "display_query": "公司即将要倒闭的征兆" },
+  { "query": "如何低成本照顾自己心理健康", "display_query": "如何低成本照顾自己心理健康" },
+  { "query": "美素佳儿奶粉铅超标事件", "display_query": "美素佳儿奶粉铅超标事件" },
+  { "query": "QQ宠物时隔八年回归", "display_query": "QQ宠物时隔八年回归" },
+  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   { "query": "A股", "display_query": "A股" },
   { "query": "日本地震", "display_query": "日本地震" }
 ]
