@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 29 2026 14:25:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 29 2026 17:33:39 GMT+0800 (China Standard Time) -->
 
+1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
+1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%2050%20%E5%91%A8%E5%B9%B4)
+1. [全国新冠阳性率呈上升趋势](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E7%8E%87%E5%91%88%E4%B8%8A%E5%8D%87%E8%B6%8B%E5%8A%BF)
+1. [张雅琪菜单被吐槽](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E8%8F%9C%E5%8D%95%E8%A2%AB%E5%90%90%E6%A7%BD)
+1. [《三国第一部：争洛阳》撤档](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%89%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%83%A8%EF%BC%9A%E4%BA%89%E6%B4%9B%E9%98%B3%E3%80%8B%E6%92%A4%E6%A1%A3)
+1. [女孩正颌手术被做反变成鞋拔子脸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%8F%98%E6%88%90%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8)
+1. [极客湾测评手机续航能力](https://www.zhihu.com/search?q=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%B5%8B%E8%AF%84%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E8%83%BD%E5%8A%9B)
+1. [央视曝光有毒养生神药](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%9C%89%E6%AF%92%E5%85%BB%E7%94%9F%E7%A5%9E%E8%8D%AF)
 1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
 1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E4%BB%A5%E8%A7%A3%E5%86%B3)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%BE%88%E5%86%B7%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
@@ -30,7 +40,6 @@
 1. [QQ宠物时隔八年回归](https://www.zhihu.com/search?q=QQ%E5%AE%A0%E7%89%A9%E6%97%B6%E9%9A%94%E5%85%AB%E5%B9%B4%E5%9B%9E%E5%BD%92)
 1. [俄罗斯警告日本](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
-1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
 
 <!-- END -->
 
