@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 04 2026 12:07:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 04 2026 15:32:38 GMT+0800 (China Standard Time) -->
 
+1. [台风白海豚要来了](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%A6%81%E6%9D%A5%E4%BA%86)
+1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92)
+1. [通天河伴漂服务被指擦边](https://www.zhihu.com/search?q=%E9%80%9A%E5%A4%A9%E6%B2%B3%E4%BC%B4%E6%BC%82%E6%9C%8D%E5%8A%A1%E8%A2%AB%E6%8C%87%E6%93%A6%E8%BE%B9)
+1. [长鑫科技市值破4万亿](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E7%A0%B44%E4%B8%87%E4%BA%BF)
+1. [日本设立国家情报局](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E8%AE%BE%E7%AB%8B%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80)
+1. [连云港火灾母女窗外避险时坠楼](https://www.zhihu.com/search?q=%E8%BF%9E%E4%BA%91%E6%B8%AF%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E7%AA%97%E5%A4%96%E9%81%BF%E9%99%A9%E6%97%B6%E5%9D%A0%E6%A5%BC)
+1. [房主任被停演 3 个月](https://www.zhihu.com/search?q=%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%A2%AB%E5%81%9C%E6%BC%94%203%20%E4%B8%AA%E6%9C%88)
+1. [台风白海豚已达17级](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B7%B2%E8%BE%BE17%E7%BA%A7)
+1. [蔡崇信宣布离婚](https://www.zhihu.com/search?q=%E8%94%A1%E5%B4%87%E4%BF%A1%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A)
+1. [房主任道歉](https://www.zhihu.com/search?q=%E6%88%BF%E4%B8%BB%E4%BB%BB%E9%81%93%E6%AD%89)
 1. [集中供冷](https://www.zhihu.com/search?q=%E9%9B%86%E4%B8%AD%E4%BE%9B%E5%86%B7)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [中超联赛](https://www.zhihu.com/search?q=%E4%B8%AD%E8%B6%85%E8%81%94%E8%B5%9B)
