@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 04 2026 08:02:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 04 2026 12:07:20 GMT+0800 (China Standard Time) -->
 
 1. [集中供冷](https://www.zhihu.com/search?q=%E9%9B%86%E4%B8%AD%E4%BE%9B%E5%86%B7)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
