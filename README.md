@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 05 2026 06:56:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 05 2026 07:59:24 GMT+0800 (China Standard Time) -->
 
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
-1. [心动的信号](https://www.zhihu.com/search?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7)
+1. [柯洁夺冠后称7月下棋不足5小时](https://www.zhihu.com/search?q=%E6%9F%AF%E6%B4%81%E5%A4%BA%E5%86%A0%E5%90%8E%E7%A7%B07%E6%9C%88%E4%B8%8B%E6%A3%8B%E4%B8%8D%E8%B6%B35%E5%B0%8F%E6%97%B6)
 1. [王者荣耀](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [郑钦文退赛](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E8%B5%9B)
@@ -25,6 +24,9 @@
 1. [仙逆](https://www.zhihu.com/search?q=%E4%BB%99%E9%80%86)
 1. [ewc](https://www.zhihu.com/search?q=ewc)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%8D%B3%E5%B0%86%E5%85%AC%E5%B8%83)
+1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
+1. [心动的信号](https://www.zhihu.com/search?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 
 <!-- END -->
