@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 04 2026 20:55:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 04 2026 23:21:09 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
 1. [心动的信号](https://www.zhihu.com/search?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7)
@@ -24,6 +24,8 @@
 1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
 1. [仙逆](https://www.zhihu.com/search?q=%E4%BB%99%E9%80%86)
 1. [ewc](https://www.zhihu.com/search?q=ewc)
+1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%8D%B3%E5%B0%86%E5%85%AC%E5%B8%83)
+1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [台风白海豚要来了](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%A6%81%E6%9D%A5%E4%BA%86)
 1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92)
 1. [多瑙河水位下降致匈牙利核电站关闭](https://www.zhihu.com/search?q=%E5%A4%9A%E7%91%99%E6%B2%B3%E6%B0%B4%E4%BD%8D%E4%B8%8B%E9%99%8D%E8%87%B4%E5%8C%88%E7%89%99%E5%88%A9%E6%A0%B8%E7%94%B5%E7%AB%99%E5%85%B3%E9%97%AD)
