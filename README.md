@@ -14,18 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 07 2026 16:51:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 07 2026 17:54:53 GMT+0800 (China Standard Time) -->
 
 1. [四川宜宾高县 5.0 级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E9%AB%98%E5%8E%BF%205.0%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E9%81%97%E4%BD%9C%E5%B0%86%E5%8F%91%E5%94%AE)
+1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
+1. [美国将 43 家中企拉黑](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%B0%86%2043%20%E5%AE%B6%E4%B8%AD%E4%BC%81%E6%8B%89%E9%BB%91)
+1. [打工人三件套涨价](https://www.zhihu.com/search?q=%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%89%E4%BB%B6%E5%A5%97%E6%B6%A8%E4%BB%B7)
+1. [仲树诺兰对谈电影《奥德赛》](https://www.zhihu.com/search?q=%E4%BB%B2%E6%A0%91%E8%AF%BA%E5%85%B0%E5%AF%B9%E8%B0%88%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B)
+1. [美国制裁洽洽瓜子思念水饺](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA)
+1. [精神小伙一封写给妈妈的信获赞200万](https://www.zhihu.com/search?q=%E7%B2%BE%E7%A5%9E%E5%B0%8F%E4%BC%99%E4%B8%80%E5%B0%81%E5%86%99%E7%BB%99%E5%A6%88%E5%A6%88%E7%9A%84%E4%BF%A1%E8%8E%B7%E8%B5%9E200%E4%B8%87)
+1. [寿命与祖母辈遗传有关](https://www.zhihu.com/search?q=%E5%AF%BF%E5%91%BD%E4%B8%8E%E7%A5%96%E6%AF%8D%E8%BE%88%E9%81%97%E4%BC%A0%E6%9C%89%E5%85%B3)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%8D%B3%E5%B0%86%E5%85%AC%E5%B8%83)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
-1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E9%81%97%E4%BD%9C%E5%B0%86%E5%8F%91%E5%94%AE)
 1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E5%8C%97%E5%A4%A7%E8%BD%AC%E5%AD%A6%20MIT)
 1. [柯洁夺冠后称7月下棋不足5小时](https://www.zhihu.com/search?q=%E6%9F%AF%E6%B4%81%E5%A4%BA%E5%86%A0%E5%90%8E%E7%A7%B07%E6%9C%88%E4%B8%8B%E6%A3%8B%E4%B8%8D%E8%B6%B35%E5%B0%8F%E6%97%B6)
-1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
 1. [5人捅蜂窝致人死亡判责x](https://www.zhihu.com/search?q=5%E4%BA%BA%E6%8D%85%E8%9C%82%E7%AA%9D%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%E5%88%A4%E8%B4%A3x)
 1. [南航被曝提供西梅汁致大量乘客上厕所](https://www.zhihu.com/search?q=%E5%8D%97%E8%88%AA%E8%A2%AB%E6%9B%9D%E6%8F%90%E4%BE%9B%E8%A5%BF%E6%A2%85%E6%B1%81%E8%87%B4%E5%A4%A7%E9%87%8F%E4%B9%98%E5%AE%A2%E4%B8%8A%E5%8E%95%E6%89%80)
 1. [成都暴雨](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8)
