@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 10 2026 07:24:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 10 2026 09:16:00 GMT+0800 (China Standard Time) -->
 
 1. [百花奖](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96)
+1. [国乒怎么了](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E6%80%8E%E4%B9%88%E4%BA%86)
 1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP%E6%88%98%E8%83%9CiG)
 1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen%E6%88%98%E8%83%9Chle)
