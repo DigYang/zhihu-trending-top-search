@@ -14,10 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 12 2026 03:57:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 12 2026 04:41:49 GMT+0800 (China Standard Time) -->
 
-1. [《哪吒之魔童闹海》获奖无人站起](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%E3%80%8B%E8%8E%B7%E5%A5%96%E6%97%A0%E4%BA%BA%E7%AB%99%E8%B5%B7)
-1. [印尼赛车比赛事故7死9重伤](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E8%B5%9B%E8%BD%A6%E6%AF%94%E8%B5%9B%E4%BA%8B%E6%95%857%E6%AD%BB9%E9%87%8D%E4%BC%A4)
 1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A0%EF%BC%9A%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5%E3%80%8B%E7%A5%A8%E6%88%BF)
 1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
 1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
@@ -28,6 +26,8 @@
 1. [ai演员接美瞳广告被审判](https://www.zhihu.com/search?q=ai%E6%BC%94%E5%91%98%E6%8E%A5%E7%BE%8E%E7%9E%B3%E5%B9%BF%E5%91%8A%E8%A2%AB%E5%AE%A1%E5%88%A4)
 1. [蓝箭朱雀三号火箭近日试飞](https://www.zhihu.com/search?q=%E8%93%9D%E7%AE%AD%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E7%81%AB%E7%AE%AD%E8%BF%91%E6%97%A5%E8%AF%95%E9%A3%9E)
 1. [公司上四休三但要降薪1000元](https://www.zhihu.com/search?q=%E5%85%AC%E5%8F%B8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E4%BD%86%E8%A6%81%E9%99%8D%E8%96%AA1000%E5%85%83)
+1. [《哪吒之魔童闹海》获奖无人站起](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%E3%80%8B%E8%8E%B7%E5%A5%96%E6%97%A0%E4%BA%BA%E7%AB%99%E8%B5%B7)
+1. [印尼赛车比赛事故7死9重伤](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E8%B5%9B%E8%BD%A6%E6%AF%94%E8%B5%9B%E4%BA%8B%E6%95%857%E6%AD%BB9%E9%87%8D%E4%BC%A4)
 
 <!-- END -->
 
