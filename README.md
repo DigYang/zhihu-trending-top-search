@@ -14,17 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 11 2026 16:07:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 11 2026 18:44:15 GMT+0800 (China Standard Time) -->
 
 1. [国乒怎么了](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E6%80%8E%E4%B9%88%E4%BA%86)
 1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A0%EF%BC%9A%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5%E3%80%8B%E7%A5%A8%E6%88%BF)
 1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
 1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
-1. [《奥德赛》刷新 IMAX 中国点映记录](https://www.zhihu.com/search?q=%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B%E5%88%B7%E6%96%B0%20IMAX%20%E4%B8%AD%E5%9B%BD%E7%82%B9%E6%98%A0%E8%AE%B0%E5%BD%95)
 1. [第一批抱冬瓜睡觉受害者已出现](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%B1%E5%86%AC%E7%93%9C%E7%9D%A1%E8%A7%89%E5%8F%97%E5%AE%B3%E8%80%85%E5%B7%B2%E5%87%BA%E7%8E%B0)
 1. [台风「白海豚」最新状态](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%99%BD%E6%B5%B7%E8%B1%9A%E3%80%8D%E6%9C%80%E6%96%B0%E7%8A%B6%E6%80%81)
 1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B7%B2%E9%94%80%E6%AF%81%E8%83%9A%E8%83%8E)
 1. [我国首次证实「胶球」存在](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E8%AF%81%E5%AE%9E%E3%80%8C%E8%83%B6%E7%90%83%E3%80%8D%E5%AD%98%E5%9C%A8)
+1. [ai演员接美瞳广告被审判](https://www.zhihu.com/search?q=ai%E6%BC%94%E5%91%98%E6%8E%A5%E7%BE%8E%E7%9E%B3%E5%B9%BF%E5%91%8A%E8%A2%AB%E5%AE%A1%E5%88%A4)
+1. [蓝箭朱雀三号火箭近日试飞](https://www.zhihu.com/search?q=%E8%93%9D%E7%AE%AD%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E7%81%AB%E7%AE%AD%E8%BF%91%E6%97%A5%E8%AF%95%E9%A3%9E)
+1. [《奥德赛》刷新 IMAX 中国点映记录](https://www.zhihu.com/search?q=%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B%E5%88%B7%E6%96%B0%20IMAX%20%E4%B8%AD%E5%9B%BD%E7%82%B9%E6%98%A0%E8%AE%B0%E5%BD%95)
 1. [曝王楚钦乒超联赛后左肩都抬不起来](https://www.zhihu.com/search?q=%E6%9B%9D%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B9%92%E8%B6%85%E8%81%94%E8%B5%9B%E5%90%8E%E5%B7%A6%E8%82%A9%E9%83%BD%E6%8A%AC%E4%B8%8D%E8%B5%B7%E6%9D%A5)
 
 <!-- END -->
