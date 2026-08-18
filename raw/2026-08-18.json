@@ -1,6 +1,6 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "阿森纳vs曼城", "display_query": "阿森纳vs曼城" },
+  { "query": "央视曝光后 云南连夜通报", "display_query": "央视曝光后 云南连夜通报" },
+  { "query": "卫龙辣条卖不动了", "display_query": "卫龙辣条卖不动了" },
   { "query": "披荆斩棘排名", "display_query": "披荆斩棘排名" },
   { "query": "WBG对战IG", "display_query": "WBG对战IG" },
   { "query": "GEN对战T1", "display_query": "GEN对战T1" },
@@ -8,5 +8,7 @@
   { "query": "GEN战胜T1", "display_query": "GEN战胜T1" },
   { "query": "纳什维尔vs迈阿密国际", "display_query": "纳什维尔vs迈阿密国际" },
   { "query": "重器", "display_query": "重器" },
-  { "query": "儿科医生韩杰因医疗事故罪被判刑", "display_query": "儿科医生韩杰因医疗事故罪被判刑" }
+  { "query": "儿科医生韩杰因医疗事故罪被判刑", "display_query": "儿科医生韩杰因医疗事故罪被判刑" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "阿森纳vs曼城", "display_query": "阿森纳vs曼城" }
 ]
