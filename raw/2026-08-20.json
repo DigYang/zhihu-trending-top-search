@@ -1,5 +1,4 @@
 [
-  { "query": "中国医师节", "display_query": "中国医师节" },
   { "query": "台风", "display_query": "台风" },
   { "query": "黑神话", "display_query": "黑神话" },
   { "query": "朱雀三号", "display_query": "朱雀三号" },
@@ -9,6 +8,8 @@
   { "query": "固态电池真的那么完美吗", "display_query": "固态电池真的那么完美吗" },
   { "query": "A股超4900股下跌", "display_query": "A股超4900股下跌" },
   { "query": "LPL", "display_query": "LPL" },
+  { "query": "诺兰《奥德赛》热映", "display_query": "诺兰《奥德赛》热映" },
+  { "query": "中国医师节", "display_query": "中国医师节" },
   { "query": "如何评价重器里的余高远", "display_query": "如何评价重器里的余高远" },
   { "query": "加油新规11月起正式实施", "display_query": "加油新规11月起正式实施" },
   { "query": "A股", "display_query": "A股" },
