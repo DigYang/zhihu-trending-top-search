@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 26 2026 20:38:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 26 2026 21:49:28 GMT+0800 (China Standard Time) -->
 
-1. [心动的信号](https://www.zhihu.com/search?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7)
+1. [《姜子牙》导演新作票房预测不敌《牛来》](https://www.zhihu.com/search?q=%E3%80%8A%E5%A7%9C%E5%AD%90%E7%89%99%E3%80%8B%E5%AF%BC%E6%BC%94%E6%96%B0%E4%BD%9C%E7%A5%A8%E6%88%BF%E9%A2%84%E6%B5%8B%E4%B8%8D%E6%95%8C%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B)
 1. [金鹰奖](https://www.zhihu.com/search?q=%E9%87%91%E9%B9%B0%E5%A5%96)
 1. [为什么乐理这么难学](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B9%90%E7%90%86%E8%BF%99%E4%B9%88%E9%9A%BE%E5%AD%A6)
 1. [钱可以成为一个人的底气吗](https://www.zhihu.com/search?q=%E9%92%B1%E5%8F%AF%E4%BB%A5%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E6%B0%94%E5%90%97)
@@ -26,6 +26,7 @@
 1. [经商的精髓](https://www.zhihu.com/search?q=%E7%BB%8F%E5%95%86%E7%9A%84%E7%B2%BE%E9%AB%93)
 1. [语文是在考服从性吗](https://www.zhihu.com/search?q=%E8%AF%AD%E6%96%87%E6%98%AF%E5%9C%A8%E8%80%83%E6%9C%8D%E4%BB%8E%E6%80%A7%E5%90%97)
 1. [大彻大悟的人都看透了什么](https://www.zhihu.com/search?q=%E5%A4%A7%E5%BD%BB%E5%A4%A7%E6%82%9F%E7%9A%84%E4%BA%BA%E9%83%BD%E7%9C%8B%E9%80%8F%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [心动的信号](https://www.zhihu.com/search?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7)
 1. [中国留学生在韩失联无出境记录](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%94%E6%97%A0%E5%87%BA%E5%A2%83%E8%AE%B0%E5%BD%95)
 1. [新规禁厨余垃圾直接喂猪](https://www.zhihu.com/search?q=%E6%96%B0%E8%A7%84%E7%A6%81%E5%8E%A8%E4%BD%99%E5%9E%83%E5%9C%BE%E7%9B%B4%E6%8E%A5%E5%96%82%E7%8C%AA)
 1. [仲树疑似洗稿](https://www.zhihu.com/search?q=%E4%BB%B2%E6%A0%91%E7%96%91%E4%BC%BC%E6%B4%97%E7%A8%BF)
