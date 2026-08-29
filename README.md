@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 29 2026 11:00:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 29 2026 18:39:26 GMT+0800 (China Standard Time) -->
 
-1. [刘翔广告费 分成](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E5%B9%BF%E5%91%8A%E8%B4%B9%20%E5%88%86%E6%88%90)
+1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [欧冠联赛](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E8%81%94%E8%B5%9B)
 1. [GTA6](https://www.zhihu.com/search?q=GTA6)
 1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
 1. [欧冠抽签](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE)
@@ -24,10 +25,10 @@
 1. [中国男篮加油](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8A%A0%E6%B2%B9)
 1. [前华为天才少年李博杰吐槽 DeepSeek 面试](https://www.zhihu.com/search?q=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E6%9D%8E%E5%8D%9A%E6%9D%B0%E5%90%90%E6%A7%BD%20DeepSeek%20%E9%9D%A2%E8%AF%95)
 1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0)
+1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
+1. [刘翔广告费 分成](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E5%B9%BF%E5%91%8A%E8%B4%B9%20%E5%88%86%E6%88%90)
 1. [恒大集团被罚88.2亿元](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E8%A2%AB%E7%BD%9A88.2%E4%BA%BF%E5%85%83)
 1. [恒大两公司合计被罚158亿](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E4%B8%A4%E5%85%AC%E5%8F%B8%E5%90%88%E8%AE%A1%E8%A2%AB%E7%BD%9A158%E4%BA%BF)
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
-1. [欧冠联赛](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E8%81%94%E8%B5%9B)
 
 <!-- END -->
 
