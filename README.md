@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 02 2026 08:46:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 02 2026 13:21:12 GMT+0800 (China Standard Time) -->
 
 1. [开学第一天](https://www.zhihu.com/search?q=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9)
 1. [郑钦文赛后采访](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF)
