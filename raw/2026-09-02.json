@@ -1,4 +1,14 @@
 [
+  { "query": "GEN 晋级 S16 全球总决赛", "display_query": "GEN 晋级 S16 全球总决赛" },
+  { "query": "刘翔向网友求助职场选择", "display_query": "刘翔向网友求助职场选择" },
+  { "query": "星宇股份裁应届生疑被告到欧盟", "display_query": "星宇股份裁应届生疑被告到欧盟" },
+  { "query": "孙宇晨起诉景甜", "display_query": "孙宇晨起诉景甜" },
+  { "query": "出发吧！看山", "display_query": "出发吧！看山" },
+  { "query": "福建福鼎受台风影响实行「三停一休」", "display_query": "福建福鼎受台风影响实行「三停一休」" },
+  { "query": "TOP 登陆少年粉丝打 12345 要求整改舞台", "display_query": "TOP 登陆少年粉丝打 12345 要求整改舞台" },
+  { "query": "Claude 不要把五千万美元给她", "display_query": "Claude 不要把五千万美元给她" },
+  { "query": "孙宇晨", "display_query": "孙宇晨" },
+  { "query": "景甜回应被起诉", "display_query": "景甜回应被起诉" },
   { "query": "开学第一天", "display_query": "开学第一天" },
   { "query": "郑钦文赛后采访", "display_query": "郑钦文赛后采访" },
   { "query": "开学快乐", "display_query": "开学快乐" },
@@ -6,8 +16,5 @@
   { "query": "王鸥 何九华", "display_query": "王鸥 何九华" },
   { "query": "杨瀚森状态", "display_query": "杨瀚森状态" },
   { "query": "有哪些道理越早知道越好", "display_query": "有哪些道理越早知道越好" },
-  { "query": "出发吧！看山", "display_query": "出发吧！看山" },
-  { "query": "刘翔向网友求助职场选择", "display_query": "刘翔向网友求助职场选择" },
-  { "query": "星宇股份裁应届生疑被告到欧盟", "display_query": "星宇股份裁应届生疑被告到欧盟" },
   { "query": "官方通报星宇股份批量劝退应届生", "display_query": "官方通报星宇股份批量劝退应届生" }
 ]
