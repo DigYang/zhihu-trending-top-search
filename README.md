@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 04 2026 00:50:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 04 2026 03:34:18 GMT+0800 (China Standard Time) -->
 
 1. [淘宝崩了](https://www.zhihu.com/search?q=%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86)
 1. [HLE对战T1](https://www.zhihu.com/search?q=HLE%E5%AF%B9%E6%88%98T1)
