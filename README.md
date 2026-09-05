@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 05 2026 17:50:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 05 2026 21:11:28 GMT+0800 (China Standard Time) -->
 
-1. [淘宝崩了](https://www.zhihu.com/search?q=%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86)
-1. [郑钦文vs凯斯](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%87%AF%E6%96%AF)
+1. [梅姨年龄曝光可适用无期及死刑](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E5%B9%B4%E9%BE%84%E6%9B%9D%E5%85%89%E5%8F%AF%E9%80%82%E7%94%A8%E6%97%A0%E6%9C%9F%E5%8F%8A%E6%AD%BB%E5%88%91)
+1. [快船队被罚款3000万美元](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E9%98%9F%E8%A2%AB%E7%BD%9A%E6%AC%BE3000%E4%B8%87%E7%BE%8E%E5%85%83)
 1. [ChatGPT崩了](https://www.zhihu.com/search?q=ChatGPT%E5%B4%A9%E4%BA%86)
 1. [BLG战胜WE](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CWE)
 1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
@@ -26,6 +26,8 @@
 1. [孙宇晨](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8)
 1. [景甜回应被起诉](https://www.zhihu.com/search?q=%E6%99%AF%E7%94%9C%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89)
 1. [景甜回应](https://www.zhihu.com/search?q=%E6%99%AF%E7%94%9C%E5%9B%9E%E5%BA%94)
+1. [淘宝崩了](https://www.zhihu.com/search?q=%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86)
+1. [郑钦文vs凯斯](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%87%AF%E6%96%AF)
 1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E5%90%91%E7%BD%91%E5%8F%8B%E6%B1%82%E5%8A%A9%E8%81%8C%E5%9C%BA%E9%80%89%E6%8B%A9)
 
 <!-- END -->
