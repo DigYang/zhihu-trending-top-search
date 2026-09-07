@@ -14,9 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 07 2026 13:35:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 07 2026 19:21:05 GMT+0800 (China Standard Time) -->
 
+1. [今日白露](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E7%99%BD%E9%9C%B2)
 1. [特斯拉降价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%8D%E4%BB%B7)
+1. [披荆斩棘二公舞台](https://www.zhihu.com/search?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%BA%8C%E5%85%AC%E8%88%9E%E5%8F%B0)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%87%E5%B0%94%E8%A5%BF)
+1. [捷豹路虎大裁员](https://www.zhihu.com/search?q=%E6%8D%B7%E8%B1%B9%E8%B7%AF%E8%99%8E%E5%A4%A7%E8%A3%81%E5%91%98)
+1. [埃弗顿2比2曼联](https://www.zhihu.com/search?q=%E5%9F%83%E5%BC%97%E9%A1%BF2%E6%AF%942%E6%9B%BC%E8%81%94)
+1. [iG战胜WE](https://www.zhihu.com/search?q=iG%E6%88%98%E8%83%9CWE)
+1. [你身边有没有资产A12的人](https://www.zhihu.com/search?q=%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%89%E6%B2%A1%E6%9C%89%E8%B5%84%E4%BA%A7A12%E7%9A%84%E4%BA%BA)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 1. [淘宝崩了](https://www.zhihu.com/search?q=%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86)
 1. [郑钦文vs凯斯](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%87%AF%E6%96%AF)
 1. [ChatGPT崩了](https://www.zhihu.com/search?q=ChatGPT%E5%B4%A9%E4%BA%86)
