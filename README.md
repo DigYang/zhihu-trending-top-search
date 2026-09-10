@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 11 2026 00:50:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 11 2026 03:25:51 GMT+0800 (China Standard Time) -->
 
 1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
 1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
