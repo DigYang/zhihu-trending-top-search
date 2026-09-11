@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 12 2026 05:30:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 12 2026 07:47:53 GMT+0800 (China Standard Time) -->
 
 1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
 1. [油价上涨](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=%E9%85%92%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E4%B8%89%E5%B0%8F%E6%97%B6%E9%92%9F%E7%82%B9%E6%88%BF)
 1. [中国航天又一次成功发射](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%88%E4%B8%80%E6%AC%A1%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84)
+1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=%E8%8F%8F%E6%B3%BD%E5%8F%A4%E6%B2%89%E8%88%B9%E5%85%83%E9%9D%92%E8%8A%B1%E7%96%91%E9%81%AD%E5%86%85%E7%9B%97)
 1. [上海地铁要涨价了](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86)
 1. [梅姨被公诉](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E8%A2%AB%E5%85%AC%E8%AF%89)
 1. [武汉大学教授曾梦琪被举报](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%9B%BE%E6%A2%A6%E7%90%AA%E8%A2%AB%E4%B8%BE%E6%8A%A5)
