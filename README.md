@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 13 2026 01:37:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 13 2026 04:02:00 GMT+0800 (China Standard Time) -->
 
 1. [油价上涨](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=%E9%85%92%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E4%B8%89%E5%B0%8F%E6%97%B6%E9%92%9F%E7%82%B9%E6%88%BF)
