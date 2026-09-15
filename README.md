@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 15 2026 01:26:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 15 2026 08:09:39 GMT+0800 (China Standard Time) -->
 
-1. [曼联vs曼城](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%94vs%E6%9B%BC%E5%9F%8E)
-1. [小胖FMVP](https://www.zhihu.com/search?q=%E5%B0%8F%E8%83%96FMVP)
+1. [AL战胜BLG夺冠](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CBLG%E5%A4%BA%E5%86%A0)
+1. [胖东来真的要变成一所大学了吗](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9C%9F%E7%9A%84%E8%A6%81%E5%8F%98%E6%88%90%E4%B8%80%E6%89%80%E5%A4%A7%E5%AD%A6%E4%BA%86%E5%90%97)
 1. [GEN对战HLE](https://www.zhihu.com/search?q=GEN%E5%AF%B9%E6%88%98HLE)
 1. [BLG对战AL](https://www.zhihu.com/search?q=BLG%E5%AF%B9%E6%88%98AL)
 1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
@@ -26,6 +26,8 @@
 1. [吉隆口岸小邬警官确认平安](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89)
 1. [吉隆泥石流已致16人遇难546人失联](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE546%E4%BA%BA%E5%A4%B1%E8%81%94)
 1. [尼泊尔泥石流已致903遇难4247失联](https://www.zhihu.com/search?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E9%81%87%E9%9A%BE4247%E5%A4%B1%E8%81%94)
+1. [曼联vs曼城](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%94vs%E6%9B%BC%E5%9F%8E)
+1. [小胖FMVP](https://www.zhihu.com/search?q=%E5%B0%8F%E8%83%96FMVP)
 
 <!-- END -->
 
