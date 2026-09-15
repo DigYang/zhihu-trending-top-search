@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 15 2026 18:51:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 15 2026 23:24:00 GMT+0800 (China Standard Time) -->
 
 1. [利物浦vs富勒姆](https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%AF%8C%E5%8B%92%E5%A7%86)
 1. [AL战胜BLG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CBLG)
