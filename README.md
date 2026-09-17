@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 18 2026 01:29:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 18 2026 04:51:19 GMT+0800 (China Standard Time) -->
 
 1. [女孩正颌手术被做反变成鞋拔子脸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%8F%98%E6%88%90%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8)
 1. [吉隆口岸小邬警官确认平安](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89)
