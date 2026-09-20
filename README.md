@@ -14,10 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 20 2026 13:37:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 20 2026 18:27:23 GMT+0800 (China Standard Time) -->
 
-1. [上5休1上5休3上3休7](https://www.zhihu.com/search?q=%E4%B8%8A5%E4%BC%911%E4%B8%8A5%E4%BC%913%E4%B8%8A3%E4%BC%917)
+1. [毕尔巴鄂竞技VS阿拉维斯](https://www.zhihu.com/search?q=%E6%AF%95%E5%B0%94%E5%B7%B4%E9%84%82%E7%AB%9E%E6%8A%80VS%E9%98%BF%E6%8B%89%E7%BB%B4%E6%96%AF)
+1. [美国拥有在轨太空控制武器](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%8B%A5%E6%9C%89%E5%9C%A8%E8%BD%A8%E5%A4%AA%E7%A9%BA%E6%8E%A7%E5%88%B6%E6%AD%A6%E5%99%A8)
+1. [调休](https://www.zhihu.com/search?q=%E8%B0%83%E4%BC%91)
+1. [热刺VS阿斯顿维拉](https://www.zhihu.com/search?q=%E7%83%AD%E5%88%BAVS%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89)
+1. [王曼昱1比3朱雨玲](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B11%E6%AF%943%E6%9C%B1%E9%9B%A8%E7%8E%B2)
+1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
+1. [巴萨联赛7连胜](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8%E8%81%94%E8%B5%9B7%E8%BF%9E%E8%83%9C)
+1. [女孩正颌手术被做反变成鞋拔子脸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%8F%98%E6%88%90%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8)
 1. [字节调整豆包飞书火山架构](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E8%B0%83%E6%95%B4%E8%B1%86%E5%8C%85%E9%A3%9E%E4%B9%A6%E7%81%AB%E5%B1%B1%E6%9E%B6%E6%9E%84)
+1. [兰香如故](https://www.zhihu.com/search?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85)
+1. [上5休1上5休3上3休7](https://www.zhihu.com/search?q=%E4%B8%8A5%E4%BC%911%E4%B8%8A5%E4%BC%913%E4%B8%8A3%E4%BC%917)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [华为高层内部万字长文曝光](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E9%AB%98%E5%B1%82%E5%86%85%E9%83%A8%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E6%9B%9D%E5%85%89)
 1. [野人先生首度发声感谢支持](https://www.zhihu.com/search?q=%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0%E6%84%9F%E8%B0%A2%E6%94%AF%E6%8C%81)
