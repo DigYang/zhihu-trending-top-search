@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 20 2026 06:02:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 20 2026 08:33:36 GMT+0800 (China Standard Time) -->
 
 1. [天赋到底是什么东西](https://www.zhihu.com/search?q=%E5%A4%A9%E8%B5%8B%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
