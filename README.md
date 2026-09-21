@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 21 2026 06:53:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 21 2026 08:45:44 GMT+0800 (China Standard Time) -->
 
 1. [亚运会](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [法考成绩](https://www.zhihu.com/search?q=%E6%B3%95%E8%80%83%E6%88%90%E7%BB%A9)
