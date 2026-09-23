@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 23 2026 06:38:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 23 2026 09:09:37 GMT+0800 (China Standard Time) -->
 
 1. [亚运会](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [央视中秋晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A)
