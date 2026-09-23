@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 23 2026 15:10:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 23 2026 21:14:37 GMT+0800 (China Standard Time) -->
 
+1. [王者荣耀新赛季](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3)
+1. [Prada大秀](https://www.zhihu.com/search?q=Prada%E5%A4%A7%E7%A7%80)
+1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=%E3%80%8C%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E5%89%A7)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [警察是怎么靠细节破案的](https://www.zhihu.com/search?q=%E8%AD%A6%E5%AF%9F%E6%98%AF%E6%80%8E%E4%B9%88%E9%9D%A0%E7%BB%86%E8%8A%82%E7%A0%B4%E6%A1%88%E7%9A%84)
+1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%92%8CAI%E5%AF%B9%E8%AF%9D)
+1. [怎样最大程度延长自己的寿命](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E5%BB%B6%E9%95%BF%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%BF%E5%91%BD)
+1. [张展硕1500米自由泳夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E5%B1%95%E7%A1%951500%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E5%A4%BA%E5%86%A0)
+1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
+1. [休斯顿火箭](https://www.zhihu.com/search?q=%E4%BC%91%E6%96%AF%E9%A1%BF%E7%81%AB%E7%AE%AD)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [问界将由赛力斯主导](https://www.zhihu.com/search?q=%E9%97%AE%E7%95%8C%E5%B0%86%E7%94%B1%E8%B5%9B%E5%8A%9B%E6%96%AF%E4%B8%BB%E5%AF%BC)
 1. [西贝被曝将彻底倒闭](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E8%A2%AB%E6%9B%9D%E5%B0%86%E5%BD%BB%E5%BA%95%E5%80%92%E9%97%AD)
