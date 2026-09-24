@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 24 2026 08:15:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 24 2026 13:45:53 GMT+0800 (China Standard Time) -->
 
+1. [中国U23男足晋级亚运8强](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%908%E5%BC%BA)
+1. [亚运会蒙古国游泳选手身材臃肿](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%92%99%E5%8F%A4%E5%9B%BD%E6%B8%B8%E6%B3%B3%E9%80%89%E6%89%8B%E8%BA%AB%E6%9D%90%E8%87%83%E8%82%BF)
+1. [古偶剧名 锦月星梦排列组合](https://www.zhihu.com/search?q=%E5%8F%A4%E5%81%B6%E5%89%A7%E5%90%8D%20%E9%94%A6%E6%9C%88%E6%98%9F%E6%A2%A6%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88)
+1. [前OpenAI研究员发布Jev模型](https://www.zhihu.com/search?q=%E5%89%8DOpenAI%E7%A0%94%E7%A9%B6%E5%91%98%E5%8F%91%E5%B8%83Jev%E6%A8%A1%E5%9E%8B)
+1. [《生化危机：爆发夜》确认引进](https://www.zhihu.com/search?q=%E3%80%8A%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%EF%BC%9A%E7%88%86%E5%8F%91%E5%A4%9C%E3%80%8B%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B)
+1. [理记炮轰罗永浩](https://www.zhihu.com/search?q=%E7%90%86%E8%AE%B0%E7%82%AE%E8%BD%B0%E7%BD%97%E6%B0%B8%E6%B5%A9)
+1. [张家齐看到妈妈出丑后冷笑](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E7%9C%8B%E5%88%B0%E5%A6%88%E5%A6%88%E5%87%BA%E4%B8%91%E5%90%8E%E5%86%B7%E7%AC%91)
+1. [张家齐妈妈给她买项链当礼物却没给她](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E7%BB%99%E5%A5%B9%E4%B9%B0%E9%A1%B9%E9%93%BE%E5%BD%93%E7%A4%BC%E7%89%A9%E5%8D%B4%E6%B2%A1%E7%BB%99%E5%A5%B9)
+1. [曝患者因医疗纠纷向产科医生扔粪便](https://www.zhihu.com/search?q=%E6%9B%9D%E6%82%A3%E8%80%85%E5%9B%A0%E5%8C%BB%E7%96%97%E7%BA%A0%E7%BA%B7%E5%90%91%E4%BA%A7%E7%A7%91%E5%8C%BB%E7%94%9F%E6%89%94%E7%B2%AA%E4%BE%BF)
+1. [潮州市住建局回应 5 公里路面 500 井盖](https://www.zhihu.com/search?q=%E6%BD%AE%E5%B7%9E%E5%B8%82%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%94%205%20%E5%85%AC%E9%87%8C%E8%B7%AF%E9%9D%A2%20500%20%E4%BA%95%E7%9B%96)
 1. [王者荣耀新赛季](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3)
 1. [Prada大秀](https://www.zhihu.com/search?q=Prada%E5%A4%A7%E7%A7%80)
 1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=%E3%80%8C%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E5%89%A7)
