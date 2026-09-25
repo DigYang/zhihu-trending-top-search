@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 26 2026 04:59:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 26 2026 07:54:21 GMT+0800 (China Standard Time) -->
 
 1. [央视中秋晚会节目单](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95)
 1. [美债收益率飙升](https://www.zhihu.com/search?q=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E9%A3%99%E5%8D%87)
@@ -25,6 +25,7 @@
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
 1. [管维佳曝男篮球员抱怨郭士强](https://www.zhihu.com/search?q=%E7%AE%A1%E7%BB%B4%E4%BD%B3%E6%9B%9D%E7%94%B7%E7%AF%AE%E7%90%83%E5%91%98%E6%8A%B1%E6%80%A8%E9%83%AD%E5%A3%AB%E5%BC%BA)
 1. [AMD市值首破1万亿美元](https://www.zhihu.com/search?q=AMD%E5%B8%82%E5%80%BC%E9%A6%96%E7%A0%B41%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
+1. [班主任发准考证致 7 人志愿被改](https://www.zhihu.com/search?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%87%86%E8%80%83%E8%AF%81%E8%87%B4%207%20%E4%BA%BA%E5%BF%97%E6%84%BF%E8%A2%AB%E6%94%B9)
 1. [汪顺亚运会400米混摘铜](https://www.zhihu.com/search?q=%E6%B1%AA%E9%A1%BA%E4%BA%9A%E8%BF%90%E4%BC%9A400%E7%B1%B3%E6%B7%B7%E6%91%98%E9%93%9C)
 
 <!-- END -->
