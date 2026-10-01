@@ -1,5 +1,14 @@
 [
   { "query": "国庆节", "display_query": "国庆节" },
+  { "query": "2026 国庆", "display_query": "2026 国庆" },
+  { "query": "张家齐妈妈公开念家书批评女儿", "display_query": "张家齐妈妈公开念家书批评女儿" },
+  { "query": "张家齐妈妈原谅张家齐了", "display_query": "张家齐妈妈原谅张家齐了" },
+  { "query": "樊振东 3-0 格拉尔多", "display_query": "樊振东 3-0 格拉尔多" },
+  { "query": "王楚钦 vs 林诗栋", "display_query": "王楚钦 vs 林诗栋" },
+  { "query": " 陈冠希吴彦祖王祖贤复出", "display_query": " 陈冠希吴彦祖王祖贤复出" },
+  { "query": "教练没有把家书给张家齐", "display_query": "教练没有把家书给张家齐" },
+  { "query": "山姆回应面包吃出蛆虫已十倍赔付", "display_query": "山姆回应面包吃出蛆虫已十倍赔付" },
+  { "query": "林诗栋 4-0 王楚钦夺金", "display_query": "林诗栋 4-0 王楚钦夺金" },
   { "query": "你都见过哪些不动声色的善良", "display_query": "你都见过哪些不动声色的善良" },
   { "query": "飞天奖", "display_query": "飞天奖" },
   { "query": "金鹰奖", "display_query": "金鹰奖" },
@@ -10,6 +19,5 @@
   { "query": "为什么长期主义者都很厉害", "display_query": "为什么长期主义者都很厉害" },
   { "query": "为什么物理学走向了场论", "display_query": "为什么物理学走向了场论" },
   { "query": "Dior大秀", "display_query": "Dior大秀" },
-  { "query": "星舰完成第14次试飞意味什么", "display_query": "星舰完成第14次试飞意味什么" },
-  { "query": "林诗栋 4-0 王楚钦夺金", "display_query": "林诗栋 4-0 王楚钦夺金" }
+  { "query": "星舰完成第14次试飞意味什么", "display_query": "星舰完成第14次试飞意味什么" }
 ]
