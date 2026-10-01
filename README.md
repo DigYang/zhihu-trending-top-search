@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 01 2026 05:10:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 01 2026 09:00:30 GMT+0800 (China Standard Time) -->
 
+1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E9%83%BD%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
 1. [飞天奖](https://www.zhihu.com/search?q=%E9%A3%9E%E5%A4%A9%E5%A5%96)
 1. [金鹰奖](https://www.zhihu.com/search?q=%E9%87%91%E9%B9%B0%E5%A5%96)
