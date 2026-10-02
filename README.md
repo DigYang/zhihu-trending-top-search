@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 03 2026 02:53:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 03 2026 06:45:28 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [赛力斯](https://www.zhihu.com/search?q=%E8%B5%9B%E5%8A%9B%E6%96%AF)
