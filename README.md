@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 03 2026 15:27:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 03 2026 20:57:17 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
+1. [披荆斩棘四公](https://www.zhihu.com/search?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%9B%9B%E5%85%AC)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
-1. [陈冠希吴彦祖王祖贤复出](https://www.zhihu.com/search?q=%20%E9%99%88%E5%86%A0%E5%B8%8C%E5%90%B4%E5%BD%A6%E7%A5%96%E7%8E%8B%E7%A5%96%E8%B4%A4%E5%A4%8D%E5%87%BA)
 1. [张家齐被问直播赚多少钱算够](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%A2%AB%E9%97%AE%E7%9B%B4%E6%92%AD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%E7%AE%97%E5%A4%9F)
-1. [DeepSeek 年化营收破 10 亿美元](https://www.zhihu.com/search?q=DeepSeek%20%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6%E7%A0%B4%2010%20%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [AI 抽卡出重大成果论文署名归属](https://www.zhihu.com/search?q=AI%20%E6%8A%BD%E5%8D%A1%E5%87%BA%E9%87%8D%E5%A4%A7%E6%88%90%E6%9E%9C%E8%AE%BA%E6%96%87%E7%BD%B2%E5%90%8D%E5%BD%92%E5%B1%9E)
+1. [易会满被公诉](https://www.zhihu.com/search?q=%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%85%AC%E8%AF%89)
 1. [迪拜航空客机发疑似劫机警报](https://www.zhihu.com/search?q=%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E5%8F%91%E7%96%91%E4%BC%BC%E5%8A%AB%E6%9C%BA%E8%AD%A6%E6%8A%A5)
-1. [文春曝张本智和私生活](https://www.zhihu.com/search?q=%E6%96%87%E6%98%A5%E6%9B%9D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%A7%81%E7%94%9F%E6%B4%BB)
 1. [C罗官宣离开国家队集训](https://www.zhihu.com/search?q=C%E7%BD%97%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD)
 1. [国庆假期](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F)
+1. [陈冠希吴彦祖王祖贤复出](https://www.zhihu.com/search?q=%20%E9%99%88%E5%86%A0%E5%B8%8C%E5%90%B4%E5%BD%A6%E7%A5%96%E7%8E%8B%E7%A5%96%E8%B4%A4%E5%A4%8D%E5%87%BA)
+1. [DeepSeek 年化营收破 10 亿美元](https://www.zhihu.com/search?q=DeepSeek%20%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6%E7%A0%B4%2010%20%E4%BA%BF%E7%BE%8E%E5%85%83)
+1. [文春曝张本智和私生活](https://www.zhihu.com/search?q=%E6%96%87%E6%98%A5%E6%9B%9D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%A7%81%E7%94%9F%E6%B4%BB)
 1. [热苏斯回应4比2丹麦](https://www.zhihu.com/search?q=%E7%83%AD%E8%8B%8F%E6%96%AF%E5%9B%9E%E5%BA%944%E6%AF%942%E4%B8%B9%E9%BA%A6)
 1. [赛力斯](https://www.zhihu.com/search?q=%E8%B5%9B%E5%8A%9B%E6%96%AF)
 1. [武契奇宣布辞职](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
