@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 04 2026 03:44:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 04 2026 06:38:38 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [披荆斩棘四公](https://www.zhihu.com/search?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%9B%9B%E5%85%AC)
