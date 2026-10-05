@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 06 2026 01:43:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 06 2026 07:35:53 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [伊朗格什姆岛防空系统启动](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8)
