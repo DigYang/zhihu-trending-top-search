@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 06 2026 07:35:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 06 2026 12:25:02 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
+1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E9%A2%84%E6%B5%8B)
 1. [伊朗格什姆岛防空系统启动](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
 1. [充电至 80% 必须离场](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E8%87%B3%2080%25%20%E5%BF%85%E9%A1%BB%E7%A6%BB%E5%9C%BA)
