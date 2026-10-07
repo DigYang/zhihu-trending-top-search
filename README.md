@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 07 2026 09:58:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 07 2026 16:18:16 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [韦世豪被红牌罚下](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B)
 1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E9%A2%84%E6%B5%8B)
-1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
 1. [邵佳一 国足](https://www.zhihu.com/search?q=%E9%82%B5%E4%BD%B3%E4%B8%80%20%E5%9B%BD%E8%B6%B3)
 1. [国足0比5惨败却让小将接受采访](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E5%8D%B4%E8%AE%A9%E5%B0%8F%E5%B0%86%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF)
 1. [派拉蒙与华纳兄弟探索将正式合并更名](https://www.zhihu.com/search?q=%E6%B4%BE%E6%8B%89%E8%92%99%E4%B8%8E%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F%E6%8E%A2%E7%B4%A2%E5%B0%86%E6%AD%A3%E5%BC%8F%E5%90%88%E5%B9%B6%E6%9B%B4%E5%90%8D)
 1. [李昊两扑点球](https://www.zhihu.com/search?q=%E6%9D%8E%E6%98%8A%E4%B8%A4%E6%89%91%E7%82%B9%E7%90%83)
 1. [李昊扑出两个点球](https://www.zhihu.com/search?q=%E6%9D%8E%E6%98%8A%E6%89%91%E5%87%BA%E4%B8%A4%E4%B8%AA%E7%82%B9%E7%90%83)
+1. [苹果手机突发网络故障](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%AA%81%E5%8F%91%E7%BD%91%E7%BB%9C%E6%95%85%E9%9A%9C)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 
 <!-- END -->
 
