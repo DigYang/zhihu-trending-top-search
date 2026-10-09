@@ -1,15 +1,22 @@
 [
+  { "query": "国庆节", "display_query": "国庆节" },
+  { "query": "韦世豪被红牌罚下", "display_query": "韦世豪被红牌罚下" },
+  { "query": "勇士vs开拓者", "display_query": "勇士vs开拓者" },
+  { "query": "诺贝尔物理学奖预测", "display_query": "诺贝尔物理学奖预测" },
+  { "query": "王艺迪 2-4 张本美和", "display_query": "王艺迪 2-4 张本美和" },
+  { "query": "2026德玛西亚杯国际邀请赛", "display_query": "2026德玛西亚杯国际邀请赛" },
+  { "query": "2026 国庆", "display_query": "2026 国庆" },
+  { "query": "网传俄实验室发生鼠疫泄漏", "display_query": "网传俄实验室发生鼠疫泄漏" },
+  { "query": "祁连县文旅局免费安置游客", "display_query": "祁连县文旅局免费安置游客" },
+  { "query": "《生化危机：爆发夜》热映", "display_query": "《生化危机：爆发夜》热映" },
   { "query": "缅北电诈窝点距口岸200米", "display_query": "缅北电诈窝点距口岸200米" },
   { "query": "海贼王1195话", "display_query": "海贼王1195话" },
   { "query": "全国秋粮收获过四成", "display_query": "全国秋粮收获过四成" },
   { "query": "今日寒露", "display_query": "今日寒露" },
-  { "query": "韦世豪被红牌罚下", "display_query": "韦世豪被红牌罚下" },
   { "query": "郑钦文晋级中网八强", "display_query": "郑钦文晋级中网八强" },
   { "query": "雷霆vs雄鹿", "display_query": "雷霆vs雄鹿" },
   { "query": "节后综合征", "display_query": "节后综合征" },
   { "query": "开拓者VS勇士", "display_query": "开拓者VS勇士" },
   { "query": "节后第1个工作日", "display_query": "节后第1个工作日" },
-  { "query": "国庆节", "display_query": "国庆节" },
-  { "query": "三大指数开盘涨跌不一", "display_query": "三大指数开盘涨跌不一" },
-  { "query": "诺贝尔物理学奖预测", "display_query": "诺贝尔物理学奖预测" }
+  { "query": "三大指数开盘涨跌不一", "display_query": "三大指数开盘涨跌不一" }
 ]
