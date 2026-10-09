@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 09 2026 05:43:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 09 2026 09:39:03 GMT+0800 (China Standard Time) -->
 
-1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
-1. [三大指数开盘涨跌不一](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%BC%80%E7%9B%98%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80)
+1. [缅北电诈窝点距口岸200米](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E7%AA%9D%E7%82%B9%E8%B7%9D%E5%8F%A3%E5%B2%B8200%E7%B1%B3)
+1. [海贼王1195话](https://www.zhihu.com/search?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B1195%E8%AF%9D)
 1. [全国秋粮收获过四成](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%87%E5%9B%9B%E6%88%90)
 1. [今日寒露](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%AF%92%E9%9C%B2)
 1. [韦世豪被红牌罚下](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B)
 1. [郑钦文晋级中网八强](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7%E4%B8%AD%E7%BD%91%E5%85%AB%E5%BC%BA)
 1. [雷霆vs雄鹿](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E9%9B%84%E9%B9%BF)
 1. [节后综合征](https://www.zhihu.com/search?q=%E8%8A%82%E5%90%8E%E7%BB%BC%E5%90%88%E5%BE%81)
-1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E9%A2%84%E6%B5%8B)
 1. [开拓者VS勇士](https://www.zhihu.com/search?q=%E5%BC%80%E6%8B%93%E8%80%85VS%E5%8B%87%E5%A3%AB)
+1. [节后第1个工作日](https://www.zhihu.com/search?q=%E8%8A%82%E5%90%8E%E7%AC%AC1%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5)
+1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
+1. [三大指数开盘涨跌不一](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%BC%80%E7%9B%98%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80)
+1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E9%A2%84%E6%B5%8B)
 
 <!-- END -->
 
