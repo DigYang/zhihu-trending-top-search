@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 11 2026 02:10:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 11 2026 06:09:05 GMT+0800 (China Standard Time) -->
 
 1. [中超联赛](https://www.zhihu.com/search?q=%E4%B8%AD%E8%B6%85%E8%81%94%E8%B5%9B)
 1. [你好星期六](https://www.zhihu.com/search?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD)
