@@ -14,16 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 11 2026 16:09:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 11 2026 23:15:57 GMT+0800 (China Standard Time) -->
 
-1. [王曼昱vs张本美和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
+1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [王曼昱vs佐藤瞳](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E4%BD%90%E8%97%A4%E7%9E%B3)
 1. [王艺迪 2-4 张本美和](https://www.zhihu.com/search?q=%E7%8E%8B%E8%89%BA%E8%BF%AA%202-4%20%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
+1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
+1. [纪录片《缅北电诈覆灭纪实》首播](https://www.zhihu.com/search?q=%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A6%86%E7%81%AD%E7%BA%AA%E5%AE%9E%E3%80%8B%E9%A6%96%E6%92%AD)
+1. [尊界V800刹车踏板支架断裂](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8CV800%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
+1. [保时捷回归燃油车](https://www.zhihu.com/search?q=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%9B%9E%E5%BD%92%E7%87%83%E6%B2%B9%E8%BD%A6)
+1. [2026 诺贝尔文学奖](https://www.zhihu.com/search?q=2026%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96)
+1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
+1. [薄肌理论](https://www.zhihu.com/search?q=%E8%96%84%E8%82%8C%E7%90%86%E8%AE%BA)
+1. [王曼昱vs张本美和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
 1. [2026 诺贝尔生理学或医学奖](https://www.zhihu.com/search?q=2026%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96)
 1. [卡尔·戴塞洛斯等三位学者获 2026 诺贝尔奖](https://www.zhihu.com/search?q=%E5%8D%A1%E5%B0%94%C2%B7%E6%88%B4%E5%A1%9E%E6%B4%9B%E6%96%AF%E7%AD%89%E4%B8%89%E4%BD%8D%E5%AD%A6%E8%80%85%E8%8E%B7%202026%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96)
 1. [卡尔·戴塞洛斯等三位学者因光遗传学获奖](https://www.zhihu.com/search?q=%E5%8D%A1%E5%B0%94%C2%B7%E6%88%B4%E5%A1%9E%E6%B4%9B%E6%96%AF%E7%AD%89%E4%B8%89%E4%BD%8D%E5%AD%A6%E8%80%85%E5%9B%A0%E5%85%89%E9%81%97%E4%BC%A0%E5%AD%A6%E8%8E%B7%E5%A5%96)
 1. [诺贝尔生理学或医学奖颁给光遗传学](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E9%A2%81%E7%BB%99%E5%85%89%E9%81%97%E4%BC%A0%E5%AD%A6)
-1. [纪录片《缅北电诈覆灭纪实》首播](https://www.zhihu.com/search?q=%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A6%86%E7%81%AD%E7%BA%AA%E5%AE%9E%E3%80%8B%E9%A6%96%E6%92%AD)
 1. [阿根廷队长迎来国家队告别战](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%95%BF%E8%BF%8E%E6%9D%A5%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%91%8A%E5%88%AB%E6%88%98)
 1. [阿根廷vs贝宁](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E8%B4%9D%E5%AE%81)
 1. [王仁君获飞天奖优秀男演员奖](https://www.zhihu.com/search?q=%E7%8E%8B%E4%BB%81%E5%90%9B%E8%8E%B7%E9%A3%9E%E5%A4%A9%E5%A5%96%E4%BC%98%E7%A7%80%E7%94%B7%E6%BC%94%E5%91%98%E5%A5%96)
