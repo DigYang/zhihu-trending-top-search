@@ -14,18 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 13 2026 04:45:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 13 2026 10:21:38 GMT+0800 (China Standard Time) -->
 
-1. [地磁暴](https://www.zhihu.com/search?q=%E5%9C%B0%E7%A3%81%E6%9A%B4)
 1. [印度正式申办2036年奥运会](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%AD%A3%E5%BC%8F%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A)
-1. [苏超四强](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%9B%9B%E5%BC%BA)
-1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
-1. [中网](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BD%91)
 1. [尊界V800刹车踏板支架断裂](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8CV800%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
-1. [711关闭印度全部门店](https://www.zhihu.com/search?q=711%E5%85%B3%E9%97%AD%E5%8D%B0%E5%BA%A6%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97)
 1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
 1. [尊界回应刹车踏板支架断裂](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8C%E5%9B%9E%E5%BA%94%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
 1. [OpenAI撤回3项数学研究成果](https://www.zhihu.com/search?q=OpenAI%E6%92%A4%E5%9B%9E3%E9%A1%B9%E6%95%B0%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C)
+1. [OpenAI撤回3篇论文手稿](https://www.zhihu.com/search?q=OpenAI%E6%92%A4%E5%9B%9E3%E7%AF%87%E8%AE%BA%E6%96%87%E6%89%8B%E7%A8%BF)
+1. [村上春树生活作息时间](https://www.zhihu.com/search?q=%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91%E7%94%9F%E6%B4%BB%E4%BD%9C%E6%81%AF%E6%97%B6%E9%97%B4)
+1. [懂车帝称暴力测试是谣言](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E7%A7%B0%E6%9A%B4%E5%8A%9B%E6%B5%8B%E8%AF%95%E6%98%AF%E8%B0%A3%E8%A8%80)
+1. [懂车帝辟谣被立案调查传闻](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E8%BE%9F%E8%B0%A3%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%E4%BC%A0%E9%97%BB)
+1. [永州一局长被举报婚内出轨多人](https://www.zhihu.com/search?q=%E6%B0%B8%E5%B7%9E%E4%B8%80%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA)
+1. [地磁暴](https://www.zhihu.com/search?q=%E5%9C%B0%E7%A3%81%E6%9A%B4)
+1. [苏超四强](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%9B%9B%E5%BC%BA)
+1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
+1. [中网](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BD%91)
+1. [711关闭印度全部门店](https://www.zhihu.com/search?q=711%E5%85%B3%E9%97%AD%E5%8D%B0%E5%BA%A6%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97)
 
 <!-- END -->
 
