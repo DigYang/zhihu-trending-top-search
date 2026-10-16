@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 16 2026 23:06:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 17 2026 03:12:25 GMT+0800 (China Standard Time) -->
 
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek%E5%B4%A9%E4%BA%86)
 1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%A4%B1%E8%B8%AA%E5%89%8D%E6%9B%BE%E8%87%B4%E7%94%B5%E5%A4%9A%E4%BA%BA)
@@ -26,14 +26,6 @@
 1. [懂车帝质疑尊界V800检测结果](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E8%B4%A8%E7%96%91%E5%B0%8A%E7%95%8CV800%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C)
 1. [饶毅曝某华人编辑收费200万帮发论文](https://www.zhihu.com/search?q=%E9%A5%B6%E6%AF%85%E6%9B%9D%E6%9F%90%E5%8D%8E%E4%BA%BA%E7%BC%96%E8%BE%91%E6%94%B6%E8%B4%B9200%E4%B8%87%E5%B8%AE%E5%8F%91%E8%AE%BA%E6%96%87)
 1. [谷歌发布Gemini4Argon](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini4Argon)
-1. [偶像剧扎堆出现「二婚男主」](https://www.zhihu.com/search?q=%E5%81%B6%E5%83%8F%E5%89%A7%E6%89%8E%E5%A0%86%E5%87%BA%E7%8E%B0%E3%80%8C%E4%BA%8C%E5%A9%9A%E7%94%B7%E4%B8%BB%E3%80%8D)
-1. [哈药股份总裁芦传有被立案](https://www.zhihu.com/search?q=%E5%93%88%E8%8D%AF%E8%82%A1%E4%BB%BD%E6%80%BB%E8%A3%81%E8%8A%A6%E4%BC%A0%E6%9C%89%E8%A2%AB%E7%AB%8B%E6%A1%88)
-1. [给字节大模型投毒的实习生开启创业](https://www.zhihu.com/search?q=%E7%BB%99%E5%AD%97%E8%8A%82%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%95%E6%AF%92%E7%9A%84%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%BC%80%E5%90%AF%E5%88%9B%E4%B8%9A)
-1. [患者送1.9元汽水后举报药房人员收礼](https://www.zhihu.com/search?q=%E6%82%A3%E8%80%85%E9%80%811.9%E5%85%83%E6%B1%BD%E6%B0%B4%E5%90%8E%E4%B8%BE%E6%8A%A5%E8%8D%AF%E6%88%BF%E4%BA%BA%E5%91%98%E6%94%B6%E7%A4%BC)
-1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
-1. [独行侠vs鹈鹕](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0vs%E9%B9%88%E9%B9%95)
-1. [雅思考试临时取消仅退考试费](https://www.zhihu.com/search?q=%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E4%B8%B4%E6%97%B6%E5%8F%96%E6%B6%88%E4%BB%85%E9%80%80%E8%80%83%E8%AF%95%E8%B4%B9)
-1. [AI 逆向工程工具 REA 爆火](https://www.zhihu.com/search?q=AI%20%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E5%B7%A5%E5%85%B7%20REA%20%E7%88%86%E7%81%AB)
 
 <!-- END -->
 
