@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 18 2026 07:54:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 18 2026 10:38:46 GMT+0800 (China Standard Time) -->
 
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek%E5%B4%A9%E4%BA%86)
 1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%A4%B1%E8%B8%AA%E5%89%8D%E6%9B%BE%E8%87%B4%E7%94%B5%E5%A4%9A%E4%BA%BA)
