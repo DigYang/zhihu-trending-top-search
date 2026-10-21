@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 22 2026 01:49:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 22 2026 05:07:02 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
 1. [NBA常规赛](https://www.zhihu.com/search?q=NBA%E5%B8%B8%E8%A7%84%E8%B5%9B)
