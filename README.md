@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 23 2026 20:20:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 24 2026 01:38:42 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
 1. [明代运粮为何不走海运](https://www.zhihu.com/search?q=%E6%98%8E%E4%BB%A3%E8%BF%90%E7%B2%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%B5%B0%E6%B5%B7%E8%BF%90)
@@ -25,19 +25,7 @@
 1. [玉簟秋](https://www.zhihu.com/search?q=%E7%8E%89%E7%B0%9F%E7%A7%8B)
 1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=%E4%B8%89%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82%E9%97%AE%E9%A2%98)
 1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8F%AF%E8%B4%B7%E6%AC%BE%E7%BC%B4%E7%A4%BE%E4%BF%9D)
-1. [内娱进入大怀孕时代](https://www.zhihu.com/search?q=%E5%86%85%E5%A8%B1%E8%BF%9B%E5%85%A5%E5%A4%A7%E6%80%80%E5%AD%95%E6%97%B6%E4%BB%A3)
-1. [DeepSeek陈德里开源表态](https://www.zhihu.com/search?q=DeepSeek%E9%99%88%E5%BE%B7%E9%87%8C%E5%BC%80%E6%BA%90%E8%A1%A8%E6%80%81)
-1. [警方称问界汽车事故司机已遇难](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E4%BA%8B%E6%95%85%E5%8F%B8%E6%9C%BA%E5%B7%B2%E9%81%87%E9%9A%BE)
-1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC9%E5%A4%A9%E8%92%B8%E5%8F%914%E4%B8%87%E4%BA%BF)
-1. [潘斌龙新片《杯雪·一战成名》上线](https://www.zhihu.com/search?q=%E6%BD%98%E6%96%8C%E9%BE%99%E6%96%B0%E7%89%87%E3%80%8A%E6%9D%AF%E9%9B%AA%C2%B7%E4%B8%80%E6%88%98%E6%88%90%E5%90%8D%E3%80%8B%E4%B8%8A%E7%BA%BF)
-1. [DeepSeek新模型名登顶最差榜](https://www.zhihu.com/search?q=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%90%8D%E7%99%BB%E9%A1%B6%E6%9C%80%E5%B7%AE%E6%A6%9C)
-1. [法国怎么了](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E6%80%8E%E4%B9%88%E4%BA%86)
-1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
-1. [问界](https://www.zhihu.com/search?q=%E9%97%AE%E7%95%8C)
-1. [大同下雪了](https://www.zhihu.com/search?q=%E5%A4%A7%E5%90%8C%E4%B8%8B%E9%9B%AA%E4%BA%86)
-1. [勇士vs湖人](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%B9%96%E4%BA%BA)
-1. [嫁金钗](https://www.zhihu.com/search?q=%E5%AB%81%E9%87%91%E9%92%97)
-1. [多家学术期刊拒绝AI参与撰稿](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%AD%A6%E6%9C%AF%E6%9C%9F%E5%88%8A%E6%8B%92%E7%BB%9DAI%E5%8F%82%E4%B8%8E%E6%92%B0%E7%A8%BF)
+1. [小天才手表封闭社交被质疑](https://www.zhihu.com/search?q=%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8%E5%B0%81%E9%97%AD%E7%A4%BE%E4%BA%A4%E8%A2%AB%E8%B4%A8%E7%96%91)
 
 <!-- END -->
 
