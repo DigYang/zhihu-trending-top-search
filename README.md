@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 25 2026 03:11:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 25 2026 06:10:51 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
 1. [明代运粮为何不走海运](https://www.zhihu.com/search?q=%E6%98%8E%E4%BB%A3%E8%BF%90%E7%B2%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%B5%B0%E6%B5%B7%E8%BF%90)
@@ -25,6 +25,7 @@
 1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8F%AF%E8%B4%B7%E6%AC%BE%E7%BC%B4%E7%A4%BE%E4%BF%9D)
 1. [法国怎么了](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E6%80%8E%E4%B9%88%E4%BA%86)
 1. [美舰冲闯南沙仙宾礁海域](https://www.zhihu.com/search?q=%E7%BE%8E%E8%88%B0%E5%86%B2%E9%97%AF%E5%8D%97%E6%B2%99%E4%BB%99%E5%AE%BE%E7%A4%81%E6%B5%B7%E5%9F%9F)
+1. [《沙丘3》中国内地定档](https://www.zhihu.com/search?q=%E3%80%8A%E6%B2%99%E4%B8%983%E3%80%8B%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3)
 1. [巴黎圣日耳曼 4-2 巴萨](https://www.zhihu.com/search?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC%204-2%20%E5%B7%B4%E8%90%A8)
 
 <!-- END -->
