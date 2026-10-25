@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 25 2026 18:32:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 25 2026 22:43:08 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
 1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
@@ -24,6 +24,8 @@
 1. [玉簟秋](https://www.zhihu.com/search?q=%E7%8E%89%E7%B0%9F%E7%A7%8B)
 1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=%E4%B8%89%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82%E9%97%AE%E9%A2%98)
 1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8F%AF%E8%B4%B7%E6%AC%BE%E7%BC%B4%E7%A4%BE%E4%BF%9D)
+1. [星巴克将施行消费入座](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%B0%86%E6%96%BD%E8%A1%8C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7)
+1. [宝马员工争着离职](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC%E5%91%98%E5%B7%A5%E4%BA%89%E7%9D%80%E7%A6%BB%E8%81%8C)
 1. [《沙丘3》中国内地定档](https://www.zhihu.com/search?q=%E3%80%8A%E6%B2%99%E4%B8%983%E3%80%8B%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3)
 1. [96岁老人独自乘火车进藏](https://www.zhihu.com/search?q=96%E5%B2%81%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E4%B9%98%E7%81%AB%E8%BD%A6%E8%BF%9B%E8%97%8F)
 1. [原帅登CBA三分榜第六](https://www.zhihu.com/search?q=%E5%8E%9F%E5%B8%85%E7%99%BBCBA%E4%B8%89%E5%88%86%E6%A6%9C%E7%AC%AC%E5%85%AD)
