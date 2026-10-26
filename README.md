@@ -14,17 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 26 2026 10:46:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 26 2026 16:23:26 GMT+0800 (China Standard Time) -->
 
-1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
-1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB%E5%81%9C%E8%BF%90)
-1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=%E4%B8%89%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82%E9%97%AE%E9%A2%98)
-1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8F%AF%E8%B4%B7%E6%AC%BE%E7%BC%B4%E7%A4%BE%E4%BF%9D)
+1. [理发店救助猝死顾客被索赔](https://www.zhihu.com/search?q=%E7%90%86%E5%8F%91%E5%BA%97%E6%95%91%E5%8A%A9%E7%8C%9D%E6%AD%BB%E9%A1%BE%E5%AE%A2%E8%A2%AB%E7%B4%A2%E8%B5%94)
+1. [蒯曼王艺迪亚锦赛女双夺冠](https://www.zhihu.com/search?q=%E8%92%AF%E6%9B%BC%E7%8E%8B%E8%89%BA%E8%BF%AA%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%8F%8C%E5%A4%BA%E5%86%A0)
+1. [法国怎么了](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E6%80%8E%E4%B9%88%E4%BA%86)
+1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer8%E9%81%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD)
+1. [子祺事变](https://www.zhihu.com/search?q=%E5%AD%90%E7%A5%BA%E4%BA%8B%E5%8F%98)
 1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9C%9F%E7%BD%91%E6%B0%91%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%92%E6%80%BC)
 1. [英国拟征收看剧税](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E6%8B%9F%E5%BE%81%E6%94%B6%E7%9C%8B%E5%89%A7%E7%A8%8E)
 1. [懂车帝曾指出问界油路靠前](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E6%9B%BE%E6%8C%87%E5%87%BA%E9%97%AE%E7%95%8C%E6%B2%B9%E8%B7%AF%E9%9D%A0%E5%89%8D)
 1. [广州商学院涨租逼走快递网点](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%95%86%E5%AD%A6%E9%99%A2%E6%B6%A8%E7%A7%9F%E9%80%BC%E8%B5%B0%E5%BF%AB%E9%80%92%E7%BD%91%E7%82%B9)
 1. [人民日报批「一有分歧家长就举报」](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E3%80%8C%E4%B8%80%E6%9C%89%E5%88%86%E6%AD%A7%E5%AE%B6%E9%95%BF%E5%B0%B1%E4%B8%BE%E6%8A%A5%E3%80%8D)
+1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
+1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB%E5%81%9C%E8%BF%90)
+1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=%E4%B8%89%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82%E9%97%AE%E9%A2%98)
+1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8F%AF%E8%B4%B7%E6%AC%BE%E7%BC%B4%E7%A4%BE%E4%BF%9D)
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
 1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
 1. [明代运粮为何不走海运](https://www.zhihu.com/search?q=%E6%98%8E%E4%BB%A3%E8%BF%90%E7%B2%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%B5%B0%E6%B5%B7%E8%BF%90)
