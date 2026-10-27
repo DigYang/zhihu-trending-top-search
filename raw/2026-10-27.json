@@ -1,7 +1,16 @@
 [
+  { "query": "临终者把看到《流浪地球3》作为心愿", "display_query": "临终者把看到《流浪地球3》作为心愿" },
+  { "query": "张雪校招承诺入职一年涨薪20%", "display_query": "张雪校招承诺入职一年涨薪20%" },
+  { "query": "TES战胜G2", "display_query": "TES战胜G2" },
+  { "query": "小城良方", "display_query": "小城良方" },
+  { "query": "横店兴起普通人短剧落地签", "display_query": "横店兴起普通人短剧落地签" },
+  { "query": "Yandex数据中心遭乌袭击停运", "display_query": "Yandex数据中心遭乌袭击停运" },
+  { "query": "玉簟秋", "display_query": "玉簟秋" },
+  { "query": "法国怎么了", "display_query": "法国怎么了" },
+  { "query": "令人心动的offer8遭医学生吐槽", "display_query": "令人心动的offer8遭医学生吐槽" },
+  { "query": "子祺事变", "display_query": "子祺事变" },
   { "query": "高校老师在职读博现状", "display_query": "高校老师在职读博现状" },
   { "query": "市民建议上海地铁增设沪语报站", "display_query": "市民建议上海地铁增设沪语报站" },
-  { "query": "法国怎么了", "display_query": "法国怎么了" },
   { "query": "中土网民爆发大规模互怼", "display_query": "中土网民爆发大规模互怼" },
   { "query": "人民日报批「一有分歧家长就举报」", "display_query": "人民日报批「一有分歧家长就举报」" },
   { "query": "10月23日A股行情", "display_query": "10月23日A股行情" },
@@ -12,9 +21,5 @@
   { "query": "金价大跌", "display_query": "金价大跌" },
   { "query": "森林狼vs猛龙", "display_query": "森林狼vs猛龙" },
   { "query": "DK战胜T1", "display_query": "DK战胜T1" },
-  { "query": "小城良方", "display_query": "小城良方" },
-  { "query": "Yandex数据中心遭乌袭击停运", "display_query": "Yandex数据中心遭乌袭击停运" },
-  { "query": "令人心动的offer8遭医学生吐槽", "display_query": "令人心动的offer8遭医学生吐槽" },
-  { "query": "子祺事变", "display_query": "子祺事变" },
   { "query": "懂车帝曾指出问界油路靠前", "display_query": "懂车帝曾指出问界油路靠前" }
 ]
