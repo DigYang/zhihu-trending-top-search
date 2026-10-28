@@ -1,5 +1,6 @@
 [
   { "query": "金球奖", "display_query": "金球奖" },
+  { "query": "美联储宣布维持利率不变", "display_query": "美联储宣布维持利率不变" },
   { "query": "金价大跌", "display_query": "金价大跌" },
   { "query": "塔图姆绝杀", "display_query": "塔图姆绝杀" },
   { "query": "嫁金钗", "display_query": "嫁金钗" },

@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 29 2026 03:14:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 29 2026 07:48:22 GMT+0800 (China Standard Time) -->
 
 1. [金球奖](https://www.zhihu.com/search?q=%E9%87%91%E7%90%83%E5%A5%96)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
 1. [塔图姆绝杀](https://www.zhihu.com/search?q=%E5%A1%94%E5%9B%BE%E5%A7%86%E7%BB%9D%E6%9D%80)
 1. [嫁金钗](https://www.zhihu.com/search?q=%E5%AB%81%E9%87%91%E9%92%97)
