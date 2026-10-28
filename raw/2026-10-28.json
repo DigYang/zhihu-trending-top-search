@@ -1,6 +1,6 @@
 [
-  { "query": "F1", "display_query": "F1" },
-  { "query": "金价大跌", "display_query": "金价大跌" },
+  { "query": "菲尔兹奖得主因AI改作业只看完成", "display_query": "菲尔兹奖得主因AI改作业只看完成" },
+  { "query": "高校老师在职读博现状", "display_query": "高校老师在职读博现状" },
   { "query": "TES战胜G2", "display_query": "TES战胜G2" },
   { "query": "小城良方", "display_query": "小城良方" },
   { "query": "横店兴起普通人短剧落地签", "display_query": "横店兴起普通人短剧落地签" },
@@ -8,5 +8,7 @@
   { "query": "玉簟秋", "display_query": "玉簟秋" },
   { "query": "法国怎么了", "display_query": "法国怎么了" },
   { "query": "令人心动的offer8遭医学生吐槽", "display_query": "令人心动的offer8遭医学生吐槽" },
-  { "query": "子祺事变", "display_query": "子祺事变" }
+  { "query": "子祺事变", "display_query": "子祺事变" },
+  { "query": "F1", "display_query": "F1" },
+  { "query": "金价大跌", "display_query": "金价大跌" }
 ]
