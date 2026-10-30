@@ -14,10 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 30 2026 06:19:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 30 2026 10:19:52 GMT+0800 (China Standard Time) -->
 
-1. [MacBookPro](https://www.zhihu.com/search?q=MacBookPro)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
+1. [横店兴起普通人短剧落地签](https://www.zhihu.com/search?q=%E6%A8%AA%E5%BA%97%E5%85%B4%E8%B5%B7%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9F%AD%E5%89%A7%E8%90%BD%E5%9C%B0%E7%AD%BE)
+1. [红果短剧日活超爱优腾芒总和](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%97%A5%E6%B4%BB%E8%B6%85%E7%88%B1%E4%BC%98%E8%85%BE%E8%8A%92%E6%80%BB%E5%92%8C)
+1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
+1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
+1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E8%8E%B7%E6%B5%B7%E5%A4%96%E5%AA%92%E4%BD%93%E9%AB%98%E5%88%86%E5%A5%BD%E8%AF%84)
+1. [首部AI院线电影票房遇冷](https://www.zhihu.com/search?q=%E9%A6%96%E9%83%A8AI%E9%99%A2%E7%BA%BF%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E9%81%87%E5%86%B7)
+1. [2026年第70届金球奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E7%AC%AC70%E5%B1%8A%E9%87%91%E7%90%83%E5%A5%96)
+1. [Anthropic公开提交纳斯达克IPO申请](https://www.zhihu.com/search?q=Anthropic%E5%85%AC%E5%BC%80%E6%8F%90%E4%BA%A4%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8BIPO%E7%94%B3%E8%AF%B7)
+1. [苹果发布iPadmini8](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83iPadmini8)
+1. [MacBookPro](https://www.zhihu.com/search?q=MacBookPro)
 1. [独行侠VS雷霆](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0VS%E9%9B%B7%E9%9C%86)
 1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=%E3%80%8C%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E5%89%A7)
 1. [目前你总结出最大的旅行经验](https://www.zhihu.com/search?q=%E7%9B%AE%E5%89%8D%E4%BD%A0%E6%80%BB%E7%BB%93%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%85%E8%A1%8C%E7%BB%8F%E9%AA%8C)
