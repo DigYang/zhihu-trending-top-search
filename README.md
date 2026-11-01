@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 01 2026 06:22:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 01 2026 09:46:08 GMT+0800 (China Standard Time) -->
 
+1. [HLE VS BLG](https://www.zhihu.com/search?q=HLE%20VS%20BLG)
 1. [影之刃零](https://www.zhihu.com/search?q=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6)
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
 1. [全球超八成新船订单涌向中国](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E8%B6%85%E5%85%AB%E6%88%90%E6%96%B0%E8%88%B9%E8%AE%A2%E5%8D%95%E6%B6%8C%E5%90%91%E4%B8%AD%E5%9B%BD)
