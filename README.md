@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 02 2026 04:03:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 02 2026 08:08:03 GMT+0800 (China Standard Time) -->
 
-1. [HLE VS BLG](https://www.zhihu.com/search?q=HLE%20VS%20BLG)
 1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E6%96%B0%E9%A2%86%E5%86%9B%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E6%B5%8B%E8%AF%95)
 1. [影之刃零](https://www.zhihu.com/search?q=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6)
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
@@ -26,6 +25,8 @@
 1. [央视全面叫停涉姆巴佩赛事和广告播出](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E6%B6%89%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%B5%9B%E4%BA%8B%E5%92%8C%E5%B9%BF%E5%91%8A%E6%92%AD%E5%87%BA)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+1. [许飞 厉娜](https://www.zhihu.com/search?q=%E8%AE%B8%E9%A3%9E%20%E5%8E%89%E5%A8%9C)
+1. [HLE VS BLG](https://www.zhihu.com/search?q=HLE%20VS%20BLG)
 
 <!-- END -->
 
