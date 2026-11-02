@@ -14,21 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 02 2026 15:04:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 03 2026 01:41:17 GMT+0800 (China Standard Time) -->
 
+1. [万圣节](https://www.zhihu.com/search?q=%E4%B8%87%E5%9C%A3%E8%8A%82)
+1. [国考](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83)
 1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E6%96%B0%E9%A2%86%E5%86%9B%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E6%B5%8B%E8%AF%95)
-1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer8%E9%81%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD)
-1. [子祺事变](https://www.zhihu.com/search?q=%E5%AD%90%E7%A5%BA%E4%BA%8B%E5%8F%98)
-1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
-1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C)
-1. [蒙牛终止与姆巴佩全部合作](https://www.zhihu.com/search?q=%E8%92%99%E7%89%9B%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%85%A8%E9%83%A8%E5%90%88%E4%BD%9C)
-1. [东鹏解约姆巴佩或无需赔偿](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E8%A7%A3%E7%BA%A6%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%96%E6%97%A0%E9%9C%80%E8%B5%94%E5%81%BF)
-1. [央视全面叫停涉姆巴佩赛事和广告播出](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E6%B6%89%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%B5%9B%E4%BA%8B%E5%92%8C%E5%B9%BF%E5%91%8A%E6%92%AD%E5%87%BA)
-1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
-1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-1. [影之刃零](https://www.zhihu.com/search?q=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6)
-1. [许飞 厉娜](https://www.zhihu.com/search?q=%E8%AE%B8%E9%A3%9E%20%E5%8E%89%E5%A8%9C)
-1. [HLE VS BLG](https://www.zhihu.com/search?q=HLE%20VS%20BLG)
+1. [为什么只有中国发明了皮蛋](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8F%91%E6%98%8E%E4%BA%86%E7%9A%AE%E8%9B%8B)
+1. [大家有什么低成本的爱好](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%8E%E6%88%90%E6%9C%AC%E7%9A%84%E7%88%B1%E5%A5%BD)
+1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E9%81%BF%E5%85%8D%E6%B4%BB%E5%9C%A8%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E4%B9%8B%E4%B8%AD)
+1. [为什么年轻人现在更愿意选择国货](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%8E%B0%E5%9C%A8%E6%9B%B4%E6%84%BF%E6%84%8F%E9%80%89%E6%8B%A9%E5%9B%BD%E8%B4%A7)
+1. [一个人怎样才叫成熟](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%80%8E%E6%A0%B7%E6%89%8D%E5%8F%AB%E6%88%90%E7%86%9F)
+1. [兰香如故](https://www.zhihu.com/search?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85)
+1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB%E5%81%9C%E8%BF%90)
 
 <!-- END -->
 
