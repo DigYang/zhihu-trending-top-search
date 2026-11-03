@@ -1,4 +1,14 @@
 [
+  { "query": "Yandex数据中心遭乌袭击停运", "display_query": "Yandex数据中心遭乌袭击停运" },
+  { "query": "东鹏饮料终止与姆巴佩合作", "display_query": "东鹏饮料终止与姆巴佩合作" },
+  { "query": "蒙牛终止与姆巴佩全部合作", "display_query": "蒙牛终止与姆巴佩全部合作" },
+  { "query": "东鹏解约姆巴佩或无需赔偿", "display_query": "东鹏解约姆巴佩或无需赔偿" },
+  { "query": "央视全面叫停涉姆巴佩赛事和广告播出", "display_query": "央视全面叫停涉姆巴佩赛事和广告播出" },
+  { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
+  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
+  { "query": "姆巴佩道歉", "display_query": "姆巴佩道歉" },
+  { "query": "新生将大体老师头骨当道具摆拍", "display_query": "新生将大体老师头骨当道具摆拍" },
+  { "query": "李亮秦朔辩论「字节时间」", "display_query": "李亮秦朔辩论「字节时间」" },
   { "query": "Token首次摆上双十一货架", "display_query": "Token首次摆上双十一货架" },
   { "query": "大站榜单小说AI味重被吐槽", "display_query": "大站榜单小说AI味重被吐槽" },
   { "query": "丘成桐新领军数学基础测试", "display_query": "丘成桐新领军数学基础测试" },
@@ -8,7 +18,6 @@
   { "query": "为什么年轻人现在更愿意选择国货", "display_query": "为什么年轻人现在更愿意选择国货" },
   { "query": "一个人怎样才叫成熟", "display_query": "一个人怎样才叫成熟" },
   { "query": "兰香如故", "display_query": "兰香如故" },
-  { "query": "Yandex数据中心遭乌袭击停运", "display_query": "Yandex数据中心遭乌袭击停运" },
   { "query": "万圣节", "display_query": "万圣节" },
   { "query": "国考", "display_query": "国考" }
 ]
