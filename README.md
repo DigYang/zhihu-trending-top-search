@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 05 2026 19:46:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 06 2026 03:21:43 GMT+0800 (China Standard Time) -->
 
 1. [GEN 晋级四强](https://www.zhihu.com/search?q=GEN%20%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA)
 1. [原神](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E)
@@ -25,16 +25,7 @@
 1. [GEN战胜LYON](https://www.zhihu.com/search?q=GEN%E6%88%98%E8%83%9CLYON)
 1. [塞尔达传说时之笛](https://www.zhihu.com/search?q=%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%E6%97%B6%E4%B9%8B%E7%AC%9B)
 1. [TES vs iG](https://www.zhihu.com/search?q=TES%20vs%20iG)
-1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB%E5%81%9C%E8%BF%90)
-1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer8%E9%81%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD)
-1. [子祺事变](https://www.zhihu.com/search?q=%E5%AD%90%E7%A5%BA%E4%BA%8B%E5%8F%98)
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
-1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
-1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-1. [李亮秦朔辩论「字节时间」](https://www.zhihu.com/search?q=%E6%9D%8E%E4%BA%AE%E7%A7%A6%E6%9C%94%E8%BE%A9%E8%AE%BA%E3%80%8C%E5%AD%97%E8%8A%82%E6%97%B6%E9%97%B4%E3%80%8D)
-1. [亚冠精英联赛](https://www.zhihu.com/search?q=%E4%BA%9A%E5%86%A0%E7%B2%BE%E8%8B%B1%E8%81%94%E8%B5%9B)
-1. [官方调查副教授发绝笔信后离世](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5%E5%89%AF%E6%95%99%E6%8E%88%E5%8F%91%E7%BB%9D%E7%AC%94%E4%BF%A1%E5%90%8E%E7%A6%BB%E4%B8%96)
-1. [影之刃零能否复刻黑神话销量](https://www.zhihu.com/search?q=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E8%83%BD%E5%90%A6%E5%A4%8D%E5%88%BB%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%94%80%E9%87%8F)
 
 <!-- END -->
 
