@@ -1,15 +1,21 @@
 [
+  { "query": "GEN 晋级四强", "display_query": "GEN 晋级四强" },
+  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  { "query": "黄渤担心遗传父母的阿尔兹海默症", "display_query": "黄渤担心遗传父母的阿尔兹海默症" },
+  { "query": "美股科技股遭遇抛售潮", "display_query": "美股科技股遭遇抛售潮" },
+  { "query": "厉娜许飞友谊破裂谁的错", "display_query": "厉娜许飞友谊破裂谁的错" },
+  { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" },
+  { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
+  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
+  { "query": "王子璇文吉儿关系", "display_query": "王子璇文吉儿关系" },
+  { "query": "OpenAI CEO说最好内存应留给数据中心", "display_query": "OpenAI CEO说最好内存应留给数据中心" },
   { "query": "“三分糖”不等于低糖", "display_query": "“三分糖”不等于低糖" },
   { "query": "英国男子徒步28年回家", "display_query": "英国男子徒步28年回家" },
   { "query": "中国男篮集训名单出炉", "display_query": "中国男篮集训名单出炉" },
   { "query": "美股", "display_query": "美股" },
-  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   { "query": "火箭vs森林狼", "display_query": "火箭vs森林狼" },
-  { "query": "美股科技股遭遇抛售潮", "display_query": "美股科技股遭遇抛售潮" },
   { "query": "GEN战胜LYON", "display_query": "GEN战胜LYON" },
   { "query": "塞尔达传说时之笛", "display_query": "塞尔达传说时之笛" },
   { "query": "TES vs iG", "display_query": "TES vs iG" },
-  { "query": "GEN 晋级四强", "display_query": "GEN 晋级四强" },
-  { "query": "原神", "display_query": "原神" },
-  { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" }
+  { "query": "原神", "display_query": "原神" }
 ]
