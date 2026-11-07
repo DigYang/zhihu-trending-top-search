@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 07 2026 23:20:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 08 2026 03:47:35 GMT+0800 (China Standard Time) -->
 
 1. [谷雨](https://www.zhihu.com/search?q=%E8%B0%B7%E9%9B%A8)
 1. [中国空间站将迎首位外籍航天员](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98)
@@ -26,9 +26,6 @@
 1. [王子璇 文吉儿](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%96%87%E5%90%89%E5%84%BF)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
 1. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
-1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
-1. [王子璇文吉儿关系](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%E6%96%87%E5%90%89%E5%84%BF%E5%85%B3%E7%B3%BB)
-1. [dsh 推出 Creator Mode](https://www.zhihu.com/search?q=dsh%20%E6%8E%A8%E5%87%BA%20Creator%20Mode)
 
 <!-- END -->
 
