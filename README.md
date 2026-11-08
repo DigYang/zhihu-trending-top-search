@@ -14,26 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 08 2026 18:59:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 09 2026 00:58:00 GMT+0800 (China Standard Time) -->
 
-1. [为什么你越安慰孩子越有压力](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E8%B6%8A%E5%AE%89%E6%85%B0%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9C%89%E5%8E%8B%E5%8A%9B)
+1. [谷雨](https://www.zhihu.com/search?q=%E8%B0%B7%E9%9B%A8)
+1. [中国空间站将迎首位外籍航天员](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
-1. [哈工大研究生回长沙卖气球](https://www.zhihu.com/search?q=%E5%93%88%E5%B7%A5%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%9E%E9%95%BF%E6%B2%99%E5%8D%96%E6%B0%94%E7%90%83)
+1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
 1. [王子璇 文吉儿](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%96%87%E5%90%89%E5%84%BF)
 1. [网曝《后会友期》大结局](https://www.zhihu.com/search?q=%E7%BD%91%E6%9B%9D%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-1. [《后会友期》热播](https://www.zhihu.com/search?q=%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E7%83%AD%E6%92%AD)
+1. [字节时间论战](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E6%97%B6%E9%97%B4%E8%AE%BA%E6%88%98)
 1. [卫龙换帅90后余风接棒](https://www.zhihu.com/search?q=%E5%8D%AB%E9%BE%99%E6%8D%A2%E5%B8%8590%E5%90%8E%E4%BD%99%E9%A3%8E%E6%8E%A5%E6%A3%92)
 1. [duanju成专属英文单词](https://www.zhihu.com/search?q=duanju%E6%88%90%E4%B8%93%E5%B1%9E%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D)
-1. [英国男子徒步28年回家](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E5%BE%92%E6%AD%A528%E5%B9%B4%E5%9B%9E%E5%AE%B6)
-1. [王楚钦以赛代练](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BB%A5%E8%B5%9B%E4%BB%A3%E7%BB%83)
-1. [中国空间站将迎首位外籍航天员](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98)
-1. [黄渤担心遗传父母的阿尔兹海默症](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E6%8B%85%E5%BF%83%E9%81%97%E4%BC%A0%E7%88%B6%E6%AF%8D%E7%9A%84%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%87)
-1. [美股科技股遭遇抛售潮](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E9%81%87%E6%8A%9B%E5%94%AE%E6%BD%AE)
-1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
-1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-1. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
-1. [谷雨](https://www.zhihu.com/search?q=%E8%B0%B7%E9%9B%A8)
 
 <!-- END -->
 
