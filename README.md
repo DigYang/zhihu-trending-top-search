@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 11 2026 01:25:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 11 2026 06:43:52 GMT+0800 (China Standard Time) -->
 
 1. [BLG战胜T1](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CT1)
 1. [合肥地震](https://www.zhihu.com/search?q=%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87)
