@@ -1,12 +1,15 @@
 [
-  { "query": "BLG战胜T1", "display_query": "BLG战胜T1" },
-  { "query": "合肥地震", "display_query": "合肥地震" },
-  { "query": "湖人6连胜", "display_query": "湖人6连胜" },
   { "query": "AI 漫剧《持械入宋》热播", "display_query": "AI 漫剧《持械入宋》热播" },
   { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
   { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
   { "query": "小城良方被指医学漏洞百出", "display_query": "小城良方被指医学漏洞百出" },
   { "query": "大体老师骨骼被写轻浮文字", "display_query": "大体老师骨骼被写轻浮文字" },
   { "query": "网曝《后会友期》大结局", "display_query": "网曝《后会友期》大结局" },
-  { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" }
+  { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" },
+  { "query": "腾讯混元发布Hy4正式版", "display_query": "腾讯混元发布Hy4正式版" },
+  { "query": "黄渤自曝今年几乎没戏拍", "display_query": "黄渤自曝今年几乎没戏拍" },
+  { "query": "2499元推不倒指环遭质疑", "display_query": "2499元推不倒指环遭质疑" },
+  { "query": "BLG战胜T1", "display_query": "BLG战胜T1" },
+  { "query": "合肥地震", "display_query": "合肥地震" },
+  { "query": "湖人6连胜", "display_query": "湖人6连胜" }
 ]
