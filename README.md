@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 13 2026 01:50:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 13 2026 07:04:53 GMT+0800 (China Standard Time) -->
 
+1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI%20%E6%BC%AB%E5%89%A7%E3%80%8A%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E3%80%8B%E7%83%AD%E6%92%AD)
 1. [许飞厉娜和好可能性](https://www.zhihu.com/search?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E5%92%8C%E5%A5%BD%E5%8F%AF%E8%83%BD%E6%80%A7)
 1. [大连英博夺得中超冠军](https://www.zhihu.com/search?q=%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9A%E5%A4%BA%E5%BE%97%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B)
 1. [胖东来回应洗发水被指产地造假](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E6%B4%97%E5%8F%91%E6%B0%B4%E8%A2%AB%E6%8C%87%E4%BA%A7%E5%9C%B0%E9%80%A0%E5%81%87)
