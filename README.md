@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 12 2026 02:17:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 12 2026 09:14:38 GMT+0800 (China Standard Time) -->
 
 1. [金鸡百花奖](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E7%99%BE%E8%8A%B1%E5%A5%96)
 1. [金鸡奖](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96)
