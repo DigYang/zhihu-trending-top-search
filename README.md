@@ -14,26 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 13 2026 20:46:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 14 2026 04:13:38 GMT+0800 (China Standard Time) -->
 
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E8%BF%B9%E8%B1%A1%E8%A1%A8%E6%98%8E%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A1%8C%E4%BA%86)
 1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E9%81%BF%E5%85%8D%E6%B4%BB%E5%9C%A8%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E4%B9%8B%E4%B8%AD)
 1. [活塞vs奇才](https://www.zhihu.com/search?q=%E6%B4%BB%E5%A1%9Evs%E5%A5%87%E6%89%8D)
 1. [立场重要还是是非重要](https://www.zhihu.com/search?q=%E7%AB%8B%E5%9C%BA%E9%87%8D%E8%A6%81%E8%BF%98%E6%98%AF%E6%98%AF%E9%9D%9E%E9%87%8D%E8%A6%81)
-1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI%20%E6%BC%AB%E5%89%A7%E3%80%8A%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E3%80%8B%E7%83%AD%E6%92%AD)
 1. [大连英博夺得中超冠军](https://www.zhihu.com/search?q=%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9A%E5%A4%BA%E5%BE%97%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B)
 1. [胖东来回应洗发水被指产地造假](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E6%B4%97%E5%8F%91%E6%B0%B4%E8%A2%AB%E6%8C%87%E4%BA%A7%E5%9C%B0%E9%80%A0%E5%81%87)
 1. [Claude Fable 5.2 发布](https://www.zhihu.com/search?q=Claude%20Fable%205.2%20%E5%8F%91%E5%B8%83)
-1. [路虎起诉比亚迪抄袭](https://www.zhihu.com/search?q=%E8%B7%AF%E8%99%8E%E8%B5%B7%E8%AF%89%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%84%E8%A2%AD)
-1. [许飞厉娜和好可能性](https://www.zhihu.com/search?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E5%92%8C%E5%A5%BD%E5%8F%AF%E8%83%BD%E6%80%A7)
-1. [BLG 3-1 T1](https://www.zhihu.com/search?q=BLG%203-1%20T1)
-1. [S16决赛BLG对战GEN](https://www.zhihu.com/search?q=S16%E5%86%B3%E8%B5%9BBLG%E5%AF%B9%E6%88%98GEN)
-1. [Faker回应不敌BLG止步四强](https://www.zhihu.com/search?q=Faker%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8CBLG%E6%AD%A2%E6%AD%A5%E5%9B%9B%E5%BC%BA)
-1. [曝某新能源车被曝前后轮毂装反](https://www.zhihu.com/search?q=%E6%9B%9D%E6%9F%90%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E6%9B%9D%E5%89%8D%E5%90%8E%E8%BD%AE%E6%AF%82%E8%A3%85%E5%8F%8D)
-1. [男子搬家遭敲诈威胁除非把房子卖了](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%90%AC%E5%AE%B6%E9%81%AD%E6%95%B2%E8%AF%88%E5%A8%81%E8%83%81%E9%99%A4%E9%9D%9E%E6%8A%8A%E6%88%BF%E5%AD%90%E5%8D%96%E4%BA%86)
-1. [商场卫生间照镜子需要先看广告](https://www.zhihu.com/search?q=%E5%95%86%E5%9C%BA%E5%8D%AB%E7%94%9F%E9%97%B4%E7%85%A7%E9%95%9C%E5%AD%90%E9%9C%80%E8%A6%81%E5%85%88%E7%9C%8B%E5%B9%BF%E5%91%8A)
-1. [男子搬家遭敲诈被威胁卖房](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%90%AC%E5%AE%B6%E9%81%AD%E6%95%B2%E8%AF%88%E8%A2%AB%E5%A8%81%E8%83%81%E5%8D%96%E6%88%BF)
+1. [特斯拉10月国内零售8817台](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%8910%E6%9C%88%E5%9B%BD%E5%86%85%E9%9B%B6%E5%94%AE8817%E5%8F%B0)
+1. [特斯拉中国 10 月销量暴跌](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%2010%20%E6%9C%88%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C)
 
 <!-- END -->
 
