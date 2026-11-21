@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 21 2026 19:58:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 22 2026 02:54:11 GMT+0800 (China Standard Time) -->
 
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
@@ -26,11 +26,6 @@
 1. [知乎智能搜索](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2)
 1. [南京零元面馆创始人愿补偿周边商家](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%84%BF%E8%A1%A5%E5%81%BF%E5%91%A8%E8%BE%B9%E5%95%86%E5%AE%B6)
 1. [DeepSeek调整对话上限长度](https://www.zhihu.com/search?q=DeepSeek%E8%B0%83%E6%95%B4%E5%AF%B9%E8%AF%9D%E4%B8%8A%E9%99%90%E9%95%BF%E5%BA%A6)
-1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%A2%AB%E6%8C%87%E5%8C%BB%E5%AD%A6%E6%BC%8F%E6%B4%9E%E7%99%BE%E5%87%BA)
-1. [BLG 3-1 GEN](https://www.zhihu.com/search?q=BLG%203-1%20GEN)
-1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
-1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
-1. [黄仁勋辞任英伟达CEO](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E4%BB%BB%E8%8B%B1%E4%BC%9F%E8%BE%BECEO)
 
 <!-- END -->
 
