@@ -14,23 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 24 2026 14:40:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 25 2026 02:33:13 GMT+0800 (China Standard Time) -->
 
 1. [上海地铁涨价](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%B6%A8%E4%BB%B7)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
 1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%A2%AB%E6%8C%87%E5%8C%BB%E5%AD%A6%E6%BC%8F%E6%B4%9E%E7%99%BE%E5%87%BA)
+1. [后会友期](https://www.zhihu.com/search?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
 1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%85%A8%E6%96%B0%E4%B8%8A%E7%BA%BF)
 1. [黄仁勋辞任英伟达CEO](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E4%BB%BB%E8%8B%B1%E4%BC%9F%E8%BE%BECEO)
 1. [知乎智能搜索skill](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2skill)
 1. [知乎智能搜索](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2)
-1. [南京零元面馆创始人愿补偿周边商家](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%84%BF%E8%A1%A5%E5%81%BF%E5%91%A8%E8%BE%B9%E5%95%86%E5%AE%B6)
-1. [F1](https://www.zhihu.com/search?q=F1)
-1. [国考准考证](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%87%86%E8%80%83%E8%AF%81)
-1. [英伟达被查](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%9F%A5)
-1. [罗小黑战记](https://www.zhihu.com/search?q=%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0)
-1. [三甲医院医生推荐患者去三乙医院](https://www.zhihu.com/search?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E6%8E%A8%E8%8D%90%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%89%E4%B9%99%E5%8C%BB%E9%99%A2)
 
 <!-- END -->
 
