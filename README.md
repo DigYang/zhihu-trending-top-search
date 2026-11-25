@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 25 2026 19:59:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 26 2026 05:26:55 GMT+0800 (China Standard Time) -->
 
 1. [欧冠联赛](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E8%81%94%E8%B5%9B)
 1. [上海地铁涨价](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%B6%A8%E4%BB%B7)
@@ -26,15 +26,6 @@
 1. [上证50指数探底回升收红](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%8150%E6%8C%87%E6%95%B0%E6%8E%A2%E5%BA%95%E5%9B%9E%E5%8D%87%E6%94%B6%E7%BA%A2)
 1. [多所高校推出一分钱早餐](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%8E%A8%E5%87%BA%E4%B8%80%E5%88%86%E9%92%B1%E6%97%A9%E9%A4%90)
 1. [AI证明黎曼猜想](https://www.zhihu.com/search?q=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3)
-1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
-1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%85%A8%E6%96%B0%E4%B8%8A%E7%BA%BF)
-1. [黄仁勋辞任英伟达CEO](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E4%BB%BB%E8%8B%B1%E4%BC%9F%E8%BE%BECEO)
-1. [知乎智能搜索skill](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2skill)
-1. [知乎智能搜索](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2)
-1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%A2%AB%E6%8C%87%E5%8C%BB%E5%AD%A6%E6%BC%8F%E6%B4%9E%E7%99%BE%E5%87%BA)
-1. [后会友期](https://www.zhihu.com/search?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F)
 
 <!-- END -->
 
